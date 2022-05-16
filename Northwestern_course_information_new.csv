@@ -1,0 +1,1362 @@
+,dept/pgm,number,course title,area,class size,date,start time,end time
+0,ANTHRO,213,Human Origins,I,200,MoWeFr,11:00,11:50
+1,ANTHRO,309,Human Osteology,I,20,TuTh,16:00,17:20
+2,ANTHRO,312,Human Population Biology,I,200,MoWeFr,11:00,11:50
+3,ANTHRO,316,Forensic Anthropology,I,20,TuTh,09:00,10:20
+4,ANTHRO,317,Human Evolution,I,100,TuTh,14:00,15:20
+5,ANTHRO,359,The Human Microbiome and Health,I,200,TuTh,11:00,12:20
+6,ASTRON,101,Modern Cosmology,I,50,MoWe,14:00,15:20
+7,ASTRON,102,Milky Way Galaxy,I,50,MoWeFr,14:00,14:50
+8,ASTRON,103,Solar System,I,100,MoWe,14:00,15:20
+9,ASTRON,106,A Brief Journey through the Invisible Universe (taught also as PHYSICS 106),I,20,MoWe,14:00,15:20
+10,ASTRON,111,Introduction to Astrobiology,I,50,MoWeFr,13:00,13:50
+11,ASTRON,120,Highlights of Astronomy,I,50,TuTh,12:00,13:20
+12,ASTRON,220-1,Introduction to Astrophysics I: Life Cycle of Stars and Planets,I,50,MoWe,13:00,14:20
+13,ASTRON,220-2,Introduction to Astrophysics II: Galactic Evolution and Cosmology,I,200,TuTh,10:00,11:20
+14,ASTRON,305,Basics of Radio Astronomy,I,20,TuTh,15:00,14:20
+15,ASTRON,390,Current Topics in Astronomy,I,50,TuTh,10:00,11:20
+16,BIOL SCI,100,Introduction to Biological Sciences at Northwestern (course for participants in Bio&ChemEXCEL),I,50,MoWe,16:00,17:20
+17,BIOL SCI,103,Diversity of Life,I,50,MoWeFr,14:00,14:50
+18,BIOL SCI,104,Plant-People Interactions,I,200,TuTh,11:00,12:20
+19,BIOL SCI,109,The Nature of Plants,I,20,MoWe,13:00,14:20
+20,BIOL SCI,150,Human Genetics,I,20,TuTh,14:00,15:20
+21,BIOL SCI,160,Human Reproduction,I,50,TuTh,08:00,09:20
+22,BIOL SCI,164,Basic Genetics & Evolution,I,200,TuTh,10:00,11:20
+23,BIOL SCI,201,Molecular Biology,I,50,MoWeFr,09:00,09:50
+24,BIOL SCI,202,Cell Biology,I,50,MoWeFr,08:00,08:50
+25,BIOL SCI,203,Genetics and Evolution,I,100,MoWe,09:00,10:20
+26,BIOL SCI,301,Principles of Biochemistry,I,200,MoWe,12:00,13:20
+27,BIOL SCI,307,"Brain Structure, Function, and Evolution",I,200,MoWeFr,10:00,10:50
+28,BIOL SCI,310,Human Physiology,I,20,MoWeFr,11:00,11:50
+29,BIOL SCI,333,Plant-Animal Interactions,I,20,TuTh,13:00,14:20
+30,BIOL SCI,354,Quantitative Analysis of Biology,I,100,MoWeFr,11:00,11:50
+31,BIOL SCI,359,Quantitative Experimentation in Biology,I,100,TuTh,13:00,14:20
+32,BIOL SCI,377,The Human Microbiome,I,100,MoWeFr,16:00,16:50
+33,BIOL SCI,381,Stem Cells and Regengeration,I,20,MoWeFr,15:00,15:50
+34,BIOL SCI,393,Human Genomics,I,50,TuTh,10:00,11:20
+35,CHEM,131,General Chemistry 1,I,50,MoWe,08:00,09:20
+36,CHEM,132,General Chemistry 2,I,100,MoWeFr,16:00,16:50
+37,CHEM,151,Accelerated General Chemistry 1,I,100,TuTh,09:00,10:20
+38,CHEM,152,Accelerated General Chemistry 2,I,50,MoWe,14:00,15:20
+39,CHEM,171,Advanced General Inorganic Chemistry,I,50,MoWeFr,16:00,16:50
+40,CHEM,172,Advanced General Physical Chemistry,I,100,MoWe,08:00,09:20
+41,CHEM,201,Chemistry of Nature & Culture,I,100,MoWeFr,09:00,09:50
+42,CHEM,212-1,Organic Chemistry (primarily for chemistry majors and ISP students),I,50,MoWeFr,11:00,11:50
+43,CHEM,212-2,Organic Chemistry (primarily for chemistry majors and ISP students),I,100,MoWeFr,16:00,16:50
+44,CHEM,212-3,Organic Chemistry (primarily for chemistry majors and ISP students),I,50,TuTh,14:00,15:20
+45,CHEM,215-1,Introductory Organic Chemistry I,I,20,MoWeFr,16:00,16:50
+46,CHEM,215-2,Introductory Organic Chemistry II,I,20,MoWe,16:00,17:20
+47,CHEM,215-3,Advanced Organic Chemistry,I,20,MoWe,16:00,17:20
+48,CHEM,360,Nanopatterning,I,100,MoWeFr,11:00,11:50
+49,CIV ENV,203,Earth in the Anthropocene,I,200,MoWe,12:00,13:20
+50,COG SCI,210,Language & the Brain,I,200,MoWe,09:00,10:20
+51,CSD,112,Scientific Exploration of Communication,I,20,MoWe,08:00,09:20
+52,CSD,202,Neurobiology of Communication,I,100,TuTh,13:00,14:20
+53,CSD,301,Anatomy and Physiology of the Vocal Mechanism,I,200,MoWe,11:00,12:20
+54,CSD,302,Anatomy and Physiology of the Peripheral Hearing Mechanism,I,100,MoWe,16:00,17:20
+55,CSD,303,Brain and Cognition; with PSYCH 327,"I,III",100,MoWeFr,12:00,12:50
+56,CSD,305,Phonetics,"I,III",20,MoWeFr,08:00,08:50
+57,CSD,310,Biological Foundations of Speech and Music,I,100,TuTh,10:00,11:20
+58,CSD,318,Introduction to Audiology,I,200,TuTh,14:00,15:20
+59,EARTH,101,Earth Science for the 21st Century,I,50,MoWe,11:00,12:20
+60,EARTH,105,Climate Catastrophes in Earth History,I,20,TuTh,13:00,14:20
+61,EARTH,106,"The Ocean, The Atmosphere, & Our Climate",I,50,MoWeFr,12:00,12:50
+62,EARTH,114,Evolution & the Scientific Method,I,20,TuTh,13:00,14:20
+63,EARTH,180,Fantasy Worlds - How to Build Your Own Planet,I,20,MoWe,16:00,17:20
+64,EARTH,201,Earth Systems Revealed,I,100,TuTh,15:00,14:20
+65,EARTH,202,Earth's Interior,I,50,TuTh,15:00,14:20
+66,EARTH,203,Earth System History,I,50,TuTh,11:00,12:20
+67,EARTH,300,Earth and Planetary Materials,I,20,MoWeFr,15:00,15:50
+68,EARTH,301,Petrology: Evolution of Crustal and Mantle Rocks,I,20,MoWeFr,14:00,14:50
+69,EARTH,310,Aqueous Geochemistry,I,50,MoWeFr,13:00,13:50
+70,EARTH,314,Organic Geochemistry,I,50,MoWeFr,12:00,12:50
+71,EARTH,323,Seismology & Earth Strucutre,I,100,MoWe,10:00,11:20
+72,EARTH,324,Earthquakes and Tectonics,I,100,TuTh,10:00,11:20
+73,EARTH,340,Physics of Weather and Climate,I,50,MoWeFr,13:00,13:50
+74,EARTH,341,Quaternary Climate Change: Ice Ages to the Age of Oil,I,50,TuTh,15:00,14:20
+75,EARTH,342,Contemporary Energy and Climate Change,I,50,TuTh,09:00,10:20
+76,EARTH,343,Earth System Modeling,I,50,TuTh,12:00,13:20
+77,EARTH,370,Geobiology,I,50,MoWeFr,09:00,09:50
+78,EARTH,371,Biogeochemistry,I,50,MoWeFr,08:00,08:50
+79,ENVR SCI,201,Earth: A Habitable Planet,I,50,MoWe,11:00,12:20
+80,ENVR SCI,202,The Health of the Biosphere,I,200,TuTh,09:00,10:20
+81,ENVR SCI,203,Humans and the Environment,I,20,TuTh,14:00,15:20
+82,GEN LA,280-1,Residence-Linked Seminar - I,I,20,TuTh,09:00,10:20
+83,GEOG,211,World Biogeography,I,100,TuTh,12:00,13:20
+84,GEOG,235,Atmosphere and Climate,I,200,MoWeFr,12:00,12:50
+85,GEOG,341,Principles of Cartography,I,50,TuTh,10:00,11:20
+86,GEOG,343,Geographic Information Systems,I,50,MoWe,09:00,10:20
+87,GBL HLTH,308,Global Health in Human History,"I,IV",200,MoWe,15:00,14:20
+88,ISEN,220,Introduction to Energy Systems for the Twenty-First Century,I,200,TuTh,15:00,14:20
+89,LING,250,Sound Patterns in Human Language,I,100,TuTh,15:00,14:20
+90,LING,350,Fundamentals of Laboratory Phonology,I,100,MoWeFr,15:00,15:50
+91,MATH,327,Mechanics for Mathematicians,"I,II",20,MoWeFr,08:00,08:50
+92,NEUROSCI,202,Cellular and Molecular Neuroscience,I,20,MoWe,11:00,12:20
+93,NEUROSCI,206,Systems and Behavioral Neuroscience,I,50,MoWe,14:00,15:20
+94,NEUROSCI,320,Animal Behavior,I,20,TuTh,14:00,15:20
+95,NEUROSCI,360,Neuroscience of Brain Disorders,I,100,TuTh,13:00,14:20
+96,NEUROSCI,377,Neurobiology of Sensation and Perception,I,50,MoWe,12:00,13:20
+97,PHYSICS,103,Ideas of Physics,I,20,TuTh,16:00,17:20
+98,PHYSICS,105,"Music, Sound, Timbre",I,200,TuTh,16:00,17:20
+99,PHYSICS,106,A Brief Journey through the Invisible Universe (taught also as ASTRON 106),I,50,MoWe,15:00,14:20
+100,PHYSICS,125-1,General Physics for ISP,I,200,TuTh,14:00,15:20
+101,PHYSICS,125-2,General Physics for ISP,I,200,MoWe,13:00,14:20
+102,PHYSICS,125-3,General Physics for ISP,I,100,MoWe,08:00,09:20
+103,PHYSICS,130-1,College Physics,I,100,TuTh,16:00,17:20
+104,PHYSICS,130-2,College Physics,I,20,MoWe,10:00,11:20
+105,PHYSICS,130-3,College Physics,I,50,MoWeFr,12:00,12:50
+106,PHYSICS,135-1,General Physics,I,20,MoWe,15:00,14:20
+107,PHYSICS,135-2,General Physics,I,50,MoWeFr,09:00,09:50
+108,PHYSICS,135-3,General Physics,I,50,TuTh,15:00,14:20
+109,PHYSICS,140-1,Fundamentals of Physics,I,100,MoWe,09:00,10:20
+110,PHYSICS,140-2,Fundamentals of Physics,I,50,MoWe,08:00,09:20
+111,PHYSICS,140-3,Fundamentals of Physics,I,20,TuTh,08:00,09:20
+112,PHYSICS,239,Foundations of Modern Physics,I,100,MoWeFr,15:00,15:50
+113,PHYSICS,312,Scalar and Vector Field Methods in Physics,I,200,MoWe,11:00,12:20
+114,PHYSICS,335,Physics of Magic,I,200,TuTh,15:00,14:20
+115,PHYSICS,357,Optics Laboratory,I,200,MoWeFr,15:00,15:50
+116,PSYCH,221,Introduction to Neuroscience,I,200,MoWeFr,09:00,09:50
+117,PSYCH,320-0,Intermediate Neuroscience,I,50,MoWeFr,08:00,08:50
+118,PSYCH,324,Perception,"I,III",100,MoWe,15:00,14:20
+119,PSYCH,325-0,Selected Topics in Neuroscience and Psychophysiology,I,20,TuTh,09:00,10:20
+120,PSYCH,327,Brain and Cognition; with CSD 303,"I,III",20,TuTh,14:00,15:20
+121,PSYCH,328,Brain Damage & the Mind,"I,III",20,TuTh,12:00,13:20
+122,PSYCH,336,Consciousness,"I,III",200,MoWe,08:00,09:20
+123,PSYCH,374,Human Memory,"I,III",50,MoWeFr,08:00,08:50
+124,PSYCH,378,Images of Cognition,"I,III",20,MoWe,11:00,12:20
+125,PSYCH,379,Neuroscience & Behavior Laboratory,I,50,MoWeFr,10:00,10:50
+126,AF AM ST,215,Introduction to Black Social & Political Life,"III,IV,V",20,MoWe,10:00,11:20
+127,AF AM ST,218,Asian-Black Historical Relations in the U.S.; with ASIAN AM 218,"III,IV",20,TuTh,13:00,14:20
+128,AF AM ST,236,Introduction to African American Studies,III,20,MoWe,09:00,10:20
+129,AF AM ST,250,"Race, Class, & Gender",III,20,MoWeFr,16:00,16:50
+130,AF AM ST,251,The Mixed-Race Experience; with ASIAN AM 251,III,200,MoWeFr,14:00,14:50
+131,AF AM ST,319,"Race, Ethnicity, & the American Constitution","III,V",100,TuTh,08:00,09:20
+132,AF AM ST,320,The Social Meaning of Race,III,20,TuTh,09:00,10:20
+133,AF AM ST,325,Education for Black Liberation,III,100,TuTh,15:00,14:20
+134,AF AM ST,327,Politics of Black Popular Culture,"III,VI",50,MoWeFr,12:00,12:50
+135,AF AM ST,330,Black Women in 20th Century US,"III,IV",50,MoWeFr,12:00,12:50
+136,AF AM ST,334,Gender & Black Masculinity,III,50,TuTh,10:00,11:20
+137,AF AM ST,339,Unsettling Whiteness,"III,IV",200,MoWeFr,16:00,16:50
+138,AF AM ST,342,Comparative Slavery,"III,IV,V",50,MoWe,08:00,09:20
+139,AF AM ST,355,Diaspora Studies,III,20,MoWeFr,15:00,15:50
+140,AF ST,360-SA,"Culture, Language, and Identity in South Africa",III,100,TuTh,15:00,14:20
+141,ANTHRO,211,Culture & Society,III,200,TuTh,13:00,14:20
+142,ANTHRO,215,The Study of Culture Through Language,III,20,MoWeFr,08:00,08:50
+143,ANTHRO,221,Social and Health Inequalities; with SOCIOL 221,III,100,MoWe,12:00,13:20
+144,ANTHRO,235,Language in Asian America; with ASIAN AM 235,III,50,TuTh,14:00,15:20
+145,ANTHRO,240,Anthropology of Money,III,200,MoWe,09:00,10:20
+146,ANTHRO,242,"Porous Borders? Geography, Power and Techniques of Movement",III,100,TuTh,12:00,13:20
+147,ANTHRO,307,Anthropology of Peace,III,50,MoWe,15:00,14:20
+148,ANTHRO,313,Evolutionary Medicine,III,50,MoWe,08:00,09:20
+149,ANTHRO,320,Peoples of Africa,III,50,TuTh,09:00,10:20
+150,ANTHRO,326,Archaeologies of Sustainability and Collapse (with ENVR POL 385),III,100,TuTh,08:00,09:20
+151,ANTHRO,330,Peoples of the World,III,50,MoWeFr,13:00,13:50
+152,ANTHRO,332,The Anthropology of Reproduction,III,100,TuTh,09:00,10:20
+153,ANTHRO,334,The Anthropology of HIV/AIDS,III,20,MoWe,14:00,15:20
+154,ANTHRO,339,Material Culture,III,200,MoWe,14:00,15:20
+155,ANTHRO,341,Economic Anthropology,III,50,MoWe,13:00,14:20
+156,ANTHRO,343,Anthropology of Race,III,200,MoWeFr,16:00,16:50
+157,ANTHRO,353,Shady Business: Informal Economies in Contemporary Capitalism,III,20,MoWeFr,09:00,09:50
+158,ANTHRO,354,Gender & Anthropology,III,50,TuTh,14:00,15:20
+159,ANTHRO,355,Sexualities,III,50,MoWe,11:00,12:20
+160,ANTHRO,358,Primate Behavior and Ecology,III,200,TuTh,12:00,13:20
+161,ANTHRO,360,Language & Culture,III,20,MoWeFr,10:00,10:50
+162,ANTHRO,361,Talk as Social Action,III,50,MoWeFr,16:00,16:50
+163,ANTHRO,365,"Language, Race, and Ethnicity in the U.S.; with ASIAN AM 365",III,20,MoWe,09:00,10:20
+164,ANTHRO,369,Contemporary Immigration to the US,III,200,MoWe,09:00,10:20
+165,ANTHRO,373,Power & Culture in American Cities,III,200,MoWe,09:00,10:20
+166,ANTHRO,376,Socialization,III,50,MoWe,14:00,15:20
+167,ANTHRO,377,Psychological Anthropology,III,20,TuTh,12:00,13:20
+168,ANTHRO,378,Law & Culture,III,20,MoWe,16:00,17:20
+169,ANTHRO,382,Political Ecology (with ENVR POL 384),III,100,MoWe,09:00,10:20
+170,ANTHRO,384,"Traveling While Muslim: Islam, Mobility, and Security after 9/11",III,20,MoWeFr,14:00,14:50
+171,ASIAN AM,203,Topics in Asian American Social and Cultural Analysis,III,200,MoWe,12:00,13:20
+172,ASIAN AM,210,Introduction to Asian American Studies,III,20,TuTh,08:00,09:20
+173,ASIAN AM,218,Asian-Black Historical Relations in the U.S.; with AF AM ST 218,"III,IV",200,MoWe,15:00,14:20
+174,ASIAN AM,225,Contemporary Issues in Asian American Communities,III,20,TuTh,13:00,14:20
+175,ASIAN AM,235,Language in Asian America; with ANTHRO 235,III,50,MoWeFr,11:00,11:50
+176,ASIAN AM,251,The Mixed-Race Experience; with AF AM ST 251,III,100,MoWeFr,10:00,10:50
+177,ASIAN AM,303,Advanced Topics in Social and Cultural Analysis,III,50,MoWeFr,16:00,16:50
+178,ASIAN AM,350,Asian American Religions,"III,V",100,MoWe,10:00,11:20
+179,ASIAN AM,360,"Studies in Race, Gender, and Sexuality",III,200,TuTh,15:00,14:20
+180,ASIAN AM,365,"Language, Race, and Ethnicity in the U.S.; with ANTHRO 365",III,50,MoWeFr,14:00,14:50
+181,ASIAN AM,370,Studies in Diaspora,III,100,MoWeFr,09:00,09:50
+182,BUS INST,303,Leadership in Organizations,III,100,TuTh,15:00,14:20
+183,CFS,387,"Field Studies in Environment, Science, and Sustainability (variable-credit course; 1 unit can count toward distribution requirements)",III,200,TuTh,13:00,14:20
+184,CFS,391,Field Studies in Social Justice (variable-credit course; 1 unit can count toward distribution requirements),III,20,MoWe,15:00,14:20
+185,CFS,392,Field Studies in Public Health (variable-credit course; 1 unit can count toward distribution requirements),III,200,TuTh,08:00,09:20
+186,CFS,393,Field Studies in the Modern Workplace (4-unit course; 1 unit can count toward distribution requirements),"III,IV",50,TuTh,11:00,12:20
+187,CFS,394,Legal Field Studies (4-unit course; 1 unit can count toward distribution requirements),III,20,TuTh,14:00,15:20
+188,CFS,395,Business Field Studies (4-unit course; 1 unit can count toward distribution requirements),III,100,MoWeFr,10:00,10:50
+189,CFS,397,Field Studies in Civic Engagement (variable-credit course; 1 unit can count toward distribution requirements),III,100,MoWeFr,12:00,12:50
+190,CLASSICS,360,Origins of Greek Democracy,"III,IV",50,TuTh,11:00,12:20
+191,COG SCI,110,Introduction to Cognitive Science,III,200,TuTh,16:00,17:20
+192,COG SCI,202,Evaluating Evidence; with POLI SCI 212,III,50,MoWeFr,16:00,16:50
+193,COG SCI,211,"Learning, Representation, & Reasoning",III,100,MoWe,14:00,15:20
+194,COG SCI,245,Presenting Ideas and Data (with PSYCH 245); starting Fall 2022 this will be COG SCI 345,III,200,MoWeFr,13:00,13:50
+195,COG SCI,345,Presenting Ideas and Data (with PSYCH 345); prior to Fall 2022 this was COG SCI 245,III,100,MoWe,08:00,09:20
+196,COMP_SCI,101,"Computer Science: Concepts, Philosophy, and Connections",III,50,MoWeFr,13:00,13:50
+197,CSD,303,Brain and Cognition ; with PSYCH 327,"I,III",50,MoWe,14:00,15:20
+198,CSD,305,Phonetics,"I,III",50,MoWeFr,10:00,10:50
+199,CSD,306,Psychoacoustics,III,200,MoWeFr,08:00,08:50
+200,CSD,309,"Culture, Language, and Learning",III,100,MoWeFr,16:00,16:50
+201,CSD,334,Delivery Systems in Speech and Language Pathology,III,50,MoWeFr,13:00,13:50
+202,CSD,342,Language and Cognition in Atypical Development,III,20,TuTh,12:00,13:20
+203,CSD,373,Introduction to Learning Disabilities,III,20,TuTh,14:00,15:20
+204,CSD,376,Diagnostic & Remedial Approaches for Children with Learning Problems,III,20,MoWeFr,14:00,14:50
+205,CSD,392,Language Development and Usage,III,200,TuTh,11:00,12:20
+206,ECON,201,Introduction to Macroeconomics,III,200,TuTh,14:00,15:20
+207,ECON,202,Introduction to Microeconomics,III,50,MoWeFr,14:00,14:50
+208,ECON,310-1,"Microeconomics, I",III,200,TuTh,12:00,13:20
+209,ECON,311,Macroeconomics,III,20,MoWe,14:00,15:20
+210,ENVR POL,211,Food and Society: An Introduction; with SOCIOL 211,III,50,TuTh,16:00,17:20
+211,ENVR POL,212,Environment and Society; with SOCIOL 212,III,100,MoWe,16:00,17:20
+212,ENVR POL,311,"Food, Politics, and Society; with SOCIOL 311",III,20,TuTh,09:00,10:20
+213,ENVR POL,312,Social Change and the Environment; with SOCIOL 312,III,200,MoWeFr,13:00,13:50
+214,ENVR POL,329,U.S. Environmental Politics (taught with POLI SCI 329),III,50,TuTh,08:00,09:20
+215,ENVR POL,336,"The Climate Crisis, Policies, and Society; with SOCIOL 336",III,20,MoWe,09:00,10:20
+216,ENVR POL,356,Native Americans and Environmental Decision Making; with PSYCH 356,III,20,MoWeFr,14:00,14:50
+217,ENVR POL,360,Animal Law (with LEGAL ST 360),III,200,TuTh,12:00,13:20
+218,ENVR POL,384,Political Ecology (with ANTHRO 382),III,100,MoWeFr,09:00,09:50
+219,ENVR POL,385,Archaeologies of Sustainability and Collapse (with ANTHRO 326),III,50,MoWe,16:00,17:20
+220,GBL HLTH,305,Global Health and Indigenous Medicine,III,200,MoWe,12:00,13:20
+221,GBL HLTH,306,Biomedicine and Culture,III,50,MoWeFr,09:00,09:50
+222,GBL HLTH,307,International Perspectives on Mental Health,III,200,TuTh,15:00,14:20
+223,GBL HLTH,315-SA,Public Health in South Africa,III,20,TuTh,11:00,12:20
+224,GBL HLTH,316-SA,"Development Perspectives on Health in South Africa through Community
+Engagement",III,100,MoWeFr,15:00,15:50
+225,GBL HLTH,320,Qualitative Research Methods in Global Health,III,100,MoWe,10:00,11:20
+226,GBL HLTH,321,War and Public Health,"III,V",200,MoWeFr,10:00,10:50
+227,GBL HLTH,322,Social Determinants of Health,III,200,MoWeFr,13:00,13:50
+228,GBL HLTH,323,Global Health from Policy to Practice,III,50,MoWeFr,14:00,14:50
+229,GBL HLTH,332-SA,Public Health in China,III,100,MoWeFr,11:00,11:50
+230,GBL HLTH,333-SA,Traditional Chinese Medicine,III,100,MoWeFr,11:00,11:50
+231,GEN LA,280-3,Residence-Linked Seminar - III,III,50,MoWe,11:00,12:20
+232,GEOG,240,Economic Geography,III,100,MoWeFr,10:00,10:50
+233,GEOG,312,Geography of Chicago and Its Region,III,100,MoWeFr,10:00,10:50
+234,GEOG,313,North America,III,200,MoWe,13:00,14:20
+235,GEOG,328,The Human Use of The Earth,III,50,TuTh,13:00,14:20
+236,GERMAN,213,"Politics, History, and Culture in 21st Century Germany",III,200,TuTh,09:00,10:20
+237,GNDR ST,220,Sexual Subjects: Introduction to Sexuality Studies,"III,IV",20,MoWe,16:00,17:20
+238,GNDR ST,232,Sexuality and Society; with SOCIOL 232,III,200,MoWe,12:00,13:20
+239,GNDR ST,234,Language and Gender; with LING 223,III,50,TuTh,13:00,14:20
+240,GNDR ST,235,Beyond the Binary: Transgender and Race,III,20,MoWeFr,09:00,09:50
+241,GNDR ST,250,Gender Issues in Science and Health,III,200,MoWe,14:00,15:20
+242,GNDR ST,331,Sociology of Gender and Sexuality,III,50,MoWeFr,16:00,16:50
+243,GNDR ST,332,"Gender, Sexuality, and Health",III,50,MoWeFr,10:00,10:50
+244,GNDR ST,340,"Gender, Sexuality, and the Law (with LEGAL ST 340)","III,IV",100,MoWe,13:00,14:20
+245,GNDR ST,341,Transnational Perspectives on Gender and Sexuality,III,200,MoWeFr,16:00,16:50
+246,GNDR ST,350-3,Research Seminar in Gender and Sexuality Studies,III,100,MoWeFr,10:00,10:50
+247,GNDR ST,351,"Gender, Sexuality, and Public Policy",III,20,MoWeFr,15:00,15:50
+248,GNDR ST,352,"Gender, Sexuality, and Political Theory",III,50,MoWe,08:00,09:20
+249,GNDR ST,353,Gender and Citizenship,III,20,MoWeFr,13:00,13:50
+250,GNDR ST,371,"Gender, Sexuality, and Popular Culture",III,50,MoWeFr,12:00,12:50
+251,HUM,220,"Health, Biomedicine, Culture, and Society ; with SOCIOL 220","III,V",200,TuTh,14:00,15:20
+252,HUM,310-3,Global Humanities Lab,III,100,MoWeFr,09:00,09:50
+253,HUM,325-3,Humanites in the Digital Age,III,200,MoWeFr,11:00,11:50
+254,HUM,370-3,Special Topics in the Humanities,III,200,MoWeFr,13:00,13:50
+255,INTL ST,290,Introductory Topics in International Studies,III,20,MoWe,16:00,17:20
+256,INTL ST,393-0,"Development in the Global Context: Participation, Power, and Social Change (variable credit course; 1 unit can count toward distribution requirements)",III,100,MoWe,12:00,13:20
+257,INTL ST,393-SA,"Development in the Global Context: Participation, Power, and Social Change (variable credit course; 1 unit can count toward distribution requirements)",III,20,MoWeFr,08:00,08:50
+258,IEMS,365,Analytics for Social Good,III,20,MoWe,16:00,17:20
+259,ISEN,210,Introduction to Sustainability: Challenges and Solutions,III,200,TuTh,08:00,09:20
+260,LATINO,201,Introduction to Latina and Latino Studies,"III,IV",50,MoWe,08:00,09:20
+261,LATINO,222,Latina and Latino Youth in U.S. Cities,III,100,MoWeFr,14:00,14:50
+262,LATINO,342,Latina and Latino Social Movements,"III,V",50,TuTh,13:00,14:20
+263,LATINO,392,Topics in Latina and Latino Social and Political Issues,"III,V",50,MoWeFr,12:00,12:50
+264,LEGAL ST,206,Law and Society; with SOCIOL 206,III,20,TuTh,10:00,11:20
+265,LEGAL ST,207,Legal Studies Research Methods; with SOCIOL 227,III,200,MoWe,08:00,09:20
+266,LEGAL ST,308,Sociology of Law; with SOCIOL 318,III,20,TuTh,15:00,14:20
+267,LEGAL ST,315,Corporation in US Law and Culture,III,100,MoWeFr,09:00,09:50
+268,LEGAL ST,330,U.S. Refugee Policy & Localities (with POLI SCI 330),III,50,MoWeFr,12:00,12:50
+269,LEGAL ST,332,Constitutional Law I; with POLI SCI 332,III,20,TuTh,09:00,10:20
+270,LEGAL ST,333,Constitutional Law II; with POLI SCI 333,III,50,MoWe,14:00,15:20
+271,LEGAL ST,340,Gender and the Law (with GNDR ST 340),"III,IV",20,TuTh,08:00,09:20
+272,LEGAL ST,342,International Organizations; with POLI SCI 342,III,50,MoWe,10:00,11:20
+273,LEGAL ST,348,"Race, Politics, and the Law; with SOCIOL 348",III,20,MoWe,16:00,17:20
+274,LEGAL ST,350,Psychology and the Law; with PSYCH 340,III,50,MoWe,10:00,11:20
+275,LEGAL ST,356,Constitutional Challenges in Comparative Perspective (with POLI SCI 356),III,50,TuTh,08:00,09:20
+276,LEGAL ST,360,Animal Law (with ENVR POL 360),III,100,MoWe,12:00,13:20
+277,LEGAL ST,380,Refugee Crises and Human Rights (with POLI SCI 380),III,50,MoWe,14:00,15:20
+278,LEGAL ST,381,Children and the Law; with PSYCH 381,III,100,MoWeFr,14:00,14:50
+279,LING,220,Language and Society,III,50,MoWe,15:00,14:20
+280,LING,223,Language and Gender; with GNDR ST 234,III,20,TuTh,12:00,13:20
+281,LING,312,Experimental Sociolinguistics,III,20,TuTh,09:00,10:20
+282,LING,315,Experimental Approaches to Word Form Processing,III,50,MoWeFr,11:00,11:50
+283,LING,316,Experimental Syntax,III,50,MoWeFr,16:00,16:50
+284,LING,317,Experimental Pragmatics,III,100,MoWe,16:00,17:20
+285,LING,320,Sociolinguistics,III,50,MoWe,16:00,17:20
+286,LING,321,Bilingualism,III,100,TuTh,09:00,10:20
+287,LING,330,Research Methods in Linguistics,III,50,MoWe,13:00,14:20
+288,LING,363,Making a Dictionary: The Northwestern Project; with SLAVIC 322,III,100,MoWe,10:00,11:20
+289,LING,373,Implicature,III,200,MoWeFr,10:00,10:50
+290,MENA,200,"Making the Modern Middle East: Culture, Politics, History","III,VI",200,TuTh,09:00,10:20
+291,MENA,290-3,Introductory Topics in Middle East and North African Studies,III,50,MoWe,13:00,14:20
+292,MENA,390-3,Advanced Topics in  Middle East and North African Studies,III,200,TuTh,15:00,14:20
+293,MMSS,211-1,Social Science Theories & Methods: First Year 1,III,20,MoWeFr,08:00,08:50
+294,MMSS,211-3,Social Science Theories & Methods: First Year 3,III,100,MoWeFr,15:00,15:50
+295,PHIL,225,Minds and Machines,III,50,MoWe,09:00,10:20
+296,PHIL,253,Introduction to the Philosophy of Language,III,50,MoWe,11:00,12:20
+297,POLI SCI,201,Introduction to Political Theory,"III,V",100,MoWe,15:00,14:20
+298,POLI SCI,211,Introduction to Interprative Methods in Political Science,III,20,MoWe,10:00,11:20
+299,POLI SCI,212,Evaluating Evidence; with COG SCI 202,III,100,MoWeFr,14:00,14:50
+300,POLI SCI,220,American Government and Politics,III,100,MoWe,11:00,12:20
+301,POLI SCI,230,Introduction to Law in the Political Arena,III,20,TuTh,15:00,14:20
+302,POLI SCI,240,Introduction to International Relations,III,100,MoWe,15:00,14:20
+303,POLI SCI,250,Introduction to Comparative Politics,III,100,MoWe,13:00,14:20
+304,POLI SCI,306,American Political Thought,"III,IV",50,TuTh,16:00,17:20
+305,POLI SCI,320,The American Presidency,III,100,TuTh,15:00,14:20
+306,POLI SCI,321,Urban Politics,III,50,MoWe,13:00,14:20
+307,POLI SCI,322,Ideas and Institutions in Urban Politics,III,50,MoWeFr,09:00,09:50
+308,POLI SCI,324,Political Parties and Elections,III,50,TuTh,09:00,10:20
+309,POLI SCI,325,Congress and the Legislative Process,III,100,MoWeFr,14:00,14:50
+310,POLI SCI,326,Race and Public Policy,III,100,TuTh,14:00,15:20
+311,POLI SCI,327,African American Politics,III,100,MoWe,11:00,12:20
+312,POLI SCI,329,U.S. Environmental Politics (taught with ENVR POL 329),III,100,MoWeFr,11:00,11:50
+313,POLI SCI,330,U.S. Refugee Policy & Localities (with LEGAL ST 330),III,100,MoWeFr,08:00,08:50
+314,POLI SCI,332,Constitutional Law I; with LEGAL ST 332,III,100,MoWe,11:00,12:20
+315,POLI SCI,333,Constitutional Law II; with LEGAL ST 333,III,20,MoWeFr,11:00,11:50
+316,POLI SCI,334,Latino Politics,III,20,TuTh,10:00,11:20
+317,POLI SCI,335,Political Psychology,III,20,MoWe,16:00,17:20
+318,POLI SCI,336,Immigration Politics and Policy,III,200,MoWeFr,16:00,16:50
+319,POLI SCI,342,International Organizations; with LEGAL ST 342,III,20,MoWeFr,10:00,10:50
+320,POLI SCI,343,Politics of International Law,III,20,MoWeFr,12:00,12:50
+321,POLI SCI,344,U.S. Foreign Policy,III,20,MoWeFr,14:00,14:50
+322,POLI SCI,345,National Security,III,200,MoWeFr,15:00,15:50
+323,POLI SCI,350,Social Movements,III,100,MoWeFr,11:00,11:50
+324,POLI SCI,351,Politics of the Middle East,III,100,TuTh,16:00,17:20
+325,POLI SCI,352,Global Development (co-listed with SOCIOL 317),III,100,TuTh,10:00,11:20
+326,POLI SCI,353,Politics of Latin America,III,100,MoWeFr,08:00,08:50
+327,POLI SCI,354,Politics of Southeast Asia,III,50,MoWe,14:00,15:20
+328,POLI SCI,355,Politics of China,III,50,MoWe,13:00,14:20
+329,POLI SCI,356,Constitutional Challenges in Comparative Perspective (with LEGAL ST 356),III,100,MoWeFr,12:00,12:50
+330,POLI SCI,357-SA,Political Economy of Israel,III,20,MoWe,14:00,15:20
+331,POLI SCI,358-SA,Contemporary South Africa: A Political Economy/Policy Perspective,III,200,MoWe,14:00,15:20
+332,POLI SCI,359,Politics in Africa,III,100,MoWe,13:00,14:20
+333,POLI SCI,361,Democratic Transitions,III,50,TuTh,15:00,14:20
+334,POLI SCI,361-SA,Democratic Transitions,III,50,TuTh,12:00,13:20
+335,POLI SCI,362,Politics of Europe,III,200,MoWe,10:00,11:20
+336,POLI SCI,368,Political Economy of Development,III,100,MoWeFr,08:00,08:50
+337,POLI SCI,369,The Politics of Post-Soviet Russia,III,100,MoWe,15:00,14:20
+338,POLI SCI,372,The Middle East in International Politics,III,200,TuTh,14:00,15:20
+339,POLI SCI,373,Chinese Foreign Policy,III,50,MoWe,12:00,13:20
+340,POLI SCI,374,Politics of Capitalism,III,50,MoWeFr,09:00,09:50
+341,POLI SCI,377,Drugs and Politics,III,20,TuTh,11:00,12:20
+342,POLI SCI,378,America and the World,III,200,MoWe,15:00,14:20
+343,POLI SCI,379-SA,"China in Transition: Ideology, Political Economy, Law, and Relations with the United States",III,100,TuTh,13:00,14:20
+344,POLI SCI,380,Refugee Crises and Human Rights (with LEGAL ST 380),III,100,MoWeFr,12:00,12:50
+345,POLI SCI,381-SA,Political Economy of Contemporary China,III,100,MoWeFr,10:00,10:50
+346,POLI SCI,382,Politics of Religious Diversity,"III,V",100,MoWe,15:00,14:20
+347,POLI SCI,383,War and Change in International Politics,III,20,MoWe,12:00,13:20
+348,POLI SCI,384,International Responses to Mass Atrocities,III,200,TuTh,13:00,14:20
+349,POLI SCI,388,Institutions and Society; with SOCIOL 288,III,200,MoWeFr,12:00,12:50
+350,POLI SCI,389,Understanding Genocide; with SOCIOL 379,III,20,TuTh,11:00,12:20
+351,PSYCH,110,Introduction to Psychology,III,100,TuTh,15:00,14:20
+352,PSYCH,213,Social Psychology,III,20,MoWe,12:00,13:20
+353,PSYCH,215,Psychology of Personality,III,20,TuTh,16:00,17:20
+354,PSYCH,228,Cognitive Psychology,III,200,MoWeFr,14:00,14:50
+355,PSYCH,244,Developmental Psychology,III,100,MoWe,08:00,09:20
+356,PSYCH,245,Presenting Ideas and Data (with COG SCI 245); starting Fall 2022 this will be PSYCH 345,III,200,TuTh,14:00,15:20
+357,PSYCH,248,Health Psychology,III,50,TuTh,12:00,13:20
+358,PSYCH,249,Buddhist Psychology,"III,V",50,MoWeFr,09:00,09:50
+359,PSYCH,303,Psychopathology,III,100,TuTh,14:00,15:20
+360,PSYCH,306,Introduction to Clinical Psychology,III,100,TuTh,10:00,11:20
+361,PSYCH,308,Cognitive Behavior Therapy,III,200,MoWeFr,13:00,13:50
+362,PSYCH,311,Psychology of Attitudes,III,200,MoWeFr,08:00,08:50
+363,PSYCH,313,Relationship Science,III,20,TuTh,15:00,14:20
+364,PSYCH,317,The Holocaust: Psychological Themes & Perspectives,III,20,MoWe,10:00,11:20
+365,PSYCH,324,Perception,"I,III",50,MoWe,13:00,14:20
+366,PSYCH,327,Brain and Cognition; with CSD 303,"I,III",20,TuTh,14:00,15:20
+367,PSYCH,328,Brain Damage & the Mind,"I,III",20,TuTh,12:00,13:20
+368,PSYCH,333,Psychology of Thinking,III,100,MoWe,14:00,15:20
+369,PSYCH,336,Consciousness,"I,III",50,TuTh,08:00,09:20
+370,PSYCH,340,Psychology and Law; with LEGAL ST 350,III,20,MoWe,13:00,14:20
+371,PSYCH,341,Positive Psychology: The Science of Well-Being,III,100,MoWe,13:00,14:20
+372,PSYCH,342,Evolutionary Psychology,III,200,TuTh,15:00,14:20
+373,PSYCH,343,Psychology of Beauty,III,20,MoWe,16:00,17:20
+374,PSYCH,344,Cultural Psychology,III,20,TuTh,08:00,09:20
+375,PSYCH,345,Presenting Ideas and Data (with COG SCI 345); prior to Fall 2022 this was PSYCH 245,III,20,MoWeFr,16:00,16:50
+376,PSYCH,348,Psychology of Sex and Gender Differences,III,100,MoWeFr,08:00,08:50
+377,PSYCH,356,Native Americans and Environmental Decision Making; with ENVR POL 356,III,20,TuTh,13:00,14:20
+378,PSYCH,360,Personality Research,III,200,MoWe,16:00,17:20
+379,PSYCH,364,Social & Personality Development,III,100,MoWe,14:00,15:20
+380,PSYCH,366,Stereotyping and Prejudice,III,100,MoWeFr,08:00,08:50
+381,PSYCH,367,Child Psychopathology,III,200,MoWe,09:00,10:20
+382,PSYCH,369,Psychological Tests and Measures,III,50,MoWeFr,14:00,14:50
+383,PSYCH,370,Cognitive Development,III,20,MoWe,14:00,15:20
+384,PSYCH,372,Language & Cognition,III,20,MoWeFr,13:00,13:50
+385,PSYCH,373,Decision Making,III,50,MoWe,13:00,14:20
+386,PSYCH,374,Human Memory,"I,III",200,MoWe,15:00,14:20
+387,PSYCH,378,Images of Cognition,"I,III",50,TuTh,08:00,09:20
+388,PSYCH,381,Children and the Law; with LEGAL ST 381,III,100,MoWe,13:00,14:20
+389,PSYCH,383,Psychology and Food,III,100,MoWeFr,12:00,12:50
+390,PSYCH,387,Consumer Psychology and Marketing Research,III,50,TuTh,16:00,17:20
+391,SLAVIC,322,Making a Dictionary: The Northwestern Project; with LING 363,III,20,TuTh,08:00,09:20
+392,SOCIOL,110,Introduction to Sociology,III,50,MoWeFr,13:00,13:50
+393,SOCIOL,201,"Social Inequality: Race, Class, and Power",III,50,MoWe,10:00,11:20
+394,SOCIOL,202,Social Problems,III,200,MoWe,15:00,14:20
+395,SOCIOL,206,Law & Society (with LEGAL ST 206),III,50,TuTh,14:00,15:20
+396,SOCIOL,207,Cities in Society,III,100,MoWeFr,16:00,16:50
+397,SOCIOL,208,Race and Society,III,200,TuTh,08:00,09:20
+398,SOCIOL,210,Families and Societies,III,50,MoWe,10:00,11:20
+399,SOCIOL,211,Food and Society: An Introduction; with ENVR POL 211,III,100,TuTh,08:00,09:20
+400,SOCIOL,212,Environment and Society; with ENVR POL 212,III,20,MoWe,12:00,13:20
+401,SOCIOL,215,Economy and Society,III,20,MoWe,10:00,11:20
+402,SOCIOL,216,Gender and Society,III,20,TuTh,13:00,14:20
+403,SOCIOL,217,Global Perspectives on Education,III,20,MoWeFr,13:00,13:50
+404,SOCIOL,218,Education and Inequality: Focus on Chicago,III,100,TuTh,11:00,12:20
+405,SOCIOL,220,"Health, Biomedicine, Culture, and Society; with HUM 220","III,V",20,MoWeFr,12:00,12:50
+406,SOCIOL,221,Social and Health Inequalities; with ANTHRO 221,III,20,TuTh,11:00,12:20
+407,SOCIOL,227,Legal Studies Research Methods; with LEGAL ST 207,III,200,TuTh,13:00,14:20
+408,SOCIOL,232,Sexuality and Society; with GNDR ST 232,III,100,TuTh,14:00,15:20
+409,SOCIOL,276,Introductory Topics in Sociology,III,20,MoWeFr,16:00,16:50
+410,SOCIOL,277,Introduction to Native American Studies,"III, IV",100,MoWeFr,13:00,13:50
+411,SOCIOL,288,Institutions and Society; with POLI SCI 388,III,200,MoWe,09:00,10:20
+412,SOCIOL,301,The City: Urbanization and Urbanism,III,20,TuTh,13:00,14:20
+413,SOCIOL,302,Sociology of Organizations,III,100,MoWeFr,13:00,13:50
+414,SOCIOL,304,The Politics of Racial Knowledge,III,20,MoWeFr,11:00,11:50
+415,SOCIOL,305,Population Dynamics,III,50,MoWe,08:00,09:20
+416,SOCIOL,307,School and Society,III,200,TuTh,12:00,13:20
+417,SOCIOL,308,"Crime, Politics, and Society",III,20,MoWeFr,14:00,14:50
+418,SOCIOL,309,Political Sociology,III,50,TuTh,12:00,13:20
+419,SOCIOL,310,Sociology of the Family,III,100,MoWeFr,13:00,13:50
+420,SOCIOL,311,"Food, Politics, and Society; with ENVR POL 311",III,20,MoWeFr,13:00,13:50
+421,SOCIOL,312,Social Change and the Environment; with ENVR POL 312,III,20,MoWe,16:00,17:20
+422,SOCIOL,314,Sociology of Religion,III,200,MoWeFr,11:00,11:50
+423,SOCIOL,316,Economic Sociology,III,50,MoWe,16:00,17:20
+424,SOCIOL,317,Global Development (co-listed with POLI SCI 352),III,20,TuTh,16:00,17:20
+425,SOCIOL,318,Sociology of Law; taught with LEGAL ST 308,III,50,TuTh,12:00,13:20
+426,SOCIOL,319,Sociology of Science,III,20,TuTh,14:00,15:20
+427,SOCIOL,321,"Numbers, Identity, and Modernity","III,V",200,TuTh,12:00,13:20
+428,SOCIOL,322,Sociology of Immigration,III,50,MoWe,15:00,14:20
+429,SOCIOL,323,American Subcultures and Ethnic Groups,III,50,MoWeFr,15:00,15:50
+430,SOCIOL,324,Global Capitalism,"III,IV",200,MoWe,12:00,13:20
+431,SOCIOL,325,Global and Local Inequalities,III,20,TuTh,13:00,14:20
+432,SOCIOL,327,Youth and Society,III,100,MoWe,10:00,11:20
+433,SOCIOL,328,Inequality and American Society,III,50,MoWe,09:00,10:20
+434,SOCIOL,330,"Law, Markets, and Globalization",III,20,MoWe,09:00,10:20
+435,SOCIOL,331,"Markets, Hierarchies, and Democracies",III,100,MoWe,11:00,12:20
+436,SOCIOL,332,Work and Occupations,III,20,MoWe,11:00,12:20
+437,SOCIOL,334,Social Protest and Social Change Around the World,III,100,MoWe,08:00,09:20
+438,SOCIOL,335,Sociology of Rational Decision Making,III,200,MoWeFr,09:00,09:50
+439,SOCIOL,336,"The Climate Crisis, Policies, and Society; with ENVR POL 336",III,200,TuTh,14:00,15:20
+440,SOCIOL,345,Class and Culture,III,20,MoWeFr,15:00,15:50
+441,SOCIOL,348,"Race, Politics, and the Law; with LEGAL ST 348",III,50,TuTh,09:00,10:20
+442,SOCIOL,350,Sociology of the Arts,III,20,TuTh,11:00,12:20
+443,SOCIOL,355,Medical Sociology,III,20,TuTh,16:00,17:20
+444,SOCIOL,356,Sociology of Gender,III,20,MoWe,14:00,15:20
+445,SOCIOL,379,Understanding Genocide; with POLI SCI 389,III,50,TuTh,14:00,15:20
+446,SOCIOL,392,Seminars,III,50,MoWe,10:00,11:20
+447,SPANISH,363,Topics in U.S. Latina and Latino Literary and Cultural Studies  (Spanish prereq),"III,VI",50,TuTh,14:00,15:20
+448,AF AM ST,212-1,Introduction to African American History; with HISTORY 212-1,IV,200,MoWe,13:00,14:20
+449,AF AM ST,212-2,Introduction to African American History; with HISTORY 212-2,IV,200,TuTh,12:00,13:20
+450,AF AM ST,213,History of the Black World,IV,200,MoWe,12:00,13:20
+451,AF AM ST,214,Comparative Race and Ethnic Studies,IV,100,MoWe,12:00,13:20
+452,AF AM ST,215,Introduction to Black Social & Political Life,"III,IV,V",200,MoWe,08:00,09:20
+453,AF AM ST,218,Asian-Black Historical Relations in the U.S. ;  with ASIAN AM 218,"III,IV",100,MoWeFr,16:00,16:50
+454,AF AM ST,220,Civil Rights & Black Liberation,"IV,V",20,MoWeFr,12:00,12:50
+455,AF AM ST,245,The Black Diaspora & Transnationality,IV,100,TuTh,12:00,13:20
+456,AF AM ST,315,Religion in the Black Atlantic,"IV,V",200,MoWeFr,11:00,11:50
+457,AF AM ST,330,Black Women in 20th-Century,"III,IV",20,MoWeFr,11:00,11:50
+458,AF AM ST,339,Unsettling Whiteness,"III,IV",200,TuTh,11:00,12:20
+459,AF AM ST,342,Comparative Slavery,"III,IV,V",200,MoWe,16:00,17:20
+460,AF AM ST,345,Afro-Latin America,IV,50,TuTh,16:00,17:20
+461,ANTHRO,214,Archaeology: Unearthing History,IV,200,MoWe,16:00,17:20
+462,ANTHRO,311,Indians of North America,IV,50,MoWe,10:00,11:20
+463,ANTHRO,318,Material Worlds of the Middle Ages,IV,200,MoWe,09:00,10:20
+464,ANTHRO,319,"Material Life and Culture in Europe, 1500-1800",IV,100,TuTh,15:00,14:20
+465,ANTHRO,324,Archaeological Survey Methods,IV,200,TuTh,14:00,15:20
+466,ANTHRO,327,Archaeology of Ethnicity in America,IV,200,MoWeFr,09:00,09:50
+467,ANTHRO,328,The Maya,IV,50,TuTh,14:00,15:20
+468,ANTHRO,370,Anthropology in Historical Perspective,IV,50,TuTh,14:00,15:20
+469,ART HIST,210,Introduction to Art History,"IV,VI",200,MoWeFr,16:00,16:50
+470,ART HIST,222,Introduction to Art of the African Diaspora,"IV,VI",50,MoWeFr,14:00,14:50
+471,ART HIST,224,Introduction to Ancient Art,"IV,VI",200,MoWeFr,11:00,11:50
+472,ART HIST,225,Introduction to Medieval Art,"IV,VI",100,TuTh,15:00,14:20
+473,ART HIST,250,Introduction to European Art,"IV,VI",20,MoWeFr,12:00,12:50
+474,ART HIST,255,Introduction to Modernism,"IV,VI",100,MoWe,16:00,17:20
+475,ART HIST,318,"Exhibiting Antiquity: The Culture and Politics of Display; with
+CLASSICS 397 and HUM 397","IV,VI",50,MoWeFr,09:00,09:50
+476,ART HIST,320-1,"Medieval Art, Byzantine","IV,VI",50,TuTh,10:00,11:20
+477,ART HIST,320-3,"Medieval Art, Late Medieval","IV,VI",100,TuTh,15:00,14:20
+478,ART HIST,340-1,"Baroque Art, Southern Europe 1600-1700","IV,VI",100,MoWeFr,16:00,16:50
+479,ART HIST,340-2,"Baroque Art, Northern Europe 1600-1700","IV,VI",100,TuTh,10:00,11:20
+480,ASIAN AM,214,Introduction to Asian American History; with HISTORY 214,IV,20,MoWeFr,12:00,12:50
+481,ASIAN AM,216,Global Asians; with HISTORY 216,IV,20,TuTh,13:00,14:20
+482,ASIAN AM,218,Asian-Black Historical Relations in the U.S.; with AF AM ST 218,"III,IV",20,MoWe,15:00,14:20
+483,ASIAN AM,220,Topics in History,IV,50,MoWe,15:00,14:20
+484,ASIAN AM,304,Asian American Women's History; with HISTORY 304,IV,200,MoWe,08:00,09:20
+485,ASIAN AM,320,Advanced Topics in History,IV,50,TuTh,13:00,14:20
+486,BUS INST,321,Business and Economic Institutions in Historical Perspective,IV,50,TuTh,13:00,14:20
+487,CFS,393,"Field Studies in the Modern Workplace (4-unit course; 1 unit can
+count toward distribution requirements)","III,IV",50,TuTh,08:00,09:20
+488,CLASSICS,210,The World of Homer; with HUM 205,"IV,V,VI",100,MoWeFr,16:00,16:50
+489,CLASSICS,211,Greek History and Culture: From Homer to Alexander the Great,"IV,V,VI",200,TuTh,10:00,11:20
+490,CLASSICS,212,Rome: Culture and Empire,"IV,V,VI",200,TuTh,14:00,15:20
+491,CLASSICS,310,Archaeology of the Ancient Mediterranean,"IV,VI",100,MoWeFr,11:00,11:50
+492,CLASSICS,320,Greek and Roman History,IV,100,TuTh,08:00,09:20
+493,CLASSICS,330,Ancient Economy,IV,20,MoWeFr,09:00,09:50
+494,CLASSICS,360,Origins of Greek Democracy,"III,IV",200,MoWeFr,08:00,08:50
+495,CLASSICS,380,Classical Reception Studies,"IV,VI",100,MoWe,13:00,14:20
+496,CLASSICS,397,"Exhibiting Antiquity: The Culture and Politics of Display; with ART
+HIST 318 and HUM 397","IV,VI",20,TuTh,09:00,10:20
+497,ENGLISH,302,History of the English Language,"IV,VI",50,MoWe,12:00,13:20
+498,ENVR POL,309,American Environmental History; with HISTORY 309,IV,200,MoWeFr,09:00,09:50
+499,ENVR POL,340,Global Environments and World History; with HISTORY 376,IV,200,TuTh,10:00,11:20
+500,GEN LA,280-4,Residence-Linked Seminar - IV,IV,20,TuTh,10:00,11:20
+501,GERMAN,222,German History from 1789-1989,IV,50,MoWe,11:00,12:20
+502,GERMAN,222-SA,German History from 1789-1989,IV,50,TuTh,16:00,17:20
+503,GERMAN,224,Contemporary Germany,IV,50,MoWe,08:00,09:20
+504,GERMAN,230,Berlin and the Culture of Democracy,"IV,VI",100,MoWe,08:00,09:20
+505,GERMAN,234-1,Jews & Germans: An Intercultural History I,"IV,V,VI",50,TuTh,14:00,15:20
+506,GERMAN,234-2,Jews & Germans: An Intercultural History II,"IV,V,VI",200,TuTh,12:00,13:20
+507,GERMAN,248,Learning Diversity: German and Global Migration,IV,200,MoWeFr,16:00,16:50
+508,GERMAN,272,Luther and the West; with RELIGION 272,"IV,V",50,MoWe,09:00,10:20
+509,GERMAN,321-1,"Reason, Revolution, & Despair: 1800-1900 (German prereq)","IV,VI",50,MoWeFr,11:00,11:50
+510,GERMAN,321-2,Myth & Modernity: 1900-1945 (German prereq),"IV,VI",100,MoWeFr,11:00,11:50
+511,GERMAN,321-3,Recoveries & Transitions: 1945 to Present  (German prereq),"IV,VI",200,MoWeFr,13:00,13:50
+512,GERMAN,337,Science and Culture in Germany (German prereq),"IV,V",50,MoWeFr,11:00,11:50
+513,GERMAN,344-1,Weimar and Nazi Germany (taught with HISTORY 344-1),IV,100,MoWeFr,11:00,11:50
+514,GERMAN,344-2,Germany Since 1945 (taught with HISTORY 344-2),IV,50,MoWe,15:00,14:20
+515,GERMAN,349,History of the Holocaust (taught with HISTORY 349),IV,200,TuTh,08:00,09:20
+516,GBL HLTH,308,Global Health in Human History,"I,IV",20,MoWe,08:00,09:20
+517,GBL HLTH,309,Biomedicine and World History; with HISTORY 379,IV,50,MoWeFr,16:00,16:50
+518,GBL HLTH,325,History of Reproductive Health,IV,200,MoWeFr,09:00,09:50
+519,GNDR ST,220,Sexual Subjects: Introduction to Sexuality Studies,"III,IV",50,TuTh,15:00,14:20
+520,GNDR ST,230,Traditions in Feminist Thought,IV,50,TuTh,12:00,13:20
+521,GNDR ST,321,"Gender, Sexuality, and History",IV,20,MoWe,10:00,11:20
+522,GNDR ST,324,U.S. Gay and Lesbian History; with HISTORY 324,IV,200,MoWeFr,14:00,14:50
+523,GNDR ST,340,"Gender, Sexuality, and the Law (with LEGAL ST 340)","III,IV",20,MoWeFr,12:00,12:50
+524,GNDR ST,350-4,Research Seminar in Gender and Sexuality Studies,IV,20,MoWe,14:00,15:20
+525,HISTORY,200,New Introductory Courses in History,IV,100,TuTh,15:00,14:20
+526,HISTORY,201-1,Europe in the Medieval and Early Modern World,IV,100,TuTh,16:00,17:20
+527,HISTORY,201-2,Europe in the Modern World,IV,20,MoWeFr,13:00,13:50
+528,HISTORY,203-1,Jewish History 750-1492,IV,50,MoWeFr,16:00,16:50
+529,HISTORY,203-2,Jewish History 1492-1789,IV,20,MoWe,12:00,13:20
+530,HISTORY,203-3,Jewish History 1789-1948,IV,50,MoWe,11:00,12:20
+531,HISTORY,210-1,"History of the United States, Precolonial to the Civil War",IV,50,TuTh,12:00,13:20
+532,HISTORY,210-2,"History of the United States, Reconstruction to the Present",IV,20,TuTh,13:00,14:20
+533,HISTORY,212-1,Introduction to African American History; with AF AM ST 212-1,IV,50,MoWeFr,15:00,15:50
+534,HISTORY,212-2,Introduction to African American History; with AF AM ST 212-2,IV,50,MoWeFr,08:00,08:50
+535,HISTORY,214,Asian American History; with ASIAN AM 214,IV,200,MoWe,10:00,11:20
+536,HISTORY,216,Global Asians; with ASIAN AM 216,IV,100,MoWeFr,14:00,14:50
+537,HISTORY,218,Latina and Latino History; with LATINO 218,IV,20,MoWe,10:00,11:20
+538,HISTORY,250-1,Global History: Early Modern to Modern Transition,IV,100,TuTh,16:00,17:20
+539,HISTORY,250-2,Global History: The Modern World,IV,20,MoWeFr,14:00,14:50
+540,HISTORY,251,The Politics of Disaster: A Global Environmental History,IV,50,TuTh,12:00,13:20
+541,HISTORY,252,Global History of Refugees,IV,20,MoWe,08:00,09:20
+542,HISTORY,255-1,Background to African Civilization and Culture: Origins to 17th C,IV,100,MoWe,16:00,17:20
+543,HISTORY,255-2,Background to African Civilization and Culture: 16th-19th C,IV,200,MoWe,16:00,17:20
+544,HISTORY,255-3,Background to African Civilization and Culture: 1875-1994,IV,20,TuTh,12:00,13:20
+545,HISTORY,260-1,History of Latin America in the Colonial Period: 1492-1821,IV,100,TuTh,09:00,10:20
+546,HISTORY,260-2,History of Latin America in the Modern Period: 1789-present,IV,20,MoWe,10:00,11:20
+547,HISTORY,261,Sex After Shakespeare,IV,200,MoWe,13:00,14:20
+548,HISTORY,262,"Pirates, Guns, and Empires",IV,200,MoWeFr,09:00,09:50
+549,HISTORY,270,Middle Eastern/Islamic Civilization,IV,100,MoWeFr,11:00,11:50
+550,HISTORY,271-1,History of the Islamic Middle East: 600-1200,IV,200,TuTh,10:00,11:20
+551,HISTORY,271-2,History of the Islamic Middle East: 1200-1789,IV,50,MoWe,08:00,09:20
+552,HISTORY,271-3,History of the Islamic Middle East: 1789-present,IV,20,MoWeFr,08:00,08:50
+553,HISTORY,272,The History of Ancient Egypt (3100-ca. 1000 BCE),IV,50,MoWeFr,11:00,11:50
+554,HISTORY,275-1,History of Early Modern Science and Medicine,IV,50,MoWe,10:00,11:20
+555,HISTORY,275-2,History of Modern Science and Medicine,IV,200,MoWeFr,16:00,16:50
+556,HISTORY,281,Chinese Civilization,IV,100,MoWe,14:00,15:20
+557,HISTORY,282,Sino-American Relations in the Modern World,IV,50,MoWe,13:00,14:20
+558,HISTORY,284-1,"Japanese History, Ancient & Medieval: 200-1600",IV,200,MoWe,08:00,09:20
+559,HISTORY,284-2,"Japanese History, Tokugawa Period: 1600-1868",IV,20,MoWeFr,15:00,15:50
+560,HISTORY,286,World War II in Asia,IV,100,TuTh,16:00,17:20
+561,HISTORY,292,Introduction to Topics in History,IV,200,TuTh,13:00,14:20
+562,HISTORY,300,New Lectures in History,IV,200,MoWe,12:00,13:20
+563,HISTORY,301-SA-1,"New Lectures in History 1 (for BCICS summer study abroad
+programs)",IV,50,MoWe,14:00,15:20
+564,HISTORY,301-SA-2,New Lectures in History 2 (for BCICS summer study abroad programs),IV,20,MoWeFr,13:00,13:50
+565,HISTORY,303-1,"American Women's History, to 1865",IV,20,MoWeFr,16:00,16:50
+566,HISTORY,303-2,"American Women's History, since 1865",IV,20,TuTh,14:00,15:20
+567,HISTORY,304,Asian American Women's History; with ASIAN AM 304,IV,100,TuTh,11:00,12:20
+568,HISTORY,305,American Immigration; with LEGAL ST 305,IV,50,MoWeFr,15:00,15:50
+569,HISTORY,308,The American West,IV,20,TuTh,15:00,14:20
+570,HISTORY,309,American Environmental History; with ENVR POL 309,IV,100,MoWeFr,12:00,12:50
+571,HISTORY,310-1,Early American History: Conquest and Colonization to 1688,IV,20,TuTh,15:00,14:20
+572,HISTORY,310-2,"Early American History: The Age of the American Revolution, 1688-
+1789",IV,20,MoWeFr,15:00,15:50
+573,HISTORY,311,"New Nation: The United States, 1787-1848",IV,50,MoWe,11:00,12:20
+574,HISTORY,314,Civil War and Reconstruction,IV,100,MoWe,10:00,11:20
+575,HISTORY,315-1,The U.S. since 1900: Early 20th C,IV,50,TuTh,12:00,13:20
+576,HISTORY,315-2,The U.S. since 1900: Mid-20th C,IV,200,MoWe,14:00,15:20
+577,HISTORY,315-3,The U.S. since 1900: Late 20th C to Present,IV,200,MoWeFr,13:00,13:50
+578,HISTORY,316,The Sixties,IV,100,MoWe,14:00,15:20
+579,HISTORY,317-1,American Cultural History: 19th C,IV,20,TuTh,15:00,14:20
+580,HISTORY,317-2,American Cultural History: 20th C to Present,IV,200,MoWeFr,12:00,12:50
+581,HISTORY,318-1,Legal & Constitutional History of the U.S.; with LEGAL ST 318-1,IV,20,MoWe,12:00,13:20
+582,HISTORY,318-2,Legal & Constitutional History of the U.S.; with LEGAL ST 318-2,IV,200,MoWe,15:00,14:20
+583,HISTORY,319,History of U.S. Foreign Relations,IV,50,TuTh,16:00,17:20
+584,HISTORY,320,The Fourteenth Amendment; with LEGAL ST 320,IV,200,TuTh,10:00,11:20
+585,HISTORY,321,The Vietnam Wars,IV,50,MoWeFr,12:00,12:50
+586,HISTORY,322-1,Development of the Modern American City: to 1880,IV,200,MoWeFr,11:00,11:50
+587,HISTORY,322-2,Development of the Modern American City: 1880-Present,IV,200,MoWeFr,10:00,10:50
+588,HISTORY,324,U.S. Gay and Lesbian History; with GNDR ST 324,IV,50,MoWe,16:00,17:20
+589,HISTORY,325,History of American Technology,IV,50,TuTh,14:00,15:20
+590,HISTORY,326,U.S. Intellectual History,IV,20,MoWe,11:00,12:20
+591,HISTORY,330,Medieval Sex,IV,100,MoWeFr,15:00,15:50
+592,HISTORY,331,Women in Medieval Society,IV,20,MoWe,13:00,14:20
+593,HISTORY,332-1,The Development of Medieval Europe: Earlty Middle Ages,IV,200,TuTh,14:00,15:20
+594,HISTORY,332-2,The Development of Medieval Europe: High & Late Middle Ages,IV,100,TuTh,16:00,17:20
+595,HISTORY,333,The Age of the Renaissance,IV,50,TuTh,15:00,14:20
+596,HISTORY,334,The Age of the Reformation,IV,200,MoWe,15:00,14:20
+597,HISTORY,336,Spain 1500-1700: Rise and Fall of a European Empire,IV,20,TuTh,13:00,14:20
+598,HISTORY,337,History of Modern Europe,IV,200,TuTh,11:00,12:20
+599,HISTORY,338-1,Europe in the 20th Century: 1900-1945,IV,20,MoWe,12:00,13:20
+600,HISTORY,338-2,Europe in the 20th Century: 1945-present,IV,200,MoWe,10:00,11:20
+601,HISTORY,340,"Gender, War, and Revolution in the 20th Century",IV,100,TuTh,11:00,12:20
+602,HISTORY,341,"Paris: World City, 1700 to the Present",IV,200,MoWe,09:00,10:20
+603,HISTORY,342-1,History of Modern France: Ancien Regime and the French Revolution,IV,20,TuTh,10:00,11:20
+604,HISTORY,342-2,History of Modern France: 19th C. to Present,IV,100,MoWe,09:00,10:20
+605,HISTORY,343,Modern Italy,IV,200,MoWe,09:00,10:20
+606,HISTORY,344-1,Weimar and Nazi Germany (taught with GERMAN 344-1),IV,50,MoWeFr,14:00,14:50
+607,HISTORY,344-2,Germany Since 1945 (taught with GERMAN 344-2),IV,50,MoWeFr,15:00,15:50
+608,HISTORY,345-1,History of Russia: 800-1700,IV,50,MoWe,09:00,10:20
+609,HISTORY,345-2,History of Russia: 1700-1917,IV,100,TuTh,09:00,10:20
+610,HISTORY,345-3,History of Russia: 1917-present,IV,200,TuTh,13:00,14:20
+611,HISTORY,346,"East Central Europe under Communist Rule and Beyond, 1945 to the
+Present",IV,50,TuTh,10:00,11:20
+612,HISTORY,347,Christians and Jews,IV,100,MoWe,11:00,12:20
+613,HISTORY,348-1,"Jews in Poland, Ukraine, and Russia",IV,200,TuTh,10:00,11:20
+614,HISTORY,348-2,"Jews in Poland, Ukraine, and Russia",IV,200,TuTh,09:00,10:20
+615,HISTORY,349,History of the Holocaust (taught with GERMAN 349),IV,200,MoWe,08:00,09:20
+616,HISTORY,352,A Global History of Death and Dying,"IV,V",100,TuTh,11:00,12:20
+617,HISTORY,356-1,"History of South Africa, Earlty Times to 1879",IV,20,TuTh,10:00,11:20
+618,HISTORY,356-2,"History of South Africa, 20th century",IV,50,MoWe,10:00,11:20
+619,HISTORY,357,East Africa,IV,100,TuTh,10:00,11:20
+620,HISTORY,358,Topics in West African History,IV,100,MoWeFr,09:00,09:50
+621,HISTORY,360,Tudor and Stuart Britain,IV,20,MoWeFr,11:00,11:50
+622,HISTORY,362-1,"Modern British History, 1688-1815",IV,50,MoWeFr,10:00,10:50
+623,HISTORY,362-2,"Modern British History, 1780-1900",IV,100,TuTh,14:00,15:20
+624,HISTORY,362-3,"Modern British History, 1900-present",IV,20,MoWeFr,13:00,13:50
+625,HISTORY,364,Gender and Sexuality in Victorian Britain,IV,20,MoWeFr,09:00,09:50
+626,HISTORY,365,Revolutions in Medicine,IV,20,MoWeFr,15:00,15:50
+627,HISTORY,366,Race and Nation in the Independence Era,IV,50,MoWeFr,10:00,10:50
+628,HISTORY,367,History of Modern Brazil,IV,200,MoWeFr,13:00,13:50
+629,HISTORY,368-1,Revolution in 20th-Century Latin America: Mexico and its Revolutions,IV,100,MoWe,10:00,11:20
+630,HISTORY,368-2,Revolution in 20th-Century Latin America: Marxist Revolutions,IV,200,MoWe,13:00,14:20
+631,HISTORY,369,Development and Inequality in Modern Latin America,IV,100,TuTh,16:00,17:20
+632,HISTORY,373-1,"The Ottomans: Last Empire of Islam, 1300-1622",IV,100,MoWe,10:00,11:20
+633,HISTORY,373-2,"The Ottomans: From ""Second Empire"" to the Age of Nationalism,
+1622-1918",IV,200,MoWe,09:00,10:20
+634,HISTORY,376,Global Environments and World History (with ENVR POL 340),IV,100,MoWe,08:00,09:20
+635,HISTORY,378,History of Law and Science,IV,200,MoWe,16:00,17:20
+636,HISTORY,379,Biomedicine and World History (with GBL HLTH 309),IV,100,TuTh,16:00,17:20
+637,HISTORY,381-1,"History of Modern China: Late Imperial China, 1600-1911",IV,100,MoWe,10:00,11:20
+638,HISTORY,381-2,"History of Modern China: Twentieth-Century China, 1911-2000",IV,20,MoWeFr,11:00,11:50
+639,HISTORY,381-3,China in Reform: History of the Present,IV,50,TuTh,16:00,17:20
+640,HISTORY,382,The Modern Japanese City,IV,200,MoWe,09:00,10:20
+641,HISTORY,383,Japan's Modern Revolution,IV,20,TuTh,16:00,17:20
+642,HISTORY,384-1,History of Modern Japan: The Modern State,IV,200,TuTh,11:00,12:20
+643,HISTORY,384-2,History of Modern Japan: War and Postwar Japan,IV,100,MoWeFr,13:00,13:50
+644,HISTORY,385-1,"History of Modern South Asia, 1500-1800",IV,20,MoWeFr,13:00,13:50
+645,HISTORY,385-2,"History of Modern South Asia, ca.1750-present",IV,200,MoWeFr,13:00,13:50
+646,HISTORY,386-2,History of Modern Southeast Asia Until 1945,IV,50,MoWe,16:00,17:20
+647,HISTORY,386-3,History of Contemporary Southeast Asia Since 1945,IV,20,MoWeFr,15:00,15:50
+648,HISTORY,393,Approaches to History,IV,50,TuTh,14:00,15:20
+649,HISTORY,395,Research Seminar,IV,20,TuTh,12:00,13:20
+650,HUM,205,The World of Homer; with CLASSICS 210,"IV,V,VI",200,MoWe,12:00,13:20
+651,HUM,211,Humanities in the World II,IV,100,TuTh,08:00,09:20
+652,HUM,310-4,Global Humanites Lab,IV,50,MoWe,13:00,14:20
+653,HUM,325-4,Humanites in the Digital Age,IV,20,TuTh,16:00,17:20
+654,HUM,370-4,Special Topics in the Humanities,IV,20,TuTh,12:00,13:20
+655,HUM,397,"Exhibiting Antiquity: The Culture and Politics of Display; with ART
+HIST 318 and CLASSICS 397","IV,VI",200,TuTh,13:00,14:20
+656,ITALIAN,265,Body & Soul from Rome to the Renaissance,"IV,VI",20,TuTh,10:00,11:20
+657,ITALIAN,270,Michelangelo and the Italian Renaissance,"IV,VI",200,TuTh,13:00,14:20
+658,JWSH ST,280-4,Topics in Israel Studies,IV,20,MoWe,13:00,14:20
+659,LATINO,201,Introduction to Latina and Latino Studies,"III,IV",100,MoWeFr,12:00,12:50
+660,LATINO,218,Latina and Latino History; with HISTORY 218,IV,200,TuTh,09:00,10:20
+661,LATINO,391,Topics in Latina and Latino History,IV,50,MoWeFr,12:00,12:50
+662,LEGAL ST,305,American Immigration; with HISTORY 305,IV,20,MoWeFr,12:00,12:50
+663,LEGAL ST,318-1,Legal & Constitutional History of the U.S.; with HISTORY 318-1,IV,200,TuTh,13:00,14:20
+664,LEGAL ST,318-2,Legal & Constitutional History of the U.S.; with HISTORY 318-2,IV,50,MoWe,13:00,14:20
+665,LEGAL ST,320,The Fourteenth Amendment; with HISTORY 320,IV,100,MoWeFr,09:00,09:50
+666,LEGAL ST,340,Gender and the Law (with GNDR ST 340),"III,IV",50,MoWe,16:00,17:20
+667,LEGAL ST,347,Comparative Race and Ethnicity,IV,100,MoWeFr,11:00,11:50
+668,LING,222,"Language, Politics, and Identity (with SLAVIC 222)",IV & V,50,MoWeFr,09:00,09:50
+669,MENA,290-4,Introductory Topics in Middle East and North African Studies,IV,50,TuTh,13:00,14:20
+670,MENA,390-4,Advanced Topics in  Middle East and North African Studies,IV,50,TuTh,10:00,11:20
+671,POLI SCI,301,Classical Political Theory,"IV,V",100,MoWe,10:00,11:20
+672,POLI SCI,302,"Subjects, Citizens, Revolutionaries: Early Modern Political Thought","IV,V",100,MoWe,10:00,11:20
+673,POLI SCI,306,American Political Thought,"III,IV",200,MoWeFr,08:00,08:50
+674,POLI SCI,346,European Union in International Affairs,IV,50,MoWeFr,15:00,15:50
+675,PORT,210,"Icons, Legends, and Myths in Brazil  (may have Portuguese prereq)","IV,VI",100,TuTh,09:00,10:20
+676,RELIGION,264,American Religious History from 1865 to the Great Depression,"IV, V",50,MoWe,08:00,09:20
+677,RELIGION,265,American Religious History from World War II to the Present,"IV, V",50,TuTh,12:00,13:20
+678,RELIGION,272,Luther and the West; with GERMAN 272,"IV,V",200,TuTh,10:00,11:20
+679,RELIGION,363,Topics in Women and Religion in America,"IV, V",50,MoWe,14:00,15:20
+680,RELIGION,381,Global Catholicism in the Contemporary World,"IV,V",100,TuTh,09:00,10:20
+681,RELIGION,385,Topics in U.S. Catholicism,"IV,V",20,MoWe,16:00,17:20
+682,RELIGION,386,Topics in Latin American Catholicism,"IV,V",200,MoWeFr,11:00,11:50
+683,RTVF,310,Television History,IV,100,TuTh,12:00,13:20
+684,SLAVIC,222,"Language, Politics, and Identity (with LING 222)",IV & V,200,MoWeFr,11:00,11:50
+685,SLAVIC,255,Slavic Civilizations,IV,20,MoWeFr,12:00,12:50
+686,SLAVIC,255-SA,Slavic Civilizations,IV,20,MoWeFr,16:00,16:50
+687,SLAVIC,261,Heart of Europe: Poland in the 20th Century,IV,50,MoWeFr,16:00,16:50
+688,SLAVIC,390,Literature and Politics in Central and Eastern Europe,"IV,VI",50,MoWeFr,14:00,14:50
+689,SLAVIC,393,"Prague: City of Cultures, City of Conflict","IV,VI",200,MoWeFr,15:00,15:50
+690,SOCIOL,277,Introduction to Native American Studies,"III,IV",200,TuTh,15:00,14:20
+691,SOCIOL,324,Global Capitalism,"III,IV",200,TuTh,16:00,17:20
+692,AF AM ST,215,Introduction to Black Social & Political Life,"III,IV,V",20,MoWe,13:00,14:20
+693,AF AM ST,220,Civil Rights and Black Liberation,"IV,V",200,TuTh,12:00,13:20
+694,AF AM ST,310,Contemporary Asian/Black Relations; with ASIAN AM 310,V,20,MoWe,16:00,17:20
+695,AF AM ST,315,Religion in the Black Atlantic,"IV,V",100,MoWeFr,09:00,09:50
+696,AF AM ST,319,"Race, Ethnicity, and the American Constitution","III,V",50,MoWe,10:00,11:20
+697,AF AM ST,342,Comparative Slavery,"III,IV,V",50,TuTh,13:00,14:20
+698,ANTHRO,232,Myth and Symbolism,V,20,MoWeFr,16:00,16:50
+699,ANTHRO,255,Contemporary African Worlds,V,100,MoWeFr,13:00,13:50
+700,ANTHRO,350,Anthropology of Religion,V,20,MoWe,16:00,17:20
+701,ANTHRO,351,Hope and Futurity,V,20,MoWe,16:00,17:20
+702,ANTHRO,368,Latina and Latino Ethnography,V,100,MoWeFr,11:00,11:50
+703,ASIAN AM,310,Contemporary Asian/Black Relations; with AF AM ST 310,V,20,MoWeFr,10:00,10:50
+704,ASIAN AM,350,Asian American Religions,"III,V",20,MoWe,12:00,13:20
+705,CLASSICS,210,The World of Homer; with HUM 205,"IV,V,VI",20,MoWe,08:00,09:20
+706,CLASSICS,211,Greek History and Culture: From Homer to Alexander the Great,"IV,V,VI",50,MoWeFr,08:00,08:50
+707,CLASSICS,212,Rome: Culture and Empire,"IV,V,VI",100,MoWeFr,08:00,08:50
+708,CLASSICS,260,Classical Mythology,"V,VI",200,MoWe,13:00,14:20
+709,CLASSICS,370,Greek and Roman Religion,V,50,MoWe,13:00,14:20
+710,COMP LIT,207,Introduction to Critical Theory; with PHIL 220,V,50,MoWeFr,08:00,08:50
+711,ENGLISH,220,The Bible as Literature,"V,VI",50,TuTh,13:00,14:20
+712,ENGLISH,388,Studies in Literature and Religion,"V,VI",50,MoWe,15:00,14:20
+713,ENVR POL,261,"American Religion, Ecology, and Culture; with RELIGION 261",V,100,MoWeFr,09:00,09:50
+714,FRENCH,277,French Existentialism,"V,VI",100,TuTh,08:00,09:20
+715,GEN LA,280-5,Residence-Linked Seminar - V,V,50,MoWe,14:00,15:20
+716,GERMAN,232,The Theme of Faust through the Ages,"V,VI",200,TuTh,15:00,14:20
+717,GERMAN,234-1,Jews & Germans: An Intercultural History,"IV,V,VI",50,MoWe,12:00,13:20
+718,GERMAN,234-2,Jews & Germans: An Intercultural History,"IV,V,VI",50,TuTh,09:00,10:20
+719,GERMAN,236,Kafka and Nietzsche,"V,VI",200,MoWe,11:00,12:20
+720,GERMAN,272,Luther and the West; with RELIGION 272,"IV,V",100,TuTh,08:00,09:20
+721,GERMAN,337,Science and Culture in Germany (German prereq.),"IV,V",200,MoWeFr,08:00,08:50
+722,GBL HLTH,302,Global Bioethics,V,50,MoWe,09:00,10:20
+723,GBL HLTH,321,War and Public Health,"III,V",20,TuTh,08:00,09:20
+724,GBL HLTH,324,Volunteerism and the Ethics of Help,V,200,MoWe,08:00,09:20
+725,GNDR ST,233,"Gender, Politics, and Philosophy; with PHIL 221",V,20,MoWeFr,11:00,11:50
+726,HISTORY,352,A Global History of Death and Dying,"IV,V",200,TuTh,15:00,14:20
+727,HUM,205,The World of Homer; with CLASSICS 210,"IV,V,VI",200,MoWeFr,15:00,15:50
+728,HUM,220,"Health, Biomedicine, Culture, and Society; with SOCIOL 220","III,V",100,MoWe,11:00,12:20
+729,HUM,260,Humanities Explorations,"V,VI",20,MoWeFr,09:00,09:50
+730,HUM,310-5,Global Humanites Lab,V,50,MoWe,13:00,14:20
+731,HUM,325-5,Humanites in the Digital Age,V,200,TuTh,16:00,17:20
+732,HUM,370-5,Special Topics in the Humanities,V,20,MoWeFr,12:00,12:50
+733,ISEN,230,"Climate Change and Sustainability: Economic and Ethical
+Dimensions; with PHIL 270",V,20,TuTh,08:00,09:20
+734,JWSH ST,210,Jewish Studies: An Overview,V,50,TuTh,13:00,14:20
+735,JWSH ST,280-5,Topics in Israel Studies,V,50,TuTh,13:00,14:20
+736,LATINO,342,Latina and Latino Social Movements,"III,V",20,TuTh,11:00,12:20
+737,LATINO,392,Topics in Latina and Latino Social and Political Issues,"III,V",50,MoWeFr,13:00,13:50
+738,LEGAL ST,309,Political Theories of the Rule of Law (taught with POLI SCI 309),V,20,MoWe,11:00,12:20
+739,LING,221,Language and Prejudice,V,100,TuTh,11:00,12:20
+740,LING,222,"Language, Politics, and Identity (with SLAVIC 222)","IV, V",200,MoWeFr,16:00,16:50
+741,MENA,290-5,Introductory Topics in Middle East and North African Studies,V,20,MoWe,11:00,12:20
+742,MENA,390-5,Advanced Topics in Middle East and North African Studies,V,200,TuTh,11:00,12:20
+743,PHIL,110,Introduction to Philosophy,V,20,TuTh,10:00,11:20
+744,PHIL,210-1,The History of Philosophy - Ancient,V,100,MoWe,13:00,14:20
+745,PHIL,210-2,The History of Philosophy - Medieval,V,100,MoWeFr,13:00,13:50
+746,PHIL,210-3,The History of Philosophy - Early Modern,V,20,MoWeFr,10:00,10:50
+747,PHIL,216,Introduction to Pragmatism,V,20,MoWe,09:00,10:20
+748,PHIL,219,Introduction to Existentialism,V,50,MoWeFr,16:00,16:50
+749,PHIL,220,Introduction to Critical Theory; with COMP LIT 207,V,200,MoWeFr,12:00,12:50
+750,PHIL,221,"Gender, Politics, and Philosophy (PHIL 230 prior to Fall 2019); with
+GNDR ST 233",V,100,TuTh,12:00,13:20
+751,PHIL,222,Introduction to Africana Philosophy,V,200,MoWeFr,11:00,11:50
+752,PHIL,224,"Philosophy, Race, and Racism (PHIL 267 prior to Fall 2019)",V,50,MoWe,16:00,17:20
+753,PHIL,240,Freedom and Responsibility,V,100,TuTh,15:00,14:20
+754,PHIL,254,Introducton to Philosophy of the Natural Sciences,V,200,MoWe,09:00,10:20
+755,PHIL,255,Theory of Knowledge,V,20,TuTh,11:00,12:20
+756,PHIL,257,Philosophy of the Universe,V,50,MoWe,13:00,14:20
+757,PHIL,259,Introduction to Metaphysics,V,20,MoWe,09:00,10:20
+758,PHIL,260,Introduction to Moral Philosophy,V,20,TuTh,08:00,09:20
+759,PHIL,261,Introduction to Political Philosophy,V,50,TuTh,09:00,10:20
+760,PHIL,262,Ethical Problems and Public Issues,V,20,TuTh,12:00,13:20
+761,PHIL,266,Philosophy of Religion,V,100,MoWe,16:00,17:20
+762,PHIL,268,Ethics and the Environment,V,100,MoWe,13:00,14:20
+763,PHIL,269,Bioethics,V,50,TuTh,14:00,15:20
+764,PHIL,270,"Climate Change and Sustainability: Economic and Ethical
+Dimensions; with ISEN 230",V,50,TuTh,13:00,14:20
+765,PHIL,273-1,The Brady Scholars Program: The Good Life,V,100,MoWe,11:00,12:20
+766,PHIL,273-2,The Brady Scholars Program: The Moral Life,V,20,MoWe,08:00,09:20
+767,PHIL,273-3,The Brady Scholars Program: The Good Society,V,50,MoWe,13:00,14:20
+768,PHIL,326,Topics in Philosophy of Medicine,V,200,MoWe,13:00,14:20
+769,PHIL,363,Kant's Moral Theory,V,200,TuTh,12:00,13:20
+770,PHIL,364,Business and Professional Ethics,V,100,TuTh,09:00,10:20
+771,POLI SCI,201,Introduction to Political Theory,"III,V",100,MoWeFr,08:00,08:50
+772,POLI SCI,301,Classical Political Theory,"IV,V",100,TuTh,10:00,11:20
+773,POLI SCI,302,"Subjects, Citizens, Revolutionaries: Early Modern Political Thought","IV,V",200,TuTh,13:00,14:20
+774,POLI SCI,303,Modernity and Its Discontents,V,200,TuTh,12:00,13:20
+775,POLI SCI,304,Human Rights Between East and West,V,200,MoWeFr,13:00,13:50
+776,POLI SCI,307,Deportation Law and Politics,V,100,MoWe,12:00,13:20
+777,POLI SCI,309,Political Theories of the Rule of Law (taught with LEGAL ST 309),V,100,TuTh,13:00,14:20
+778,POLI SCI,347,Ethics in International Relations,V,50,TuTh,10:00,11:20
+779,POLI SCI,382,Politics of Religious Diversity,"III, V",50,MoWe,13:00,14:20
+780,PSYCH,249,Buddhist Psychology,"III, V",20,MoWeFr,08:00,08:50
+781,RELIGION,170,Introduction to Religion,V,200,TuTh,13:00,14:20
+782,RELIGION,172,"Introduction to Religion, Media, and Culture",V,100,MoWeFr,16:00,16:50
+783,RELIGION,173,"Religion, Medicine, and Suffering in the West",V,20,TuTh,10:00,11:20
+784,RELIGION,200,Introduction to Hinduism,V,20,TuTh,15:00,14:20
+785,RELIGION,210,Introduction to Buddhism,V,50,MoWeFr,13:00,13:50
+786,RELIGION,220,Introduction to the Hebrew Bible,V,200,MoWeFr,16:00,16:50
+787,RELIGION,221,Introduction to the New Testament,V,20,MoWe,15:00,14:20
+788,RELIGION,230,Introduction to Judaism,V,50,TuTh,11:00,12:20
+789,RELIGION,240,Introduction to Christianity,V,100,TuTh,10:00,11:20
+790,RELIGION,250,Introduction to Islam,V,200,TuTh,12:00,13:20
+791,RELIGION,260,Introduction to Native American Religions,V,20,MoWeFr,11:00,11:50
+792,RELIGION,261,"American Religion, Ecology, and Culture; with ENVR POL 261",V,100,MoWe,14:00,15:20
+793,RELIGION,264,American Religious History from 1865 to the Great Depression,"IV,V",200,TuTh,09:00,10:20
+794,RELIGION,265,American Religious History from World War II to the Present,"IV,V",20,MoWeFr,14:00,14:50
+795,RELIGION,270,Introduction to Theology,V,100,MoWe,09:00,10:20
+796,RELIGION,271,Theology of Love,V,100,MoWe,09:00,10:20
+797,RELIGION,272,Luther and the West; with GERMAN 272,"IV,V",200,TuTh,09:00,10:20
+798,RELIGION,275,Mysticism and Spirituality,V,100,TuTh,08:00,09:20
+799,RELIGION,295,Ahimsa: Nonviolence in South Asia and Beyond,V,200,TuTh,16:00,17:20
+800,RELIGION,301,Hindu Epics: the Mahābhārata,"V,VI",100,MoWeFr,10:00,10:50
+801,RELIGION,302,Hindu Epics: Rāmāyaṇa,V,20,TuTh,11:00,12:20
+802,RELIGION,309,Topics in Hinduism,V,200,MoWeFr,13:00,13:50
+803,RELIGION,312,Buddhism and Gender,V,20,MoWe,13:00,14:20
+804,RELIGION,313,Tibetan Religion and Culture,V,20,MoWeFr,10:00,10:50
+805,RELIGION,314,Buddhism in the Contemporary World,V,50,TuTh,11:00,12:20
+806,RELIGION,315,Buddhist Auto/biography,"V,VI",20,MoWeFr,09:00,09:50
+807,RELIGION,316,Religion and the Body in China,V,200,MoWe,09:00,10:20
+808,RELIGION,318,Topics in East Asian Religions,V,200,MoWe,12:00,13:20
+809,RELIGION,319,Topics in Buddhism,V,50,MoWeFr,11:00,11:50
+810,RELIGION,329,Topics in the Bible,V,200,TuTh,12:00,13:20
+811,RELIGION,330,Varieties of Ancient Judaism,V,100,TuTh,11:00,12:20
+812,RELIGION,332,Modern Jewish Thought,V,20,MoWe,14:00,15:20
+813,RELIGION,333,Judaism in the Modern World,V,100,MoWe,10:00,11:20
+814,RELIGION,339,Topics in Judaism,V,20,TuTh,11:00,12:20
+815,RELIGION,342,Christian Mystical Theology,V,100,TuTh,12:00,13:20
+816,RELIGION,344,"Blood, Sex and Justice: Issues in Christian Ethics",V,100,MoWe,08:00,09:20
+817,RELIGION,345,The Idea of Sainthood in Christianity,V,20,MoWe,12:00,13:20
+818,RELIGION,346,Church Architecture,V,50,MoWe,08:00,09:20
+819,RELIGION,349,Topics in Christianity,V,100,MoWeFr,10:00,10:50
+820,RELIGION,350,The Qur'an,V,100,MoWe,10:00,11:20
+821,RELIGION,351,Islamic Law,V,100,TuTh,08:00,09:20
+822,RELIGION,353,Trends in Islamic Thought,V,200,MoWe,13:00,14:20
+823,RELIGION,354,Sufism,V,100,TuTh,13:00,14:20
+824,RELIGION,359,Topics in Islam,V,100,TuTh,08:00,09:20
+825,RELIGION,359-SA,Topics in Islam,V,200,MoWeFr,14:00,14:50
+826,RELIGION,360,African American Religions,V,20,MoWeFr,10:00,10:50
+827,RELIGION,363,Topics in Women and Religion in America,"IV,V",20,TuTh,16:00,17:20
+828,RELIGION,364,American Teenage Rites of Passage,V,50,MoWeFr,11:00,11:50
+829,RELIGION,369,Topics in American Religion,V,100,TuTh,14:00,15:20
+830,RELIGION,371,Religion and Film,V,50,MoWe,15:00,14:20
+831,RELIGION,373,Religion and Bioethics,V,200,MoWeFr,12:00,12:50
+832,RELIGION,374,Contemporary Religious Thought,V,50,MoWe,09:00,10:20
+833,RELIGION,375,Foundations of Christian Thought (replaced 340-1),V,200,MoWeFr,15:00,15:50
+834,RELIGION,376,Christianity and the Making of Modernity (replaced 340-2),V,50,MoWe,09:00,10:20
+835,RELIGION,377,Christian Thought in Global Perspective  (replaced 340-3),V,20,TuTh,14:00,15:20
+836,RELIGION,378,Death: Myth and Meaning,V,100,MoWeFr,12:00,12:50
+837,RELIGION,379,Topics in Comparative Religion,V,20,TuTh,12:00,13:20
+838,RELIGION,381,Global Catholicism in the Contemporary World,"IV,V",200,MoWeFr,10:00,10:50
+839,RELIGION,382,Catholicism and the Making of the Modern World,V,100,TuTh,10:00,11:20
+840,RELIGION,383,Catholic Social Ethics,V,20,TuTh,09:00,10:20
+841,RELIGION,384,Soundings in the Catholic Tradition,V,50,MoWe,16:00,17:20
+842,RELIGION,385,Topics in U.S. Catholicism,"IV,V",20,MoWeFr,08:00,08:50
+843,RELIGION,386,Topics in Latin American Catholicism,"IV,V",50,TuTh,12:00,13:20
+844,RELIGION,395,Theories of Religion,V,20,MoWeFr,16:00,16:50
+845,SLAVIC,222,"Language, Politics, and Identity (with LING 222)","IV, V",50,MoWeFr,13:00,13:50
+846,SLAVIC,260,Economics and the Humanities: Understanding Choice,"V, VI",100,MoWeFr,12:00,12:50
+847,SOCIOL,220,"Health, Biomedicine, Culture, and Society; with HUM 220","III,V",200,MoWeFr,08:00,08:50
+848,SOCIOL,321,"Numbers, Identity, and Modernity","III,V",100,TuTh,12:00,13:20
+849,ANTHRO,362,Advanced Methods in Quantitatitve Analysis,II,200,MoWeFr,09:00,09:50
+850,BIOL_SCI,338,Modeling Biological Dynamics,II,100,TuTh,14:00,15:20
+851,COG SCI,207,Introduction to Cognitive Modeling,II,200,MoWeFr,11:00,11:50
+852,COMP_SCI,110,Introduction to Computer Programming,II,20,MoWeFr,08:00,08:50
+853,COMP_SCI,111,Fundamentals of Computer Programming,II,50,TuTh,09:00,10:20
+854,COMP_SCI,150,Fundamentals of Computer Programming 1.5,II,50,MoWeFr,12:00,12:50
+855,CSD,304,Statistics in Communication Sciences and Disorders,II,200,MoWe,16:00,17:20
+856,EARTH,361,Scientific Programming in Python,II,100,TuTh,16:00,17:20
+857,EARTH,362,Data Analysis for Earth & Planetary Sciences,II,50,MoWe,09:00,10:20
+858,GEN LA,280-2,Residence-Linked Seminar - II,II,20,TuTh,13:00,14:20
+859,GEN MUS,252,Harmony,II,100,MoWeFr,16:00,16:50
+860,GEN MUS,253,Form and Analysis,II,100,MoWeFr,09:00,09:50
+861,LING,260,Formal Analysis of Words & Sentences,II,20,TuTh,16:00,17:20
+862,LING,270,Meaning,II,50,TuTh,11:00,12:20
+863,LING,334,Introduction to Computational Linguistics,II,100,MoWeFr,10:00,10:50
+864,LING,341,Language Typology,II,200,MoWeFr,12:00,12:50
+865,LING,342,Structure of Various Languages,II,100,MoWeFr,10:00,10:50
+866,LING,360,Fundamentals of Syntax,II,100,MoWe,12:00,13:20
+867,LING,370,Fundamentals of Meaning,II,100,TuTh,16:00,17:20
+868,LING,371,Reference,II,50,MoWeFr,08:00,08:50
+869,MATH,100,"Quantitative Reasoning (distribution requirement credit applies only to MATH 100-0 and not to the ungraded summer course, MATH 100-BR)",II,50,TuTh,11:00,12:20
+870,MATH,110,Introduction to Mathematics,II,100,MoWe,14:00,15:20
+871,MATH,202,Finite Mathematics,II,200,MoWeFr,11:00,11:50
+872,MATH,211,Short Course in Calculus,II,100,MoWeFr,10:00,10:50
+873,MATH,218-1,Single-Variable Calculus with Precalculus,II,200,MoWeFr,13:00,13:50
+874,MATH,218-2,Single-Variable Calculus with Precalculus,II,200,TuTh,14:00,15:20
+875,MATH,218-3,Single-Variable Calculus with Precalculus,II,100,TuTh,09:00,10:20
+876,MATH,220-1,Single-Variable Differential Calculus,II,100,TuTh,13:00,14:20
+877,MATH,220-2,Single-Variable Integral Calculus,II,200,MoWeFr,08:00,08:50
+878,MATH,226-0,Sequences and Series,II,50,MoWeFr,09:00,09:50
+879,MATH,228-1,Multivariable Differential Calculus for Engineering,II,200,MoWe,08:00,09:20
+880,MATH,228-2,Multivariable Integral Calculus for Engineering,II,50,MoWeFr,14:00,14:50
+881,MATH,327,Mechanics for Mathematicians,"I,II",200,MoWeFr,11:00,11:50
+882,MATH,,Completing any one course offered by the Department of Mathematics numbered 230-1 or higher with a grade of C- or better satisfies the Weinberg College Formal Studies (Area II) distribution requirement.,II,200,TuTh,10:00,11:20
+883,NICO,101,Introduction to Programming for Big Data (0.67 units) -- see note below,II,50,TuTh,16:00,17:20
+884,,102,Project for Introduction to Programming for Big Data (0.33 units).  NOTE: Students must complete both NICO 101 and 102 for 1 credit towards Formal Studies,,20,TuTh,15:00,14:20
+885,PHIL,150,Elementary Logic I,II,50,TuTh,11:00,12:20
+886,PHIL,151,Scientific Reasoning,II,20,MoWe,16:00,17:20
+887,PHIL,250,Elementary Logic II,II,50,MoWeFr,15:00,15:50
+888,PHYSICS,311-1,Mathematical Tools for the Physical Sciences - I,II,20,MoWeFr,09:00,09:50
+889,PHYSICS,311-2,Mathematical Tools for the Physical Sciences - II,II,50,TuTh,14:00,15:20
+890,POLI SCI,210,Introduction to Empirical Methods in Political Science,II,100,MoWeFr,11:00,11:50
+891,POLI SCI,310,Methods of Political Inference,II,100,TuTh,16:00,17:20
+892,POLI SCI,311,Logics of Political Inquiry,II,100,MoWe,16:00,17:20
+893,POLI SCI,312,Statistical Research Methods,II,20,MoWe,12:00,13:20
+894,PSYCH,201,Statistical Methods in Psychology,II,100,MoWe,10:00,11:20
+895,PSYCH,380,Advanced Statistics & Experimental Design,II,20,MoWeFr,14:00,14:50
+896,SLAVIC,341,Structure of Modern Russian,II,20,MoWeFr,10:00,10:50
+897,SOCIOL,303,Analysis and Interpretation of Social Data,II,100,MoWeFr,13:00,13:50
+898,SPANISH,281,Spanish Phonetics and Phonology,II,20,MoWeFr,15:00,15:50
+899,STAT,202,Introduction to Statistics and Data Science,II,200,MoWeFr,08:00,08:50
+900,STAT,210,Introductory Statistics for the Social Sciences,II,20,MoWe,11:00,12:20
+901,STAT,228,Series and Multiple Integrals,II,200,MoWeFr,08:00,08:50
+902,STAT,232,Applied Statistics,II,100,MoWe,15:00,14:20
+903,STAT,,"Any 300-level Statistics course (except 390, 398, or 399) can count as one credit of the Area II requirement.",II,50,TuTh,10:00,11:20
+904,AF AM ST,210,Survey of African American Literature,VI,50,MoWeFr,10:00,10:50
+905,AF AM ST,211,Literatures of the Black World,VI,100,MoWe,08:00,09:20
+906,AF AM ST,225,African American Culture,VI,50,MoWeFr,15:00,15:50
+907,AF AM ST,259,Introduction to African American Drama,VI,100,TuTh,15:00,14:20
+908,AF AM ST,261,Queer Literatures in the African Diaspora,VI,50,MoWeFr,16:00,16:50
+909,AF AM ST,327,Politics of Black Popular Culture,"III,VI",200,TuTh,10:00,11:20
+910,AF AM ST,331,The African American Novel,VI,200,MoWeFr,10:00,10:50
+911,AF AM ST,360,Major Authors,VI,50,MoWe,15:00,14:20
+912,AF AM ST,378,The Harlem Renaissance,VI,20,TuTh,14:00,15:20
+913,AF AM ST,379,Black Women Writers,VI,50,MoWe,09:00,10:20
+914,AF ST,276,African Literature in Translation; with COMP LIT 276,VI,50,MoWeFr,12:00,12:50
+915,ARABIC,316-1,Reading Arabic Poetry (Arabic prereq),VI,200,MoWe,10:00,11:20
+916,ARABIC,316-2,Reading Classical Arabic Texts (Arabic prereq),VI,200,TuTh,11:00,12:20
+917,ARABIC,316-3,Reading Modern Arabic Prose (Arabic prereq),VI,100,MoWeFr,09:00,09:50
+918,ART,270,Contemporary Art Survey,VI,20,MoWeFr,15:00,15:50
+919,ART,272,Critical Methods for Contemporary Art,VI,50,MoWe,12:00,13:20
+920,ART HIST,210,Introduction to Art History,"IV,VI",200,MoWeFr,08:00,08:50
+921,ART HIST,220,Introduction to African Art,VI,20,MoWeFr,10:00,10:50
+922,ART HIST,222,Introduction to Art of the African Diaspora,"IV,VI",200,MoWeFr,10:00,10:50
+923,ART HIST,224,Introduction to Ancient Art,"IV,VI",200,MoWe,13:00,14:20
+924,ART HIST,225,Introduction to Medieval Art,"IV,VI",20,MoWe,15:00,14:20
+925,ART HIST,228,Introduction to Pre-Columbian Art,VI,100,MoWeFr,11:00,11:50
+926,ART HIST,230,Introduction to American Art,VI,100,TuTh,12:00,13:20
+927,ART HIST,232,Introduction to the History of Architecture and Design,VI,200,TuTh,13:00,14:20
+928,ART HIST,235,Introduction to Latin American Art,VI,100,MoWe,09:00,10:20
+929,ART HIST,240,Introduction to Asian Art,VI,100,MoWe,11:00,12:20
+930,ART HIST,250,Introduction to European Art,"IV,VI",200,MoWeFr,08:00,08:50
+931,ART HIST,255,Introduction to Modernism,"IV,VI",50,MoWe,13:00,14:20
+932,ART HIST,260,Introduction to Contemporary Art,VI,200,MoWeFr,13:00,13:50
+933,ART HIST,310-1,Ancient Art: Greece,VI,100,TuTh,11:00,12:20
+934,ART HIST,310-2,Ancient Art,VI,50,MoWeFr,08:00,08:50
+935,ART HIST,318,"Exhibiting Antiquity: The Culture and Politics of Display; with
+CLASSICS 397 and HUM 397","IV,VI",50,TuTh,15:00,14:20
+936,ART HIST,320-1,Medieval Art: Byzantine,"IV,VI",50,MoWeFr,10:00,10:50
+937,ART HIST,320-2,Medieval Art: Early Medieval,VI,100,TuTh,14:00,15:20
+938,ART HIST,320-3,Medieval Art: Late Medieval,"IV,VI",50,MoWeFr,10:00,10:50
+939,ART HIST,330-1,Renaissance Art c. 1300-1550 (High Renaissance),VI,100,TuTh,15:00,14:20
+940,ART HIST,330-2,Renaissance Art and Mannerism: Southern European Art 1400-1600,VI,50,MoWeFr,16:00,16:50
+941,ART HIST,330-3,Renaissance Art and Mannerism: Northern European Art 1400-1600,VI,20,MoWeFr,11:00,11:50
+942,ART HIST,340-1,Baroque Art: Southern Europe 1600-1700,"IV,VI",100,MoWeFr,10:00,10:50
+943,ART HIST,340-2,Baroque Art: Northern Europe 1600-1700,"IV,VI",100,MoWe,15:00,14:20
+944,ART HIST,350-1,19th-Century Art: Late 18th Century-1848,VI,50,TuTh,12:00,13:20
+945,ART HIST,350-2,19th-Century Art: 1848-1900,VI,100,MoWeFr,09:00,09:50
+946,ART HIST,360-1,20th-Century European Art,VI,20,TuTh,12:00,13:20
+947,ART HIST,360-2,20th-Century European Art,VI,100,MoWe,14:00,15:20
+948,ART HIST,365-1,American Art I,VI,50,TuTh,12:00,13:20
+949,ART HIST,365-2,American Art II,VI,200,TuTh,13:00,14:20
+950,ART HIST,370-1,Modern Architecture and Design,VI,200,TuTh,15:00,14:20
+951,ART HIST,370-2,Contemporary Architecture and Design,VI,50,TuTh,15:00,14:20
+952,ART HIST,372-1,Japanese Art,VI,100,MoWe,10:00,11:20
+953,ART HIST,375,Media Theory; with HUM 225,VI,200,MoWeFr,08:00,08:50
+954,ART HIST,378,The Global City,VI,100,TuTh,10:00,11:20
+955,ART HIST,380-1,Tibetan Buddhist Art 1,VI,20,MoWe,11:00,12:20
+956,ART HIST,380-2,Tibetan Buddhist Art 2,VI,200,MoWe,16:00,17:20
+957,ART HIST,382-1,Chinese Painting,VI,50,TuTh,16:00,17:20
+958,ART HIST,384,African American Art,VI,20,MoWeFr,14:00,14:50
+959,ART HIST,385,Black Visual Culture: Race and Representation,VI,200,TuTh,12:00,13:20
+960,ART HIST,386,Art of Africa,VI,50,MoWe,08:00,09:20
+961,ART HIST,395,Museums,VI,200,MoWe,15:00,14:20
+962,ASIAN AM,247,Asian Americans and Popular Culture,VI,200,TuTh,10:00,11:20
+963,ASIAN AM,275,Introduction to Asian American Literature; with ENGLISH 275,VI,50,MoWe,13:00,14:20
+964,ASIAN AM,276,Topics in Litereary and Cultural Studies,VI,20,MoWe,09:00,10:20
+965,ASIAN AM,376,Advanced Topics in Litereary and Cultural Studies,VI,50,MoWeFr,15:00,15:50
+966,ASIAN AM,377,The American Century in Asia,VI,100,MoWe,15:00,14:20
+967,ASIAN AM,380,Studies in Arts and Performance,VI,100,TuTh,08:00,09:20
+968,ASIAN LC,200,Introductory Topics in Chinese Literature and Culture,VI,20,MoWe,13:00,14:20
+969,ASIAN LC,202,Introduction to Modern Chinese Literature and Culture,VI,50,MoWeFr,12:00,12:50
+970,ASIAN LC,204,Modern Chinese Popular Culture I,VI,100,MoWe,14:00,15:20
+971,ASIAN LC,205,Modern Chinese Popular Culture II,VI,200,MoWe,08:00,09:20
+972,ASIAN LC,220,Introductory Topics in Japanese Literature and Culture,VI,20,TuTh,11:00,12:20
+973,ASIAN LC,221,Introduction to Premodern Japanese Literature and Culture,VI,100,MoWeFr,16:00,16:50
+974,ASIAN LC,222,Introduction to Modern Japanese Literature and Culture,VI,100,MoWeFr,16:00,16:50
+975,ASIAN LC,223,Introduction to Contemporary Japanese Literature and Culture,VI,100,TuTh,14:00,15:20
+976,ASIAN LC,224,"Introduction to Japanese Film, Media, and Visual Culture",VI,20,TuTh,11:00,12:20
+977,ASIAN LC,240,Introductory Topics in Korean Literature and Culture,VI,100,MoWeFr,14:00,14:50
+978,ASIAN LC,260,Introductory Topics in South Asian Literature and Culture,VI,50,TuTh,13:00,14:20
+979,ASIAN LC,261,South Asian Popular Cultures,VI,100,TuTh,15:00,14:20
+980,ASIAN LC,265,South Asian Cinemas,VI,100,MoWe,08:00,09:20
+981,ASIAN LC,290,Introductory Topics in Asian Languages and Cultures,VI,100,TuTh,16:00,17:20
+982,ASIAN LC,300,Advanced Topics in Chinese Literature and Culture,VI,50,TuTh,09:00,10:20
+983,ASIAN LC,320,Advanced Topics in Japanese Literature and Culture,VI,20,MoWe,10:00,11:20
+984,ASIAN LC,321,Advanced Topics in Premodern Japanese Literature and Culture,VI,50,MoWeFr,09:00,09:50
+985,ASIAN LC,322,"Advanced Topics in Modern and Contemporary Japanese Literature
+and Culture",VI,200,MoWe,08:00,09:20
+986,ASIAN LC,340,Advanced Topics in Korean Literature and Culture,VI,50,TuTh,09:00,10:20
+987,ASIAN LC,360,Advanced Topics in South Asian Literature and Culture,VI,20,TuTh,15:00,14:20
+988,ASIAN LC,370,Literary Cultures in South Asia,VI,20,MoWe,13:00,14:20
+989,ASIAN LC,373,Religious and Textural Traditions in South Asia,VI,200,MoWe,11:00,12:20
+990,ASIAN LC,375,South Asian Societies,VI,50,TuTh,16:00,17:20
+991,ASIAN LC,390,Advanced Topics in Asian Languages and Cultures,VI,100,MoWeFr,11:00,11:50
+992,ASIAN LC,392,"Advanced Studies in Asian Film, Media, and Visual Culture",VI,50,MoWeFr,12:00,12:50
+993,ASIAN LC,393,Asian Environmental Humanities,VI,50,TuTh,14:00,15:20
+994,ASIAN LC,394,Space and Place in Asian Literatures and Cultures,VI,50,MoWeFr,11:00,11:50
+995,ASIAN LC,395,Genre in Asian Literatures,VI,20,MoWeFr,15:00,15:50
+996,CFS,398,"Field Studies in Humanities (variable credit course; 1 unit can count
+toward distribution requirements)",VI,100,MoWeFr,13:00,13:50
+997,CLASSICS,210,The World of Homer ;  with HUM 205,"IV,V,VI",100,MoWeFr,12:00,12:50
+998,CLASSICS,211,Greek History and Culture; From Homer to Alexander the Great,"IV,V,VI",100,MoWe,10:00,11:20
+999,CLASSICS,212,Rome: Culture and Empire,"IV,V,VI",20,MoWeFr,12:00,12:50
+1000,CLASSICS,245,Classics and the Cinema,VI,100,TuTh,14:00,15:20
+1001,CLASSICS,250,Literatures of the Ancient World,VI,50,MoWeFr,10:00,10:50
+1002,CLASSICS,260,Classical Mythology,"V,VI",100,MoWeFr,16:00,16:50
+1003,CLASSICS,310,Archaeology of the Ancient Mediterranean,"IV,VI",20,MoWeFr,16:00,16:50
+1004,CLASSICS,340,Greek and Roman Drama,VI,20,MoWeFr,09:00,09:50
+1005,CLASSICS,350,Greek and Latin Literature,VI,200,TuTh,10:00,11:20
+1006,CLASSICS,380,Classical Reception Studies,"IV,VI",50,MoWe,16:00,17:20
+1007,CLASSICS,397,"Exhibiting Antiquity: The Culture and Politics of Display; with ART
+HIST 318 and HUM 397","IV,VI",100,MoWe,09:00,10:20
+1008,COMP LIT,200,Introduction to Literary Theory,VI,50,MoWeFr,12:00,12:50
+1009,COMP LIT,201,Reading World Literature,VI,20,MoWeFr,13:00,13:50
+1010,COMP LIT,202,Interpreting Culture,VI,100,TuTh,10:00,11:20
+1011,COMP LIT,205,Reading Difference,VI,200,TuTh,10:00,11:20
+1012,COMP LIT,211,Readings in Genre,VI,50,MoWe,13:00,14:20
+1013,COMP LIT,270,Literatures in Translation,VI,20,MoWeFr,13:00,13:50
+1014,COMP LIT,300,Theories and Practices of Reading,VI,100,TuTh,08:00,09:20
+1015,COMP LIT,301,Studies in World Literature,VI,200,MoWeFr,12:00,12:50
+1016,COMP LIT,302,Reading Across Disciplines,VI,20,MoWe,11:00,12:20
+1017,COMP LIT,303,Movements and Periods,VI,100,TuTh,16:00,17:20
+1018,COMP LIT,305,"Studies in Film, Media & Visual Culture",VI,20,TuTh,12:00,13:20
+1019,COMP LIT,306,Studies in Race and Ethnicity,VI,20,MoWeFr,08:00,08:50
+1020,COMP LIT,307,"Studies in Gender, Sexuality, and Representation",VI,50,MoWeFr,12:00,12:50
+1021,COMP LIT,312,Major Authors & Texts,VI,20,TuTh,11:00,12:20
+1022,ENGLISH,210-1,British Literary Traditions,VI,200,TuTh,14:00,15:20
+1023,ENGLISH,210-2,British Literary Traditions,VI,100,MoWeFr,14:00,14:50
+1024,ENGLISH,211,Introduction to Poetry,VI,20,MoWeFr,09:00,09:50
+1025,ENGLISH,212,Introduction to Drama,VI,50,MoWeFr,09:00,09:50
+1026,ENGLISH,213,Introduction to Fiction,VI,200,MoWe,13:00,14:20
+1027,ENGLISH,214,Introduction to Film and Its Literatures,VI,100,TuTh,09:00,10:20
+1028,ENGLISH,220,The Bible as Literature,"V,VI",50,MoWeFr,11:00,11:50
+1029,ENGLISH,234,Introduction to Shakespeare,VI,20,MoWeFr,09:00,09:50
+1030,ENGLISH,270-1,American Literary Traditions,VI,100,MoWe,15:00,14:20
+1031,ENGLISH,270-2,American Literary Traditions,VI,200,MoWe,10:00,11:20
+1032,ENGLISH,273,Introduction to 20th-Century American Literature,VI,50,TuTh,10:00,11:20
+1033,ENGLISH,274,Introduction to Native American and Indigenous Literatures,VI,20,MoWeFr,14:00,14:50
+1034,ENGLISH,275,Introduction to Asian American Literature; with ASIAN AM 275,VI,100,MoWeFr,14:00,14:50
+1035,ENGLISH,277,"Introduction to Latina and Latino Literature; with LATINO 277 and
+SPANISH 277",VI,50,TuTh,14:00,15:20
+1036,ENGLISH,302,History of the English Language,"IV, VI",50,MoWeFr,09:00,09:50
+1037,ENGLISH,310,Studies in Literary Genres,VI,100,MoWe,09:00,10:20
+1038,ENGLISH,311,Studies in Poetry,VI,50,MoWeFr,10:00,10:50
+1039,ENGLISH,312,Studies in Drama,VI,200,MoWe,10:00,11:20
+1040,ENGLISH,313,Studies in Fiction,VI,100,MoWeFr,15:00,15:50
+1041,ENGLISH,320,Medieval English Literature,VI,20,MoWe,11:00,12:20
+1042,ENGLISH,322,Medieval Drama,VI,100,MoWeFr,16:00,16:50
+1043,ENGLISH,323-1,Chaucer,VI,200,MoWe,15:00,14:20
+1044,ENGLISH,323-2,Chaucer,VI,200,MoWeFr,11:00,11:50
+1045,ENGLISH,324,Studies in Medieval Literature,VI,200,TuTh,15:00,14:20
+1046,ENGLISH,331,Renaissance Poetry,VI,100,MoWe,08:00,09:20
+1047,ENGLISH,332,Renaissance Drama,VI,20,MoWe,09:00,10:20
+1048,ENGLISH,333,Spenser,VI,100,TuTh,10:00,11:20
+1049,ENGLISH,334-1,Shakespeare,VI,20,MoWeFr,11:00,11:50
+1050,ENGLISH,334-2,Shakespeare,VI,50,MoWe,13:00,14:20
+1051,ENGLISH,335,Milton,VI,50,TuTh,16:00,17:20
+1052,ENGLISH,338,Studies in Renaissance Literature,VI,100,MoWe,12:00,13:20
+1053,ENGLISH,339,Special Topics in Shakespeare,VI,200,MoWeFr,11:00,11:50
+1054,ENGLISH,340,Restoration & 18th-Century Literature,VI,100,TuTh,11:00,12:20
+1055,ENGLISH,341,Restoration & 18th-Century Poetry,VI,100,MoWeFr,09:00,09:50
+1056,ENGLISH,342,Restoration & 18th-Century Drama,VI,200,MoWeFr,13:00,13:50
+1057,ENGLISH,344,18th-Century Fiction,VI,50,MoWe,09:00,10:20
+1058,ENGLISH,348,Studies in Restoration and 18th-Century Literature,VI,20,MoWeFr,11:00,11:50
+1059,ENGLISH,350,19th-Century British Literature,VI,20,MoWeFr,12:00,12:50
+1060,ENGLISH,351,Romantic Poetry,VI,100,MoWe,16:00,17:20
+1061,ENGLISH,353,Studies in Romantic Literature,VI,200,MoWeFr,11:00,11:50
+1062,ENGLISH,356,Victorian Poetry,VI,100,MoWe,08:00,09:20
+1063,ENGLISH,357,19th-Century British Fiction,VI,20,MoWe,11:00,12:20
+1064,ENGLISH,358,Dickens,VI,100,TuTh,16:00,17:20
+1065,ENGLISH,359,Studies in Victorian Literature,VI,200,TuTh,08:00,09:20
+1066,ENGLISH,360,20th-Century British & American Literature,VI,200,TuTh,09:00,10:20
+1067,ENGLISH,361-1,20th-Century Poetry,VI,20,TuTh,13:00,14:20
+1068,ENGLISH,361-2,20th-Century Poetry,VI,20,MoWe,09:00,10:20
+1069,ENGLISH,363-1,20th-Century Fiction,VI,200,MoWeFr,15:00,15:50
+1070,ENGLISH,363-2,20th-Century Fiction,VI,50,MoWe,16:00,17:20
+1071,ENGLISH,365,Studies in Postcolonial Literature,VI,200,MoWe,16:00,17:20
+1072,ENGLISH,366,Studies in African American Literature,VI,50,TuTh,15:00,14:20
+1073,ENGLISH,367,Postwar British Fiction,VI,200,MoWe,13:00,14:20
+1074,ENGLISH,368,Studies in 20th-Century Literature,VI,50,MoWe,09:00,10:20
+1075,ENGLISH,368-SA,Studies in 20th-Century Literature,VI,20,MoWeFr,08:00,08:50
+1076,ENGLISH,369,Studies in African Literature,VI,200,MoWe,12:00,13:20
+1077,ENGLISH,370,American Literature before 1914,VI,100,MoWe,08:00,09:20
+1078,ENGLISH,371,American Novel,VI,200,TuTh,13:00,14:20
+1079,ENGLISH,372,American Poetry,VI,50,MoWeFr,08:00,08:50
+1080,ENGLISH,374,Topics in Native American and Indigenous Literatures,VI,100,MoWeFr,12:00,12:50
+1081,ENGLISH,375,Topics in Asian American Literature,VI,100,MoWeFr,08:00,08:50
+1082,ENGLISH,377,Topics in Latina and Latino Literature,VI,20,MoWe,15:00,14:20
+1083,ENGLISH,378,Studies in American Literature,VI,20,MoWe,15:00,14:20
+1084,ENGLISH,381,Literature & Medicine,VI,20,MoWe,15:00,14:20
+1085,ENGLISH,383,Special Topics in Theory,VI,50,MoWeFr,10:00,10:50
+1086,ENGLISH,385,Topics in Combined Studies,VI,100,MoWeFr,09:00,09:50
+1087,ENGLISH,386,Studies in Literature and Film,VI,200,TuTh,08:00,09:20
+1088,ENGLISH,387,Studies in Literature and Commerce,VI,50,TuTh,09:00,10:20
+1089,ENGLISH,388,Studies in Literature and Religion,"V,VI",20,MoWeFr,13:00,13:50
+1090,FRENCH,210,Reading Literatures in French (French prereq.),VI,100,MoWeFr,11:00,11:50
+1091,FRENCH,211,Reading Cultures in French (French prereq.),VI,20,MoWe,10:00,11:20
+1092,FRENCH,271,Introducing the Novel (French prereq.),VI,200,MoWeFr,11:00,11:50
+1093,FRENCH,272,Introducting Theatre (French prereq.),VI,50,MoWeFr,12:00,12:50
+1094,FRENCH,277,French Existentialism,"V,VI",50,MoWe,11:00,12:20
+1095,FRENCH,279,Theater in Translation,VI,50,MoWe,09:00,10:20
+1096,FRENCH,310,The Middle Ages and Renaissance (French prereq),VI,100,MoWeFr,16:00,16:50
+1097,FRENCH,322,Medieval French Narratives (French prereq),VI,100,TuTh,13:00,14:20
+1098,FRENCH,333,Topics in Renaissance Literature (French prereq),VI,100,MoWe,12:00,13:20
+1099,FRENCH,334,Montaigne and Modernity (French prereq),VI,200,MoWe,14:00,15:20
+1100,FRENCH,335,17th-Century Literature (French prereq),VI,200,TuTh,09:00,10:20
+1101,FRENCH,340,Sexual Politics and the Ancien Regime (French prereq),VI,100,TuTh,12:00,13:20
+1102,FRENCH,344,Rousseau and the French Revolution (French prereq),VI,50,MoWe,16:00,17:20
+1103,FRENCH,346,Studies in the Enlightenment (French prereq),VI,50,TuTh,14:00,15:20
+1104,FRENCH,350,The Novel in French (French prereq),VI,100,TuTh,14:00,15:20
+1105,FRENCH,355,The Invention of Modernity (French prereq),VI,100,MoWeFr,11:00,11:50
+1106,FRENCH,360,"From Modernism to Postmodernism: Experiments in Narrative Form
+(French prereq)",VI,50,TuTh,14:00,15:20
+1107,FRENCH,362,African Literatures and Cultures (French prereq),VI,20,TuTh,08:00,09:20
+1108,FRENCH,364,Caribbean Literatures and Cultures (French prereq),VI,20,MoWeFr,16:00,16:50
+1109,FRENCH,365,The Maghreb and the Middle East (French prereq),VI,20,TuTh,13:00,14:20
+1110,FRENCH,367,Transnational Francophone Studies (French prereq),VI,20,TuTh,11:00,12:20
+1111,FRENCH,371,"Giants, Cannibals, and Critique in the Renaissance",VI,200,TuTh,15:00,14:20
+1112,FRENCH,374,Proust,VI,200,MoWe,10:00,11:20
+1113,FRENCH,375,French Film,VI,50,TuTh,14:00,15:20
+1114,FRENCH,376,Gender and Sexuality,VI,100,MoWe,10:00,11:20
+1115,FRENCH,378,Contemporary Theory,VI,20,TuTh,15:00,14:20
+1116,FRENCH,379,Topics in French Literature and Culture,VI,200,MoWeFr,11:00,11:50
+1117,FRENCH,380,Political and Social Thought in France (French prereq),VI,200,MoWe,08:00,09:20
+1118,FRENCH,384,Women Writing in French (French prereq),VI,100,MoWe,14:00,15:20
+1119,FRENCH,386,Gender and Writing (French prereq),VI,20,TuTh,10:00,11:20
+1120,FRENCH,390,Topics in Literature and Culture (French prereq),VI,20,MoWe,14:00,15:20
+1121,FRENCH,390-SA,Topics in Literature and Culture (French prereq),VI,50,TuTh,11:00,12:20
+1122,FRENCH,395,Advanced Studies in Culture and Thought (French prereq),VI,200,TuTh,13:00,14:20
+1123,GEN LA,280-6,Residence-Linked Seminar - VI,VI,20,MoWe,15:00,14:20
+1124,GEN MUS,170,Introduction to Music,VI,50,MoWeFr,08:00,08:50
+1125,GEN MUS,175,Selected Topics in Music Literature for Non-Majors,VI,200,MoWe,14:00,15:20
+1126,GEN MUS,220,History of the Symphony,VI,100,MoWeFr,11:00,11:50
+1127,GEN MUS,230,History of Opera,VI,200,TuTh,10:00,11:20
+1128,GEN MUS,250,History of Rock,VI,100,TuTh,11:00,12:20
+1129,GEN MUS,270-1,The Western Musical Tradition,VI,200,MoWeFr,10:00,10:50
+1130,GEN MUS,270-2,The Western Musical Tradition,VI,100,TuTh,10:00,11:20
+1131,GERMAN,211,German Culture through Film (German prereq),VI,100,TuTh,13:00,14:20
+1132,GERMAN,221-1,Introduction to Literature: 1800-1900 (German prereq),VI,20,MoWe,09:00,10:20
+1133,GERMAN,221-2,Introduction to Literature: 1900-1945 (German prereq),VI,100,MoWe,08:00,09:20
+1134,GERMAN,221-3,Introduction to Literature: 1945-today (German prereq),VI,100,MoWeFr,14:00,14:50
+1135,GERMAN,223,Austrian Literature (German prereq),VI,50,MoWeFr,10:00,10:50
+1136,GERMAN,226,New Voices in German Literature,VI,20,MoWe,09:00,10:20
+1137,GERMAN,228,German Film,VI,50,MoWe,15:00,14:20
+1138,GERMAN,230,Berlin and the Culture of Democracy,"IV,VI",50,MoWe,12:00,13:20
+1139,GERMAN,232,The Theme of Faust through the Ages,"V,VI",20,MoWe,16:00,17:20
+1140,GERMAN,234-1,Jews & Germans: An Intercultural History I,"IV,V,VI",50,MoWeFr,13:00,13:50
+1141,GERMAN,234-2,Jews & Germans: An Intercultural History II,"IV,V,VI",200,MoWe,13:00,14:20
+1142,GERMAN,236,Kafka and Nietzsche,"V,VI",20,MoWeFr,11:00,11:50
+1143,GERMAN,238,Turn-of-the-Century Vienna,VI,100,MoWe,16:00,17:20
+1144,GERMAN,242,"Imagining Modern Jewish Culture in German and Yiddish; with JWSH
+ST 242",VI,100,MoWeFr,14:00,14:50
+1145,GERMAN,244,Analyzing Freud,VI,50,MoWe,10:00,11:20
+1146,GERMAN,245,Special Topics in German Literature & Culture (German prereq),VI,20,MoWeFr,10:00,10:50
+1147,GERMAN,266,"Introduction to Yiddish Culture: Images of the Shtetl; with JWSH ST &
+YIDDISH 266",VI,200,MoWe,09:00,10:20
+1148,GERMAN,321-1,"Reason, Revolution, & Despair: 1800-1900 (German prereq)","IV,VI",200,TuTh,13:00,14:20
+1149,GERMAN,321-2,Myth & Modernity: 1900-1945 (German prereq),"IV,VI",50,MoWeFr,13:00,13:50
+1150,GERMAN,321-3,Recoveries & Transitions: 1945 to Present (German prereq),"IV,VI",50,MoWe,11:00,12:20
+1151,GERMAN,322,German Contributions to World Literature,VI,200,MoWe,16:00,17:20
+1152,GERMAN,323,Rhyme and Reason in German Poetry (German prereq),VI,100,MoWeFr,16:00,16:50
+1153,GERMAN,324,Modern German Drama,VI,20,TuTh,08:00,09:20
+1154,GERMAN,327,German Expressionism (German prereq),VI,20,MoWe,10:00,11:20
+1155,GERMAN,329,"Brecht: Theater, Film, and Media (German prereq)",VI,50,MoWe,12:00,13:20
+1156,GERMAN,331,Shattered Worlds: Representation after the Shoa (German prereq),VI,20,TuTh,10:00,11:20
+1157,GERMAN,333,Literature of a Divided Nation (German prereq),VI,50,MoWeFr,13:00,13:50
+1158,GERMAN,334,Writers and their Critics,VI,100,MoWeFr,14:00,14:50
+1159,GERMAN,335,Minority Voices in Germany (German prereq),VI,200,MoWe,10:00,11:20
+1160,GERMAN,366,"Yiddish Culture and the Holocaust; with JWSH ST 366 and YIDDISH
+366",VI,50,MoWe,10:00,11:20
+1161,GNDR ST,231,"Gender, Sexuality, and Representation; with COMP LIT 205",VI,100,TuTh,10:00,11:20
+1162,GNDR ST,350-6,Research Seminar in Gender and Sexuality Studies,VI,20,MoWe,14:00,15:20
+1163,GNDR ST,361,"Gender, Sexuality, and Literature",VI,20,TuTh,12:00,13:20
+1164,GNDR ST,362,"Gender, Sexuality, and Drama",VI,20,TuTh,09:00,10:20
+1165,GNDR ST,363,Postcolonial Studies and Gender and Sexuality,VI,100,TuTh,15:00,14:20
+1166,GNDR ST,372,"Gender, Sexuality, and Performance",VI,20,TuTh,09:00,10:20
+1167,GNDR ST,373,"Gender, Sexuality, and Film",VI,20,MoWeFr,09:00,09:50
+1168,GNDR ST,374,"Gender, Sexuality, and Digital Technologies",VI,50,TuTh,09:00,10:20
+1169,GNDR ST,381,Queer Theory,VI,20,MoWe,08:00,09:20
+1170,GNDR ST,382,"Race, Gender, and Sexuality",VI,20,MoWe,15:00,14:20
+1171,GREEK,301,Readings in Greek Literature (Greek prereq.),VI,50,TuTh,11:00,12:20
+1172,HEBREW,216-1,Hebrew III: Topics in Hebrew Literature (Hebrew prereq),VI,50,MoWe,12:00,13:20
+1173,HEBREW,216-2,Hebrew III: Topics in Hebrew Literature (Hebrew prereq),VI,100,MoWeFr,13:00,13:50
+1174,HEBREW,216-3,Hebrew III: Topics in Hebrew Literature (Hebrew prereq),VI,100,MoWe,09:00,10:20
+1175,HEBREW,316-1,Hebrew IV: Advanced Topics in Hebrew Literature (Hebrew prereq),VI,100,MoWe,08:00,09:20
+1176,HEBREW,316-2,Hebrew IV: Advanced Topics in Hebrew Literature (Hebrew prereq),VI,50,TuTh,13:00,14:20
+1177,HEBREW,316-3,Hebrew IV: Advanced Topics in Hebrew Literature (Hebrew prereq),VI,100,TuTh,12:00,13:20
+1178,HUM,205,The World of Homer ; with CLASSICS 210,"IV,V,VI",200,TuTh,11:00,12:20
+1179,HUM,210,Humanities in the World I,VI,20,MoWe,09:00,10:20
+1180,HUM,225,Media Theory; with ART HIST 375,VI,200,TuTh,15:00,14:20
+1181,HUM,260,Humanities Explorations,"V,VI",50,TuTh,08:00,09:20
+1182,HUM,310-6,Global Humanities Lab,VI,20,MoWe,16:00,17:20
+1183,HUM,325-6,Humanites in the Digital Age,VI,50,MoWe,11:00,12:20
+1184,HUM,370-6,Special Topics in the Humanities,VI,50,TuTh,09:00,10:20
+1185,HUM,397,"Exhibiting Antiquity: The Culture and Politics of Display; with ART
+HIST 318 and CLASSICS 397","IV,VI",200,TuTh,10:00,11:20
+1186,ITALIAN,202,Italian through Performance (Italian prereq),VI,50,TuTh,16:00,17:20
+1187,ITALIAN,204,Introduction to Italian Literature (Italian prereq),VI,50,MoWeFr,13:00,13:50
+1188,ITALIAN,230,Italian Theatre and Performance,VI,100,MoWe,10:00,11:20
+1189,ITALIAN,250,Topics in Italian Culture and Literature,VI,100,TuTh,14:00,15:20
+1190,ITALIAN,251,Introduction to Italian Cinema,VI,50,MoWeFr,12:00,12:50
+1191,ITALIAN,265,Body & Soul from Rome to the Renaissance,"IV,VI",20,MoWe,13:00,14:20
+1192,ITALIAN,270,Michelangelo and the Italian Renaissance,"IV,VI",100,MoWe,15:00,14:20
+1193,ITALIAN,275,Dante's Divine Comedy,VI,100,MoWe,09:00,10:20
+1194,ITALIAN,277,Global Neorealism,VI,100,TuTh,09:00,10:20
+1195,ITALIAN,306,Migrations (Italian prereq),VI,20,TuTh,11:00,12:20
+1196,ITALIAN,310,Reading Italian Literature (Italian prereq),VI,50,MoWeFr,10:00,10:50
+1197,ITALIAN,347,Italy in Art and Literature (Italian prereq),VI,20,TuTh,11:00,12:20
+1198,ITALIAN,348,The Italian Novella  (Italian prereq),VI,50,MoWeFr,16:00,16:50
+1199,ITALIAN,349,Topics in Italian Culture and Literature (Italian prereq),VI,20,TuTh,08:00,09:20
+1200,ITALIAN,350,Advanced Topics in Italian Culture and Literature,VI,20,MoWe,08:00,09:20
+1201,ITALIAN,351,Italian Film and Transnational Cinema,VI,200,MoWe,13:00,14:20
+1202,ITALIAN,360,From the Avant-Garde to the Postmodern,VI,100,MoWeFr,15:00,15:50
+1203,ITALIAN,374,Love and Sexuality in the Early Modern Period,VI,50,MoWeFr,12:00,12:50
+1204,ITALIAN,377,Gender and Sexuality in Italian Culture,VI,200,TuTh,14:00,15:20
+1205,JAPANESE,310,"Japanese IV: Special Topics in Reading Japanese Literature in Japanse
+(Japanese prereq)",VI,20,TuTh,11:00,12:20
+1206,JAPANESE,311-1,"Japanese IV: Reading Modern Japanese Literature in Japanese
+(Japanese prereq)",VI,100,TuTh,16:00,17:20
+1207,JWSH ST,242,"Imagining Modern Jewish Culture in German and Yiddish; with
+GERMAN 242",VI,200,MoWeFr,15:00,15:50
+1208,JWSH ST,266,"Introduction to Yiddish Culture: Images of the Shtetl; with GERMAN
+266 & YIDDISH 266",VI,200,MoWeFr,15:00,15:50
+1209,JWSH ST,278,Modern Hebrew Literature in Translation,VI,20,MoWeFr,09:00,09:50
+1210,JWSH ST,279,Modern Jewish Literature,VI,50,MoWe,11:00,12:20
+1211,JWSH ST,280-6,Topics in Israel Studies,VI,200,MoWeFr,16:00,16:50
+1212,JWSH ST,350,Representing the Holocaust in Literature and Film,VI,100,MoWe,13:00,14:20
+1213,JWSH ST,366,Yiddish Culture and the Holocaust; with GERMAN 366 & YIDDISH 366,VI,100,MoWeFr,14:00,14:50
+1214,JWSH ST,379,Storytelling in American Jewish Literature,VI,20,MoWeFr,14:00,14:50
+1215,JWSH ST,396,Topics in Modern Jewish Culture,VI,200,MoWe,12:00,13:20
+1216,LATIN,310,Readings in Latin Literature (Latin prereq),VI,200,MoWeFr,12:00,12:50
+1217,LATINO,203,Introduction to Latina and Latino Cultural Studies,VI,20,MoWeFr,13:00,13:50
+1218,LATINO,277,"Introduction to Latina and Latino Literature; with ENGLISH 277 and
+SPANISH 277",VI,100,MoWe,12:00,13:20
+1219,LATINO,393,Topics in Latina and Latino Text and Representation,VI,50,TuTh,13:00,14:20
+1220,MENA,200,"Making the Modern Middle East: Culture, Politics, History","III,VI",200,MoWeFr,11:00,11:50
+1221,MENA,290-6,Introductory Topics in Middle East and North African Studies,VI,50,MoWeFr,10:00,10:50
+1222,MENA,390-6,Advanced Topics in Middle East and North African Studies,VI,50,MoWe,14:00,15:20
+1223,MUSICOL,323,Topics in Ethnomusicology,VI,50,MoWeFr,15:00,15:50
+1224,MUSICOL,329,Topics in Middle Eastern Music,VI,200,MoWeFr,14:00,14:50
+1225,MUSICOL,330,Russian Fairy Tale and Opera,VI,200,MoWeFr,08:00,08:50
+1226,MUSICOL,331,Orientalism and Music,VI,200,MoWeFr,15:00,15:50
+1227,MUSICOL,335,Selected Topics in Musicology,VI,20,MoWe,10:00,11:20
+1228,MUSICOL,335-SA,Selected Topics in Musicology,VI,100,MoWeFr,14:00,14:50
+1229,MUSICOL,339,Music and Gender,VI,20,TuTh,10:00,11:20
+1230,MUSICOL,341,Music and the Visual Arts,VI,100,MoWeFr,10:00,10:50
+1231,MUSICOL,342,Authenticity,VI,50,MoWe,13:00,14:20
+1232,MUSICOL,350,Topics in Medieval Music,VI,20,MoWe,13:00,14:20
+1233,MUSICOL,351,Topics in 16th Century Music,VI,100,MoWe,08:00,09:20
+1234,PERF ST,103,Analysis and Performance of Literature,VI,20,TuTh,16:00,17:20
+1235,PERF ST,200,Introduction to Performance Studies,VI,50,TuTh,12:00,13:20
+1236,PERF ST,301,Peformance and Activism in Digital Culture,VI,20,MoWe,08:00,09:20
+1237,PERF ST,303,Transnational Flows of Performance,VI,50,MoWe,09:00,10:20
+1238,PERF ST,304,Sonic Practices of the Middle East and North Africa,VI,100,MoWe,10:00,11:20
+1239,PERF ST,305,Performance Theory,VI,100,TuTh,08:00,09:20
+1240,PHIL,280,Introduction to the Philosophy of Art,VI,100,MoWe,16:00,17:20
+1241,POLISH,358-1,Polish for Advanced & Native Speakers (Polish prereq.),VI,200,MoWe,10:00,11:20
+1242,POLISH,358-2,Polish for Advanced & Native Speakers (Polish prereq.),VI,200,MoWe,13:00,14:20
+1243,PORT,210,"Icons, Legends, and Myths in Brazil  (may have Portuguese prereq.)","IV,VI",50,TuTh,16:00,17:20
+1244,PORT,380,Contemporary Brazil: Literature and Film,VI,50,TuTh,15:00,14:20
+1245,PORT,396,Topics in Lusophone Cultures,VI,200,MoWe,15:00,14:20
+1246,RTVF,220,Analyzing Media Texts,VI,100,TuTh,11:00,12:20
+1247,RTVF,312-1,History of Film I,VI,20,MoWe,09:00,10:20
+1248,RTVF,312-2,History of Film II,VI,200,MoWeFr,11:00,11:50
+1249,RTVF,313-1,Documentary Film: History and Criticism,VI,50,MoWe,08:00,09:20
+1250,RTVF,313-2,Documentary Film and Video,VI,50,MoWeFr,15:00,15:50
+1251,RTVF,321,Radio/Television/Film Authorship,VI,50,TuTh,08:00,09:20
+1252,RTVF,322,Radio/Television/Film Genre,VI,100,MoWeFr,10:00,10:50
+1253,RTVF,326,Film and TV Criticism,VI,100,TuTh,16:00,17:20
+1254,RTVF,351,National Cinema,VI,200,MoWe,16:00,17:20
+1255,RELIGION,301,Hindu Epics:  Mahābhārata,"V,VI",200,MoWe,16:00,17:20
+1256,RELIGION,315,Buddhist Auto/biography,"V,VI",200,MoWeFr,10:00,10:50
+1257,RUSSIAN,359-0,Russian Prose (Russian prereq.),VI,20,TuTh,14:00,15:20
+1258,SLAVIC,210-1,Introduction to Russian Literature,VI,20,TuTh,11:00,12:20
+1259,SLAVIC,210-2,Introduction to Russian Literature,VI,100,TuTh,15:00,14:20
+1260,SLAVIC,210-3,Introduction to Russian Literature,VI,200,MoWeFr,14:00,14:50
+1261,SLAVIC,211-1,20th-Century Russian Literature,VI,20,TuTh,16:00,17:20
+1262,SLAVIC,211-2,20th-Century Russian Literature,VI,100,MoWeFr,11:00,11:50
+1263,SLAVIC,260,Economics and the Humanities: Understanding Choice,"V,VI",100,TuTh,12:00,13:20
+1264,SLAVIC,267,"Czech Culture: Film, Visual Arts, Music",VI,200,MoWeFr,13:00,13:50
+1265,SLAVIC,278-1,Visual Art in the Context of Russian Culture,VI,50,MoWe,13:00,14:20
+1266,SLAVIC,278-2,Visual Art in the Context of Russian Culture,VI,200,MoWeFr,14:00,14:50
+1267,SLAVIC,310,Tolstoy,VI,100,TuTh,08:00,09:20
+1268,SLAVIC,311,Dostoevsky,VI,20,MoWe,10:00,11:20
+1269,SLAVIC,314,Chekhov,VI,50,TuTh,10:00,11:20
+1270,SLAVIC,360,Survey of 19th-Century Russian Poetry (Russian prereq.),VI,50,MoWe,12:00,13:20
+1271,SLAVIC,361,Survey of 20th-Century Russian Poetry (Russian prereq.),VI,100,TuTh,09:00,10:20
+1272,SLAVIC,367-1,Russian Film,VI,20,MoWe,09:00,10:20
+1273,SLAVIC,367-2,Russian Film,VI,100,TuTh,16:00,17:20
+1274,SLAVIC,368,Andrei Tarkovsky's Aesthetics & World Cinema,VI,50,MoWe,10:00,11:20
+1275,SLAVIC,369,Two Hundred Years of Russian Drama,VI,100,MoWe,13:00,14:20
+1276,SLAVIC,390,Literature & Politics in Central and Eastern Europe,"IV,VI",50,MoWeFr,11:00,11:50
+1277,SLAVIC,392,East European Literature and Visual Arts,VI,50,TuTh,11:00,12:20
+1278,SLAVIC,393,"Prague: City of Cultures, City of Conflict","IV,VI",50,TuTh,10:00,11:20
+1279,SLAVIC,396,Topics in Literature and Arts,VI,100,TuTh,16:00,17:20
+1280,SPANISH,210,"Icons, Legends, & Myths in Latin Amrican, Latino, and/or Iberian
+Cultures (Spanish prereq)",VI,200,TuTh,08:00,09:20
+1281,SPANISH,223,Cervantes,VI,50,TuTh,08:00,09:20
+1282,SPANISH,231,"The ""New"" Latin American Narrative",VI,200,MoWe,11:00,12:20
+1283,SPANISH,232,Discovering Jewish Latin America,VI,20,MoWe,08:00,09:20
+1284,SPANISH,250,Literature in Spain before 1700 (Spanish prereq),VI,100,TuTh,09:00,10:20
+1285,SPANISH,251,Literature in Spain since 1700 (Spanish prereq),VI,200,TuTh,13:00,14:20
+1286,SPANISH,260,Literature in Latin America before 1888 (Spanish prereq),VI,50,MoWe,13:00,14:20
+1287,SPANISH,261,Literature in Latin America since 1888 (Spanish prereq),VI,20,MoWeFr,10:00,10:50
+1288,SPANISH,277,"Introduction to Latina and Latino Literature; with ENGLISH 277 and
+LATINO 277",VI,50,MoWe,12:00,13:20
+1289,SPANISH,301,Topics in Language (Spanish prereq),VI,100,MoWe,09:00,10:20
+1290,SPANISH,310,Origins of Spanish Civilization (Spanish prereq),VI,20,MoWeFr,09:00,09:50
+1291,SPANISH,320,Golden Age of Poetry and Prose (Spanish prereq),VI,50,TuTh,09:00,10:20
+1292,SPANISH,321,Golden Age Drama (Spanish prereq),VI,200,MoWe,10:00,11:20
+1293,SPANISH,323,Cervantes' Don Quixote (Spanish prereq),VI,100,MoWe,16:00,17:20
+1294,SPANISH,331,Realism in Spain: The Problem of Representation (Spanish prereq),VI,200,MoWeFr,09:00,09:50
+1295,SPANISH,335,Modern Fiction in Spain: Studies in Genre (Spanish prereq),VI,200,MoWeFr,14:00,14:50
+1296,SPANISH,340,Colonial Latin American Literature (Spanish prereq),VI,20,MoWe,14:00,15:20
+1297,SPANISH,341,Latin American Modernisimo (Spanish prereq),VI,20,MoWeFr,12:00,12:50
+1298,SPANISH,342,Race and Representation in Latin America,VI,100,MoWe,09:00,10:20
+1299,SPANISH,343,Latin American Avant-Gardes (Spanish prereq),VI,20,MoWeFr,16:00,16:50
+1300,SPANISH,344,Borges (Spanish prereq),VI,200,MoWeFr,08:00,08:50
+1301,SPANISH,345,"Reading the ""Boom"" (Spanish prereq)",VI,100,MoWeFr,10:00,10:50
+1302,SPANISH,346,Testimonial Narrative in Latin America (Spanish prereq),VI,50,MoWe,08:00,09:20
+1303,SPANISH,347,Literature and Revolution in Latin America (Spanish prereq),VI,200,TuTh,08:00,09:20
+1304,SPANISH,348,Readings in Latin American Short Fiction (Spanish prereq),VI,200,MoWeFr,16:00,16:50
+1305,SPANISH,350,Visual Culture in Latin/o America and Spain (Spanish prereq),VI,20,MoWeFr,14:00,14:50
+1306,SPANISH,360,Spain: Studies in Culture and Society (Spanish prereq),VI,20,MoWe,16:00,17:20
+1307,SPANISH,361,Latin America: Studies in Culture and Society (Spanish prereq),VI,20,MoWeFr,13:00,13:50
+1308,SPANISH,362,Citizenship and Urban Violence in Latin America,VI,100,TuTh,10:00,11:20
+1309,SPANISH,363,"Topics in U.S. Latina/o Literary and Cultural Studies (Spanish
+prereq)","III,VI",20,MoWe,12:00,13:20
+1310,SPANISH,364,Cultural Borders / Border Cultures,VI,20,MoWeFr,12:00,12:50
+1311,SPANISH,380,"Topics in Film: The Silver Screen in Latin America and/or Spain
+(Spanish prereq)",VI,20,MoWe,11:00,12:20
+1312,SPANISH,380-SA,"Topics in Film: The Silver Screen in Latin America and/or Spain
+(Spanish prereq)",VI,50,MoWe,09:00,10:20
+1313,SPANISH,395,"Topics in Latin American, Latina and Latino, and/or Iberian Cultures
+(Spanish prereq)",VI,20,MoWe,09:00,10:20
+1314,SPANISH,395-SA,"Topics in Latin American, Latina and Latino, and/or Iberian Cultures
+(Spanish prereq)",VI,100,MoWe,10:00,11:20
+1315,SPANISH,397,"Topics in Latin American, Latina and Latino, and/or Iberian
+Literatures and Cultures",VI,100,MoWe,16:00,17:20
+1316,SWAHILI,216-1,Introduction to Swahili Literature (Swahili prereq),VI,20,TuTh,08:00,09:20
+1317,SWAHILI,216-2,Introduction to Swahili Literature (Swahili prereq),VI,200,TuTh,13:00,14:20
+1318,SWAHILI,216-3,Introduction to Swahili Literature (Swahili prereq),VI,100,MoWeFr,14:00,14:50
+1319,YIDDISH,266,"Introduction to Yiddish Culture: Images of the Shtetl; with GERMAN
+266 & JWSH ST 266",VI,100,TuTh,12:00,13:20
+1320,YIDDISH,366,"Yiddish Culture and the Holocaust; with GERMAN 366 & JWSH ST
+366",VI,50,MoWeFr,12:00,12:50
+1321,COMP_SCI,349,Introduction to Machine Learning,20,MoWeFr,08:00,08:50
+1322,COMP_SCI,348,Introduction to Artificial Intelligence,50,TuTh,09:00,10:20
+1323,COMP_SCI,336,Introduction to Algorithm,II,50,MoWeFr,12:00,12:50

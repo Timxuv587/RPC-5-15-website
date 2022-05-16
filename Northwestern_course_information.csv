@@ -1,0 +1,1359 @@
+﻿dept/pgm,number,course title,area
+ANTHRO,213,Human Origins,I
+ANTHRO,309,Human Osteology,I
+ANTHRO,312,Human Population Biology,I
+ANTHRO,316,Forensic Anthropology,I
+ANTHRO,317,Human Evolution,I
+ANTHRO,359,The Human Microbiome and Health,I
+ASTRON,101,Modern Cosmology,I
+ASTRON,102,Milky Way Galaxy,I
+ASTRON,103,Solar System,I
+ASTRON,106,A Brief Journey through the Invisible Universe (taught also as PHYSICS 106),I
+ASTRON,111,Introduction to Astrobiology,I
+ASTRON,120,Highlights of Astronomy,I
+ASTRON,220-1,Introduction to Astrophysics I: Life Cycle of Stars and Planets,I
+ASTRON,220-2,Introduction to Astrophysics II: Galactic Evolution and Cosmology,I
+ASTRON,305,Basics of Radio Astronomy,I
+ASTRON,390,Current Topics in Astronomy,I
+BIOL SCI,100,Introduction to Biological Sciences at Northwestern (course for participants in Bio&ChemEXCEL),I
+BIOL SCI,103,Diversity of Life,I
+BIOL SCI,104,Plant-People Interactions,I
+BIOL SCI,109,The Nature of Plants,I
+BIOL SCI,150,Human Genetics,I
+BIOL SCI,160,Human Reproduction,I
+BIOL SCI,164,Basic Genetics & Evolution,I
+BIOL SCI,201,Molecular Biology,I
+BIOL SCI,202,Cell Biology,I
+BIOL SCI,203,Genetics and Evolution,I
+BIOL SCI,301,Principles of Biochemistry,I
+BIOL SCI,307,"Brain Structure, Function, and Evolution",I
+BIOL SCI,310,Human Physiology,I
+BIOL SCI,333,Plant-Animal Interactions,I
+BIOL SCI,354,Quantitative Analysis of Biology,I
+BIOL SCI,359,Quantitative Experimentation in Biology,I
+BIOL SCI,377,The Human Microbiome,I
+BIOL SCI,381,Stem Cells and Regengeration,I
+BIOL SCI,393,Human Genomics,I
+CHEM,131,General Chemistry 1,I
+CHEM,132,General Chemistry 2,I
+CHEM,151,Accelerated General Chemistry 1,I
+CHEM,152,Accelerated General Chemistry 2,I
+CHEM,171,Advanced General Inorganic Chemistry,I
+CHEM,172,Advanced General Physical Chemistry,I
+CHEM,201,Chemistry of Nature & Culture,I
+CHEM,212-1,Organic Chemistry (primarily for chemistry majors and ISP students),I
+CHEM,212-2,Organic Chemistry (primarily for chemistry majors and ISP students),I
+CHEM,212-3,Organic Chemistry (primarily for chemistry majors and ISP students),I
+CHEM,215-1,Introductory Organic Chemistry I,I
+CHEM,215-2,Introductory Organic Chemistry II,I
+CHEM,215-3,Advanced Organic Chemistry,I
+CHEM,360,Nanopatterning,I
+CIV ENV,203,Earth in the Anthropocene,I
+COG SCI,210,Language & the Brain,I
+CSD,112,Scientific Exploration of Communication,I
+CSD,202,Neurobiology of Communication,I
+CSD,301,Anatomy and Physiology of the Vocal Mechanism,I
+CSD,302,Anatomy and Physiology of the Peripheral Hearing Mechanism,I
+CSD,303,Brain and Cognition; with PSYCH 327,"I,III"
+CSD,305,Phonetics,"I,III"
+CSD,310,Biological Foundations of Speech and Music,I
+CSD,318,Introduction to Audiology,I
+EARTH,101,Earth Science for the 21st Century,I
+EARTH,105,Climate Catastrophes in Earth History,I
+EARTH,106,"The Ocean, The Atmosphere, & Our Climate",I
+EARTH,114,Evolution & the Scientific Method,I
+EARTH,180,Fantasy Worlds - How to Build Your Own Planet,I
+EARTH,201,Earth Systems Revealed,I
+EARTH,202,Earth's Interior,I
+EARTH,203,Earth System History,I
+EARTH,300,Earth and Planetary Materials,I
+EARTH,301,Petrology: Evolution of Crustal and Mantle Rocks,I
+EARTH,310,Aqueous Geochemistry,I
+EARTH,314,Organic Geochemistry,I
+EARTH,323,Seismology & Earth Strucutre,I
+EARTH,324,Earthquakes and Tectonics,I
+EARTH,340,Physics of Weather and Climate,I
+EARTH,341,Quaternary Climate Change: Ice Ages to the Age of Oil,I
+EARTH,342,Contemporary Energy and Climate Change,I
+EARTH,343,Earth System Modeling,I
+EARTH,370,Geobiology,I
+EARTH,371,Biogeochemistry,I
+ENVR SCI,201,Earth: A Habitable Planet,I
+ENVR SCI,202,The Health of the Biosphere,I
+ENVR SCI,203,Humans and the Environment,I
+GEN LA,280-1,Residence-Linked Seminar - I,I
+GEOG,211,World Biogeography,I
+GEOG,235,Atmosphere and Climate,I
+GEOG,341,Principles of Cartography,I
+GEOG,343,Geographic Information Systems,I
+GBL HLTH,308,Global Health in Human History,"I,IV"
+ISEN,220,Introduction to Energy Systems for the Twenty-First Century,I
+LING,250,Sound Patterns in Human Language,I
+LING,350,Fundamentals of Laboratory Phonology,I
+MATH,327,Mechanics for Mathematicians,"I,II"
+NEUROSCI,202,Cellular and Molecular Neuroscience,I
+NEUROSCI,206,Systems and Behavioral Neuroscience,I
+NEUROSCI,320,Animal Behavior,I
+NEUROSCI,360,Neuroscience of Brain Disorders,I
+NEUROSCI,377,Neurobiology of Sensation and Perception,I
+PHYSICS,103,Ideas of Physics,I
+PHYSICS,105,"Music, Sound, Timbre",I
+PHYSICS,106,A Brief Journey through the Invisible Universe (taught also as ASTRON 106),I
+PHYSICS,125-1,General Physics for ISP,I
+PHYSICS,125-2,General Physics for ISP,I
+PHYSICS,125-3,General Physics for ISP,I
+PHYSICS,130-1,College Physics,I
+PHYSICS,130-2,College Physics,I
+PHYSICS,130-3,College Physics,I
+PHYSICS,135-1,General Physics,I
+PHYSICS,135-2,General Physics,I
+PHYSICS,135-3,General Physics,I
+PHYSICS,140-1,Fundamentals of Physics,I
+PHYSICS,140-2,Fundamentals of Physics,I
+PHYSICS,140-3,Fundamentals of Physics,I
+PHYSICS,239,Foundations of Modern Physics,I
+PHYSICS,312,Scalar and Vector Field Methods in Physics,I
+PHYSICS,335,Physics of Magic,I
+PHYSICS,357,Optics Laboratory,I
+PSYCH,221,Introduction to Neuroscience,I
+PSYCH,320-0,Intermediate Neuroscience,I
+PSYCH,324,Perception,"I,III"
+PSYCH,325-0,Selected Topics in Neuroscience and Psychophysiology,I
+PSYCH,327,Brain and Cognition; with CSD 303,"I,III"
+PSYCH,328,Brain Damage & the Mind,"I,III"
+PSYCH,336,Consciousness,"I,III"
+PSYCH,374,Human Memory,"I,III"
+PSYCH,378,Images of Cognition,"I,III"
+PSYCH,379,Neuroscience & Behavior Laboratory,I
+AF AM ST,215,Introduction to Black Social & Political Life,"III,IV,V"
+AF AM ST,218,Asian-Black Historical Relations in the U.S.; with ASIAN AM 218,"III,IV"
+AF AM ST,236,Introduction to African American Studies,III
+AF AM ST,250,"Race, Class, & Gender",III
+AF AM ST,251,The Mixed-Race Experience; with ASIAN AM 251,III
+AF AM ST,319,"Race, Ethnicity, & the American Constitution","III,V"
+AF AM ST,320,The Social Meaning of Race,III
+AF AM ST,325,Education for Black Liberation,III
+AF AM ST,327,Politics of Black Popular Culture,"III,VI"
+AF AM ST,330,Black Women in 20th Century US,"III,IV"
+AF AM ST,334,Gender & Black Masculinity,III
+AF AM ST,339,Unsettling Whiteness,"III,IV"
+AF AM ST,342,Comparative Slavery,"III,IV,V"
+AF AM ST,355,Diaspora Studies,III
+AF ST,360-SA,"Culture, Language, and Identity in South Africa",III
+ANTHRO,211,Culture & Society,III
+ANTHRO,215,The Study of Culture Through Language,III
+ANTHRO,221,Social and Health Inequalities; with SOCIOL 221,III
+ANTHRO,235,Language in Asian America; with ASIAN AM 235,III
+ANTHRO,240,Anthropology of Money,III
+ANTHRO,242,"Porous Borders? Geography, Power and Techniques of Movement",III
+ANTHRO,307,Anthropology of Peace,III
+ANTHRO,313,Evolutionary Medicine,III
+ANTHRO,320,Peoples of Africa,III
+ANTHRO,326,Archaeologies of Sustainability and Collapse (with ENVR POL 385),III
+ANTHRO,330,Peoples of the World,III
+ANTHRO,332,The Anthropology of Reproduction,III
+ANTHRO,334,The Anthropology of HIV/AIDS,III
+ANTHRO,339,Material Culture,III
+ANTHRO,341,Economic Anthropology,III
+ANTHRO,343,Anthropology of Race,III
+ANTHRO,353,Shady Business: Informal Economies in Contemporary Capitalism,III
+ANTHRO,354,Gender & Anthropology,III
+ANTHRO,355,Sexualities,III
+ANTHRO,358,Primate Behavior and Ecology,III
+ANTHRO,360,Language & Culture,III
+ANTHRO,361,Talk as Social Action,III
+ANTHRO,365,"Language, Race, and Ethnicity in the U.S.; with ASIAN AM 365",III
+ANTHRO,369,Contemporary Immigration to the US,III
+ANTHRO,373,Power & Culture in American Cities,III
+ANTHRO,376,Socialization,III
+ANTHRO,377,Psychological Anthropology,III
+ANTHRO,378,Law & Culture,III
+ANTHRO,382,Political Ecology (with ENVR POL 384),III
+ANTHRO,384,"Traveling While Muslim: Islam, Mobility, and Security after 9/11",III
+ASIAN AM,203,Topics in Asian American Social and Cultural Analysis,III
+ASIAN AM,210,Introduction to Asian American Studies,III
+ASIAN AM,218,Asian-Black Historical Relations in the U.S.; with AF AM ST 218,"III,IV"
+ASIAN AM,225,Contemporary Issues in Asian American Communities,III
+ASIAN AM,235,Language in Asian America; with ANTHRO 235,III
+ASIAN AM,251,The Mixed-Race Experience; with AF AM ST 251,III
+ASIAN AM,303,Advanced Topics in Social and Cultural Analysis,III
+ASIAN AM,350,Asian American Religions,"III,V"
+ASIAN AM,360,"Studies in Race, Gender, and Sexuality",III
+ASIAN AM,365,"Language, Race, and Ethnicity in the U.S.; with ANTHRO 365",III
+ASIAN AM,370,Studies in Diaspora,III
+BUS INST,303,Leadership in Organizations,III
+CFS,387,"Field Studies in Environment, Science, and Sustainability (variable-credit course; 1 unit can count toward distribution requirements)",III
+CFS,391,Field Studies in Social Justice (variable-credit course; 1 unit can count toward distribution requirements),III
+CFS,392,Field Studies in Public Health (variable-credit course; 1 unit can count toward distribution requirements),III
+CFS,393,Field Studies in the Modern Workplace (4-unit course; 1 unit can count toward distribution requirements),"III,IV"
+CFS,394,Legal Field Studies (4-unit course; 1 unit can count toward distribution requirements),III
+CFS,395,Business Field Studies (4-unit course; 1 unit can count toward distribution requirements),III
+CFS,397,Field Studies in Civic Engagement (variable-credit course; 1 unit can count toward distribution requirements),III
+CLASSICS,360,Origins of Greek Democracy,"III,IV"
+COG SCI,110,Introduction to Cognitive Science,III
+COG SCI,202,Evaluating Evidence; with POLI SCI 212,III
+COG SCI,211,"Learning, Representation, & Reasoning",III
+COG SCI,245,Presenting Ideas and Data (with PSYCH 245); starting Fall 2022 this will be COG SCI 345,III
+COG SCI,345,Presenting Ideas and Data (with PSYCH 345); prior to Fall 2022 this was COG SCI 245,III
+COMP_SCI,101,"Computer Science: Concepts, Philosophy, and Connections",III
+CSD,303,Brain and Cognition ; with PSYCH 327,"I,III"
+CSD,305,Phonetics,"I,III"
+CSD,306,Psychoacoustics,III
+CSD,309,"Culture, Language, and Learning",III
+CSD,334,Delivery Systems in Speech and Language Pathology,III
+CSD,342,Language and Cognition in Atypical Development,III
+CSD,373,Introduction to Learning Disabilities,III
+CSD,376,Diagnostic & Remedial Approaches for Children with Learning Problems,III
+CSD,392,Language Development and Usage,III
+ECON,201,Introduction to Macroeconomics,III
+ECON,202,Introduction to Microeconomics,III
+ECON,310-1,"Microeconomics, I",III
+ECON,311,Macroeconomics,III
+ENVR POL,211,Food and Society: An Introduction; with SOCIOL 211,III
+ENVR POL,212,Environment and Society; with SOCIOL 212,III
+ENVR POL,311,"Food, Politics, and Society; with SOCIOL 311",III
+ENVR POL,312,Social Change and the Environment; with SOCIOL 312,III
+ENVR POL,329,U.S. Environmental Politics (taught with POLI SCI 329),III
+ENVR POL,336,"The Climate Crisis, Policies, and Society; with SOCIOL 336",III
+ENVR POL,356,Native Americans and Environmental Decision Making; with PSYCH 356,III
+ENVR POL,360,Animal Law (with LEGAL ST 360),III
+ENVR POL,384,Political Ecology (with ANTHRO 382),III
+ENVR POL,385,Archaeologies of Sustainability and Collapse (with ANTHRO 326),III
+GBL HLTH,305,Global Health and Indigenous Medicine,III
+GBL HLTH,306,Biomedicine and Culture,III
+GBL HLTH,307,International Perspectives on Mental Health,III
+GBL HLTH,315-SA,Public Health in South Africa,III
+GBL HLTH,316-SA,"Development Perspectives on Health in South Africa through Community
+Engagement",III
+GBL HLTH,320,Qualitative Research Methods in Global Health,III
+GBL HLTH,321,War and Public Health,"III,V"
+GBL HLTH,322,Social Determinants of Health,III
+GBL HLTH,323,Global Health from Policy to Practice,III
+GBL HLTH,332-SA,Public Health in China,III
+GBL HLTH,333-SA,Traditional Chinese Medicine,III
+GEN LA,280-3,Residence-Linked Seminar - III,III
+GEOG,240,Economic Geography,III
+GEOG,312,Geography of Chicago and Its Region,III
+GEOG,313,North America,III
+GEOG,328,The Human Use of The Earth,III
+GERMAN,213,"Politics, History, and Culture in 21st Century Germany",III
+GNDR ST,220,Sexual Subjects: Introduction to Sexuality Studies,"III,IV"
+GNDR ST,232,Sexuality and Society; with SOCIOL 232,III
+GNDR ST,234,Language and Gender; with LING 223,III
+GNDR ST,235,Beyond the Binary: Transgender and Race,III
+GNDR ST,250,Gender Issues in Science and Health,III
+GNDR ST,331,Sociology of Gender and Sexuality,III
+GNDR ST,332,"Gender, Sexuality, and Health",III
+GNDR ST,340,"Gender, Sexuality, and the Law (with LEGAL ST 340)","III,IV"
+GNDR ST,341,Transnational Perspectives on Gender and Sexuality,III
+GNDR ST,350-3,Research Seminar in Gender and Sexuality Studies,III
+GNDR ST,351,"Gender, Sexuality, and Public Policy",III
+GNDR ST,352,"Gender, Sexuality, and Political Theory",III
+GNDR ST,353,Gender and Citizenship,III
+GNDR ST,371,"Gender, Sexuality, and Popular Culture",III
+HUM,220,"Health, Biomedicine, Culture, and Society ; with SOCIOL 220","III,V"
+HUM,310-3,Global Humanities Lab,III
+HUM,325-3,Humanites in the Digital Age,III
+HUM,370-3,Special Topics in the Humanities,III
+INTL ST,290,Introductory Topics in International Studies,III
+INTL ST,393-0,"Development in the Global Context: Participation, Power, and Social Change (variable credit course; 1 unit can count toward distribution requirements)",III
+INTL ST,393-SA,"Development in the Global Context: Participation, Power, and Social Change (variable credit course; 1 unit can count toward distribution requirements)",III
+IEMS,365,Analytics for Social Good,III
+ISEN,210,Introduction to Sustainability: Challenges and Solutions,III
+LATINO,201,Introduction to Latina and Latino Studies,"III,IV"
+LATINO,222,Latina and Latino Youth in U.S. Cities,III
+LATINO,342,Latina and Latino Social Movements,"III,V"
+LATINO,392,Topics in Latina and Latino Social and Political Issues,"III,V"
+LEGAL ST,206,Law and Society; with SOCIOL 206,III
+LEGAL ST,207,Legal Studies Research Methods; with SOCIOL 227,III
+LEGAL ST,308,Sociology of Law; with SOCIOL 318,III
+LEGAL ST,315,Corporation in US Law and Culture,III
+LEGAL ST,330,U.S. Refugee Policy & Localities (with POLI SCI 330),III
+LEGAL ST,332,Constitutional Law I; with POLI SCI 332,III
+LEGAL ST,333,Constitutional Law II; with POLI SCI 333,III
+LEGAL ST,340,Gender and the Law (with GNDR ST 340),"III,IV"
+LEGAL ST,342,International Organizations; with POLI SCI 342,III
+LEGAL ST,348,"Race, Politics, and the Law; with SOCIOL 348",III
+LEGAL ST,350,Psychology and the Law; with PSYCH 340,III
+LEGAL ST,356,Constitutional Challenges in Comparative Perspective (with POLI SCI 356),III
+LEGAL ST,360,Animal Law (with ENVR POL 360),III
+LEGAL ST,380,Refugee Crises and Human Rights (with POLI SCI 380),III
+LEGAL ST,381,Children and the Law; with PSYCH 381,III
+LING,220,Language and Society,III
+LING,223,Language and Gender; with GNDR ST 234,III
+LING,312,Experimental Sociolinguistics,III
+LING,315,Experimental Approaches to Word Form Processing,III
+LING,316,Experimental Syntax,III
+LING,317,Experimental Pragmatics,III
+LING,320,Sociolinguistics,III
+LING,321,Bilingualism,III
+LING,330,Research Methods in Linguistics,III
+LING,363,Making a Dictionary: The Northwestern Project; with SLAVIC 322,III
+LING,373,Implicature,III
+MENA,200,"Making the Modern Middle East: Culture, Politics, History","III,VI"
+MENA,290-3,Introductory Topics in Middle East and North African Studies,III
+MENA,390-3,Advanced Topics in  Middle East and North African Studies,III
+MMSS,211-1,Social Science Theories & Methods: First Year 1,III
+MMSS,211-3,Social Science Theories & Methods: First Year 3,III
+PHIL,225,Minds and Machines,III
+PHIL,253,Introduction to the Philosophy of Language,III
+POLI SCI,201,Introduction to Political Theory,"III,V"
+POLI SCI,211,Introduction to Interprative Methods in Political Science,III
+POLI SCI,212,Evaluating Evidence; with COG SCI 202,III
+POLI SCI,220,American Government and Politics,III
+POLI SCI,230,Introduction to Law in the Political Arena,III
+POLI SCI,240,Introduction to International Relations,III
+POLI SCI,250,Introduction to Comparative Politics,III
+POLI SCI,306,American Political Thought,"III,IV"
+POLI SCI,320,The American Presidency,III
+POLI SCI,321,Urban Politics,III
+POLI SCI,322,Ideas and Institutions in Urban Politics,III
+POLI SCI,324,Political Parties and Elections,III
+POLI SCI,325,Congress and the Legislative Process,III
+POLI SCI,326,Race and Public Policy,III
+POLI SCI,327,African American Politics,III
+POLI SCI,329,U.S. Environmental Politics (taught with ENVR POL 329),III
+POLI SCI,330,U.S. Refugee Policy & Localities (with LEGAL ST 330),III
+POLI SCI,332,Constitutional Law I; with LEGAL ST 332,III
+POLI SCI,333,Constitutional Law II; with LEGAL ST 333,III
+POLI SCI,334,Latino Politics,III
+POLI SCI,335,Political Psychology,III
+POLI SCI,336,Immigration Politics and Policy,III
+POLI SCI,342,International Organizations; with LEGAL ST 342,III
+POLI SCI,343,Politics of International Law,III
+POLI SCI,344,U.S. Foreign Policy,III
+POLI SCI,345,National Security,III
+POLI SCI,350,Social Movements,III
+POLI SCI,351,Politics of the Middle East,III
+POLI SCI,352,Global Development (co-listed with SOCIOL 317),III
+POLI SCI,353,Politics of Latin America,III
+POLI SCI,354,Politics of Southeast Asia,III
+POLI SCI,355,Politics of China,III
+POLI SCI,356,Constitutional Challenges in Comparative Perspective (with LEGAL ST 356),III
+POLI SCI,357-SA,Political Economy of Israel,III
+POLI SCI,358-SA,Contemporary South Africa: A Political Economy/Policy Perspective,III
+POLI SCI,359,Politics in Africa,III
+POLI SCI,361,Democratic Transitions,III
+POLI SCI,361-SA,Democratic Transitions,III
+POLI SCI,362,Politics of Europe,III
+POLI SCI,368,Political Economy of Development,III
+POLI SCI,369,The Politics of Post-Soviet Russia,III
+POLI SCI,372,The Middle East in International Politics,III
+POLI SCI,373,Chinese Foreign Policy,III
+POLI SCI,374,Politics of Capitalism,III
+POLI SCI,377,Drugs and Politics,III
+POLI SCI,378,America and the World,III
+POLI SCI,379-SA,"China in Transition: Ideology, Political Economy, Law, and Relations with the United States",III
+POLI SCI,380,Refugee Crises and Human Rights (with LEGAL ST 380),III
+POLI SCI,381-SA,Political Economy of Contemporary China,III
+POLI SCI,382,Politics of Religious Diversity,"III,V"
+POLI SCI,383,War and Change in International Politics,III
+POLI SCI,384,International Responses to Mass Atrocities,III
+POLI SCI,388,Institutions and Society; with SOCIOL 288,III
+POLI SCI,389,Understanding Genocide; with SOCIOL 379,III
+PSYCH,110,Introduction to Psychology,III
+PSYCH,213,Social Psychology,III
+PSYCH,215,Psychology of Personality,III
+PSYCH,228,Cognitive Psychology,III
+PSYCH,244,Developmental Psychology,III
+PSYCH,245,Presenting Ideas and Data (with COG SCI 245); starting Fall 2022 this will be PSYCH 345,III
+PSYCH,248,Health Psychology,III
+PSYCH,249,Buddhist Psychology,"III,V"
+PSYCH,303,Psychopathology,III
+PSYCH,306,Introduction to Clinical Psychology,III
+PSYCH,308,Cognitive Behavior Therapy,III
+PSYCH,311,Psychology of Attitudes,III
+PSYCH,313,Relationship Science,III
+PSYCH,317,The Holocaust: Psychological Themes & Perspectives,III
+PSYCH,324,Perception,"I,III"
+PSYCH,327,Brain and Cognition; with CSD 303,"I,III"
+PSYCH,328,Brain Damage & the Mind,"I,III"
+PSYCH,333,Psychology of Thinking,III
+PSYCH,336,Consciousness,"I,III"
+PSYCH,340,Psychology and Law; with LEGAL ST 350,III
+PSYCH,341,Positive Psychology: The Science of Well-Being,III
+PSYCH,342,Evolutionary Psychology,III
+PSYCH,343,Psychology of Beauty,III
+PSYCH,344,Cultural Psychology,III
+PSYCH,345,Presenting Ideas and Data (with COG SCI 345); prior to Fall 2022 this was PSYCH 245,III
+PSYCH,348,Psychology of Sex and Gender Differences,III
+PSYCH,356,Native Americans and Environmental Decision Making; with ENVR POL 356,III
+PSYCH,360,Personality Research,III
+PSYCH,364,Social & Personality Development,III
+PSYCH,366,Stereotyping and Prejudice,III
+PSYCH,367,Child Psychopathology,III
+PSYCH,369,Psychological Tests and Measures,III
+PSYCH,370,Cognitive Development,III
+PSYCH,372,Language & Cognition,III
+PSYCH,373,Decision Making,III
+PSYCH,374,Human Memory,"I,III"
+PSYCH,378,Images of Cognition,"I,III"
+PSYCH,381,Children and the Law; with LEGAL ST 381,III
+PSYCH,383,Psychology and Food,III
+PSYCH,387,Consumer Psychology and Marketing Research,III
+SLAVIC,322,Making a Dictionary: The Northwestern Project; with LING 363,III
+SOCIOL,110,Introduction to Sociology,III
+SOCIOL,201,"Social Inequality: Race, Class, and Power",III
+SOCIOL,202,Social Problems,III
+SOCIOL,206,Law & Society (with LEGAL ST 206),III
+SOCIOL,207,Cities in Society,III
+SOCIOL,208,Race and Society,III
+SOCIOL,210,Families and Societies,III
+SOCIOL,211,Food and Society: An Introduction; with ENVR POL 211,III
+SOCIOL,212,Environment and Society; with ENVR POL 212,III
+SOCIOL,215,Economy and Society,III
+SOCIOL,216,Gender and Society,III
+SOCIOL,217,Global Perspectives on Education,III
+SOCIOL,218,Education and Inequality: Focus on Chicago,III
+SOCIOL,220,"Health, Biomedicine, Culture, and Society; with HUM 220","III,V"
+SOCIOL,221,Social and Health Inequalities; with ANTHRO 221,III
+SOCIOL,227,Legal Studies Research Methods; with LEGAL ST 207,III
+SOCIOL,232,Sexuality and Society; with GNDR ST 232,III
+SOCIOL,276,Introductory Topics in Sociology,III
+SOCIOL,277,Introduction to Native American Studies,"III, IV"
+SOCIOL,288,Institutions and Society; with POLI SCI 388,III
+SOCIOL,301,The City: Urbanization and Urbanism,III
+SOCIOL,302,Sociology of Organizations,III
+SOCIOL,304,The Politics of Racial Knowledge,III
+SOCIOL,305,Population Dynamics,III
+SOCIOL,307,School and Society,III
+SOCIOL,308,"Crime, Politics, and Society",III
+SOCIOL,309,Political Sociology,III
+SOCIOL,310,Sociology of the Family,III
+SOCIOL,311,"Food, Politics, and Society; with ENVR POL 311",III
+SOCIOL,312,Social Change and the Environment; with ENVR POL 312,III
+SOCIOL,314,Sociology of Religion,III
+SOCIOL,316,Economic Sociology,III
+SOCIOL,317,Global Development (co-listed with POLI SCI 352),III
+SOCIOL,318,Sociology of Law; taught with LEGAL ST 308,III
+SOCIOL,319,Sociology of Science,III
+SOCIOL,321,"Numbers, Identity, and Modernity","III,V"
+SOCIOL,322,Sociology of Immigration,III
+SOCIOL,323,American Subcultures and Ethnic Groups,III
+SOCIOL,324,Global Capitalism,"III,IV"
+SOCIOL,325,Global and Local Inequalities,III
+SOCIOL,327,Youth and Society,III
+SOCIOL,328,Inequality and American Society,III
+SOCIOL,330,"Law, Markets, and Globalization",III
+SOCIOL,331,"Markets, Hierarchies, and Democracies",III
+SOCIOL,332,Work and Occupations,III
+SOCIOL,334,Social Protest and Social Change Around the World,III
+SOCIOL,335,Sociology of Rational Decision Making,III
+SOCIOL,336,"The Climate Crisis, Policies, and Society; with ENVR POL 336",III
+SOCIOL,345,Class and Culture,III
+SOCIOL,348,"Race, Politics, and the Law; with LEGAL ST 348",III
+SOCIOL,350,Sociology of the Arts,III
+SOCIOL,355,Medical Sociology,III
+SOCIOL,356,Sociology of Gender,III
+SOCIOL,379,Understanding Genocide; with POLI SCI 389,III
+SOCIOL,392,Seminars,III
+SPANISH,363,Topics in U.S. Latina and Latino Literary and Cultural Studies  (Spanish prereq),"III,VI"
+AF AM ST,212-1,Introduction to African American History; with HISTORY 212-1,IV
+AF AM ST,212-2,Introduction to African American History; with HISTORY 212-2,IV
+AF AM ST,213,History of the Black World,IV
+AF AM ST,214,Comparative Race and Ethnic Studies,IV
+AF AM ST,215,Introduction to Black Social & Political Life,"III,IV,V"
+AF AM ST,218,Asian-Black Historical Relations in the U.S. ;  with ASIAN AM 218,"III,IV"
+AF AM ST,220,Civil Rights & Black Liberation,"IV,V"
+AF AM ST,245,The Black Diaspora & Transnationality,IV
+AF AM ST,315,Religion in the Black Atlantic,"IV,V"
+AF AM ST,330,Black Women in 20th-Century,"III,IV"
+AF AM ST,339,Unsettling Whiteness,"III,IV"
+AF AM ST,342,Comparative Slavery,"III,IV,V"
+AF AM ST,345,Afro-Latin America,IV
+ANTHRO,214,Archaeology: Unearthing History,IV
+ANTHRO,311,Indians of North America,IV
+ANTHRO,318,Material Worlds of the Middle Ages,IV
+ANTHRO,319,"Material Life and Culture in Europe, 1500-1800",IV
+ANTHRO,324,Archaeological Survey Methods,IV
+ANTHRO,327,Archaeology of Ethnicity in America,IV
+ANTHRO,328,The Maya,IV
+ANTHRO,370,Anthropology in Historical Perspective,IV
+ART HIST,210,Introduction to Art History,"IV,VI"
+ART HIST,222,Introduction to Art of the African Diaspora,"IV,VI"
+ART HIST,224,Introduction to Ancient Art,"IV,VI"
+ART HIST,225,Introduction to Medieval Art,"IV,VI"
+ART HIST,250,Introduction to European Art,"IV,VI"
+ART HIST,255,Introduction to Modernism,"IV,VI"
+ART HIST,318,"Exhibiting Antiquity: The Culture and Politics of Display; with
+CLASSICS 397 and HUM 397","IV,VI"
+ART HIST,320-1,"Medieval Art, Byzantine","IV,VI"
+ART HIST,320-3,"Medieval Art, Late Medieval","IV,VI"
+ART HIST,340-1,"Baroque Art, Southern Europe 1600-1700","IV,VI"
+ART HIST,340-2,"Baroque Art, Northern Europe 1600-1700","IV,VI"
+ASIAN AM,214,Introduction to Asian American History; with HISTORY 214,IV
+ASIAN AM,216,Global Asians; with HISTORY 216,IV
+ASIAN AM,218,Asian-Black Historical Relations in the U.S.; with AF AM ST 218,"III,IV"
+ASIAN AM,220,Topics in History,IV
+ASIAN AM,304,Asian American Women's History; with HISTORY 304,IV
+ASIAN AM,320,Advanced Topics in History,IV
+BUS INST,321,Business and Economic Institutions in Historical Perspective,IV
+CFS,393,"Field Studies in the Modern Workplace (4-unit course; 1 unit can
+count toward distribution requirements)","III,IV"
+CLASSICS,210,The World of Homer; with HUM 205,"IV,V,VI"
+CLASSICS,211,Greek History and Culture: From Homer to Alexander the Great,"IV,V,VI"
+CLASSICS,212,Rome: Culture and Empire,"IV,V,VI"
+CLASSICS,310,Archaeology of the Ancient Mediterranean,"IV,VI"
+CLASSICS,320,Greek and Roman History,IV
+CLASSICS,330,Ancient Economy,IV
+CLASSICS,360,Origins of Greek Democracy,"III,IV"
+CLASSICS,380,Classical Reception Studies,"IV,VI"
+CLASSICS,397,"Exhibiting Antiquity: The Culture and Politics of Display; with ART
+HIST 318 and HUM 397","IV,VI"
+ENGLISH,302,History of the English Language,"IV,VI"
+ENVR POL,309,American Environmental History; with HISTORY 309,IV
+ENVR POL,340,Global Environments and World History; with HISTORY 376,IV
+GEN LA,280-4,Residence-Linked Seminar - IV,IV
+GERMAN,222,German History from 1789-1989,IV
+GERMAN,222-SA,German History from 1789-1989,IV
+GERMAN,224,Contemporary Germany,IV
+GERMAN,230,Berlin and the Culture of Democracy,"IV,VI"
+GERMAN,234-1,Jews & Germans: An Intercultural History I,"IV,V,VI"
+GERMAN,234-2,Jews & Germans: An Intercultural History II,"IV,V,VI"
+GERMAN,248,Learning Diversity: German and Global Migration,IV
+GERMAN,272,Luther and the West; with RELIGION 272,"IV,V"
+GERMAN,321-1,"Reason, Revolution, & Despair: 1800-1900 (German prereq)","IV,VI"
+GERMAN,321-2,Myth & Modernity: 1900-1945 (German prereq),"IV,VI"
+GERMAN,321-3,Recoveries & Transitions: 1945 to Present  (German prereq),"IV,VI"
+GERMAN,337,Science and Culture in Germany (German prereq),"IV,V"
+GERMAN,344-1,Weimar and Nazi Germany (taught with HISTORY 344-1),IV
+GERMAN,344-2,Germany Since 1945 (taught with HISTORY 344-2),IV
+GERMAN,349,History of the Holocaust (taught with HISTORY 349),IV
+GBL HLTH,308,Global Health in Human History,"I,IV"
+GBL HLTH,309,Biomedicine and World History; with HISTORY 379,IV
+GBL HLTH,325,History of Reproductive Health,IV
+GNDR ST,220,Sexual Subjects: Introduction to Sexuality Studies,"III,IV"
+GNDR ST,230,Traditions in Feminist Thought,IV
+GNDR ST,321,"Gender, Sexuality, and History",IV
+GNDR ST,324,U.S. Gay and Lesbian History; with HISTORY 324,IV
+GNDR ST,340,"Gender, Sexuality, and the Law (with LEGAL ST 340)","III,IV"
+GNDR ST,350-4,Research Seminar in Gender and Sexuality Studies,IV
+HISTORY,200,New Introductory Courses in History,IV
+HISTORY,201-1,Europe in the Medieval and Early Modern World,IV
+HISTORY,201-2,Europe in the Modern World,IV
+HISTORY,203-1,Jewish History 750-1492,IV
+HISTORY,203-2,Jewish History 1492-1789,IV
+HISTORY,203-3,Jewish History 1789-1948,IV
+HISTORY,210-1,"History of the United States, Precolonial to the Civil War",IV
+HISTORY,210-2,"History of the United States, Reconstruction to the Present",IV
+HISTORY,212-1,Introduction to African American History; with AF AM ST 212-1,IV
+HISTORY,212-2,Introduction to African American History; with AF AM ST 212-2,IV
+HISTORY,214,Asian American History; with ASIAN AM 214,IV
+HISTORY,216,Global Asians; with ASIAN AM 216,IV
+HISTORY,218,Latina and Latino History; with LATINO 218,IV
+HISTORY,250-1,Global History: Early Modern to Modern Transition,IV
+HISTORY,250-2,Global History: The Modern World,IV
+HISTORY,251,The Politics of Disaster: A Global Environmental History,IV
+HISTORY,252,Global History of Refugees,IV
+HISTORY,255-1,Background to African Civilization and Culture: Origins to 17th C,IV
+HISTORY,255-2,Background to African Civilization and Culture: 16th-19th C,IV
+HISTORY,255-3,Background to African Civilization and Culture: 1875-1994,IV
+HISTORY,260-1,History of Latin America in the Colonial Period: 1492-1821,IV
+HISTORY,260-2,History of Latin America in the Modern Period: 1789-present,IV
+HISTORY,261,Sex After Shakespeare,IV
+HISTORY,262,"Pirates, Guns, and Empires",IV
+HISTORY,270,Middle Eastern/Islamic Civilization,IV
+HISTORY,271-1,History of the Islamic Middle East: 600-1200,IV
+HISTORY,271-2,History of the Islamic Middle East: 1200-1789,IV
+HISTORY,271-3,History of the Islamic Middle East: 1789-present,IV
+HISTORY,272,The History of Ancient Egypt (3100-ca. 1000 BCE),IV
+HISTORY,275-1,History of Early Modern Science and Medicine,IV
+HISTORY,275-2,History of Modern Science and Medicine,IV
+HISTORY,281,Chinese Civilization,IV
+HISTORY,282,Sino-American Relations in the Modern World,IV
+HISTORY,284-1,"Japanese History, Ancient & Medieval: 200-1600",IV
+HISTORY,284-2,"Japanese History, Tokugawa Period: 1600-1868",IV
+HISTORY,286,World War II in Asia,IV
+HISTORY,292,Introduction to Topics in History,IV
+HISTORY,300,New Lectures in History,IV
+HISTORY,301-SA-1,"New Lectures in History 1 (for BCICS summer study abroad
+programs)",IV
+HISTORY,301-SA-2,New Lectures in History 2 (for BCICS summer study abroad programs),IV
+HISTORY,303-1,"American Women's History, to 1865",IV
+HISTORY,303-2,"American Women's History, since 1865",IV
+HISTORY,304,Asian American Women's History; with ASIAN AM 304,IV
+HISTORY,305,American Immigration; with LEGAL ST 305,IV
+HISTORY,308,The American West,IV
+HISTORY,309,American Environmental History; with ENVR POL 309,IV
+HISTORY,310-1,Early American History: Conquest and Colonization to 1688,IV
+HISTORY,310-2,"Early American History: The Age of the American Revolution, 1688-
+1789",IV
+HISTORY,311,"New Nation: The United States, 1787-1848",IV
+HISTORY,314,Civil War and Reconstruction,IV
+HISTORY,315-1,The U.S. since 1900: Early 20th C,IV
+HISTORY,315-2,The U.S. since 1900: Mid-20th C,IV
+HISTORY,315-3,The U.S. since 1900: Late 20th C to Present,IV
+HISTORY,316,The Sixties,IV
+HISTORY,317-1,American Cultural History: 19th C,IV
+HISTORY,317-2,American Cultural History: 20th C to Present,IV
+HISTORY,318-1,Legal & Constitutional History of the U.S.; with LEGAL ST 318-1,IV
+HISTORY,318-2,Legal & Constitutional History of the U.S.; with LEGAL ST 318-2,IV
+HISTORY,319,History of U.S. Foreign Relations,IV
+HISTORY,320,The Fourteenth Amendment; with LEGAL ST 320,IV
+HISTORY,321,The Vietnam Wars,IV
+HISTORY,322-1,Development of the Modern American City: to 1880,IV
+HISTORY,322-2,Development of the Modern American City: 1880-Present,IV
+HISTORY,324,U.S. Gay and Lesbian History; with GNDR ST 324,IV
+HISTORY,325,History of American Technology,IV
+HISTORY,326,U.S. Intellectual History,IV
+HISTORY,330,Medieval Sex,IV
+HISTORY,331,Women in Medieval Society,IV
+HISTORY,332-1,The Development of Medieval Europe: Earlty Middle Ages,IV
+HISTORY,332-2,The Development of Medieval Europe: High & Late Middle Ages,IV
+HISTORY,333,The Age of the Renaissance,IV
+HISTORY,334,The Age of the Reformation,IV
+HISTORY,336,Spain 1500-1700: Rise and Fall of a European Empire,IV
+HISTORY,337,History of Modern Europe,IV
+HISTORY,338-1,Europe in the 20th Century: 1900-1945,IV
+HISTORY,338-2,Europe in the 20th Century: 1945-present,IV
+HISTORY,340,"Gender, War, and Revolution in the 20th Century",IV
+HISTORY,341,"Paris: World City, 1700 to the Present",IV
+HISTORY,342-1,History of Modern France: Ancien Regime and the French Revolution,IV
+HISTORY,342-2,History of Modern France: 19th C. to Present,IV
+HISTORY,343,Modern Italy,IV
+HISTORY,344-1,Weimar and Nazi Germany (taught with GERMAN 344-1),IV
+HISTORY,344-2,Germany Since 1945 (taught with GERMAN 344-2),IV
+HISTORY,345-1,History of Russia: 800-1700,IV
+HISTORY,345-2,History of Russia: 1700-1917,IV
+HISTORY,345-3,History of Russia: 1917-present,IV
+HISTORY,346,"East Central Europe under Communist Rule and Beyond, 1945 to the
+Present",IV
+HISTORY,347,Christians and Jews,IV
+HISTORY,348-1,"Jews in Poland, Ukraine, and Russia",IV
+HISTORY,348-2,"Jews in Poland, Ukraine, and Russia",IV
+HISTORY,349,History of the Holocaust (taught with GERMAN 349),IV
+HISTORY,352,A Global History of Death and Dying,"IV,V"
+HISTORY,356-1,"History of South Africa, Earlty Times to 1879",IV
+HISTORY,356-2,"History of South Africa, 20th century",IV
+HISTORY,357,East Africa,IV
+HISTORY,358,Topics in West African History,IV
+HISTORY,360,Tudor and Stuart Britain,IV
+HISTORY,362-1,"Modern British History, 1688-1815",IV
+HISTORY,362-2,"Modern British History, 1780-1900",IV
+HISTORY,362-3,"Modern British History, 1900-present",IV
+HISTORY,364,Gender and Sexuality in Victorian Britain,IV
+HISTORY,365,Revolutions in Medicine,IV
+HISTORY,366,Race and Nation in the Independence Era,IV
+HISTORY,367,History of Modern Brazil,IV
+HISTORY,368-1,Revolution in 20th-Century Latin America: Mexico and its Revolutions,IV
+HISTORY,368-2,Revolution in 20th-Century Latin America: Marxist Revolutions,IV
+HISTORY,369,Development and Inequality in Modern Latin America,IV
+HISTORY,373-1,"The Ottomans: Last Empire of Islam, 1300-1622",IV
+HISTORY,373-2,"The Ottomans: From ""Second Empire"" to the Age of Nationalism,
+1622-1918",IV
+HISTORY,376,Global Environments and World History (with ENVR POL 340),IV
+HISTORY,378,History of Law and Science,IV
+HISTORY,379,Biomedicine and World History (with GBL HLTH 309),IV
+HISTORY,381-1,"History of Modern China: Late Imperial China, 1600-1911",IV
+HISTORY,381-2,"History of Modern China: Twentieth-Century China, 1911-2000",IV
+HISTORY,381-3,China in Reform: History of the Present,IV
+HISTORY,382,The Modern Japanese City,IV
+HISTORY,383,Japan's Modern Revolution,IV
+HISTORY,384-1,History of Modern Japan: The Modern State,IV
+HISTORY,384-2,History of Modern Japan: War and Postwar Japan,IV
+HISTORY,385-1,"History of Modern South Asia, 1500-1800",IV
+HISTORY,385-2,"History of Modern South Asia, ca.1750-present",IV
+HISTORY,386-2,History of Modern Southeast Asia Until 1945,IV
+HISTORY,386-3,History of Contemporary Southeast Asia Since 1945,IV
+HISTORY,393,Approaches to History,IV
+HISTORY,395,Research Seminar,IV
+HUM,205,The World of Homer; with CLASSICS 210,"IV,V,VI"
+HUM,211,Humanities in the World II,IV
+HUM,310-4,Global Humanites Lab,IV
+HUM,325-4,Humanites in the Digital Age,IV
+HUM,370-4,Special Topics in the Humanities,IV
+HUM,397,"Exhibiting Antiquity: The Culture and Politics of Display; with ART
+HIST 318 and CLASSICS 397","IV,VI"
+ITALIAN,265,Body & Soul from Rome to the Renaissance,"IV,VI"
+ITALIAN,270,Michelangelo and the Italian Renaissance,"IV,VI"
+JWSH ST,280-4,Topics in Israel Studies,IV
+LATINO,201,Introduction to Latina and Latino Studies,"III,IV"
+LATINO,218,Latina and Latino History; with HISTORY 218,IV
+LATINO,391,Topics in Latina and Latino History,IV
+LEGAL ST,305,American Immigration; with HISTORY 305,IV
+LEGAL ST,318-1,Legal & Constitutional History of the U.S.; with HISTORY 318-1,IV
+LEGAL ST,318-2,Legal & Constitutional History of the U.S.; with HISTORY 318-2,IV
+LEGAL ST,320,The Fourteenth Amendment; with HISTORY 320,IV
+LEGAL ST,340,Gender and the Law (with GNDR ST 340),"III,IV"
+LEGAL ST,347,Comparative Race and Ethnicity,IV
+LING,222,"Language, Politics, and Identity (with SLAVIC 222)",IV & V
+MENA,290-4,Introductory Topics in Middle East and North African Studies,IV
+MENA,390-4,Advanced Topics in  Middle East and North African Studies,IV
+POLI SCI,301,Classical Political Theory,"IV,V"
+POLI SCI,302,"Subjects, Citizens, Revolutionaries: Early Modern Political Thought","IV,V"
+POLI SCI,306,American Political Thought,"III,IV"
+POLI SCI,346,European Union in International Affairs,IV
+PORT,210,"Icons, Legends, and Myths in Brazil  (may have Portuguese prereq)","IV,VI"
+RELIGION,264,American Religious History from 1865 to the Great Depression,"IV, V"
+RELIGION,265,American Religious History from World War II to the Present,"IV, V"
+RELIGION,272,Luther and the West; with GERMAN 272,"IV,V"
+RELIGION,363,Topics in Women and Religion in America,"IV, V"
+RELIGION,381,Global Catholicism in the Contemporary World,"IV,V"
+RELIGION,385,Topics in U.S. Catholicism,"IV,V"
+RELIGION,386,Topics in Latin American Catholicism,"IV,V"
+RTVF,310,Television History,IV
+SLAVIC,222,"Language, Politics, and Identity (with LING 222)",IV & V
+SLAVIC,255,Slavic Civilizations,IV
+SLAVIC,255-SA,Slavic Civilizations,IV
+SLAVIC,261,Heart of Europe: Poland in the 20th Century,IV
+SLAVIC,390,Literature and Politics in Central and Eastern Europe,"IV,VI"
+SLAVIC,393,"Prague: City of Cultures, City of Conflict","IV,VI"
+SOCIOL,277,Introduction to Native American Studies,"III,IV"
+SOCIOL,324,Global Capitalism,"III,IV"
+AF AM ST,215,Introduction to Black Social & Political Life,"III,IV,V"
+AF AM ST,220,Civil Rights and Black Liberation,"IV,V"
+AF AM ST,310,Contemporary Asian/Black Relations; with ASIAN AM 310,V
+AF AM ST,315,Religion in the Black Atlantic,"IV,V"
+AF AM ST,319,"Race, Ethnicity, and the American Constitution","III,V"
+AF AM ST,342,Comparative Slavery,"III,IV,V"
+ANTHRO,232,Myth and Symbolism,V
+ANTHRO,255,Contemporary African Worlds,V
+ANTHRO,350,Anthropology of Religion,V
+ANTHRO,351,Hope and Futurity,V
+ANTHRO,368,Latina and Latino Ethnography,V
+ASIAN AM,310,Contemporary Asian/Black Relations; with AF AM ST 310,V
+ASIAN AM,350,Asian American Religions,"III,V"
+CLASSICS,210,The World of Homer; with HUM 205,"IV,V,VI"
+CLASSICS,211,Greek History and Culture: From Homer to Alexander the Great,"IV,V,VI"
+CLASSICS,212,Rome: Culture and Empire,"IV,V,VI"
+CLASSICS,260,Classical Mythology,"V,VI"
+CLASSICS,370,Greek and Roman Religion,V
+COMP LIT,207,Introduction to Critical Theory; with PHIL 220,V
+ENGLISH,220,The Bible as Literature,"V,VI"
+ENGLISH,388,Studies in Literature and Religion,"V,VI"
+ENVR POL,261,"American Religion, Ecology, and Culture; with RELIGION 261",V
+FRENCH,277,French Existentialism,"V,VI"
+GEN LA,280-5,Residence-Linked Seminar - V,V
+GERMAN,232,The Theme of Faust through the Ages,"V,VI"
+GERMAN,234-1,Jews & Germans: An Intercultural History,"IV,V,VI"
+GERMAN,234-2,Jews & Germans: An Intercultural History,"IV,V,VI"
+GERMAN,236,Kafka and Nietzsche,"V,VI"
+GERMAN,272,Luther and the West; with RELIGION 272,"IV,V"
+GERMAN,337,Science and Culture in Germany (German prereq.),"IV,V"
+GBL HLTH,302,Global Bioethics,V
+GBL HLTH,321,War and Public Health,"III,V"
+GBL HLTH,324,Volunteerism and the Ethics of Help,V
+GNDR ST,233,"Gender, Politics, and Philosophy; with PHIL 221",V
+HISTORY,352,A Global History of Death and Dying,"IV,V"
+HUM,205,The World of Homer; with CLASSICS 210,"IV,V,VI"
+HUM,220,"Health, Biomedicine, Culture, and Society; with SOCIOL 220","III,V"
+HUM,260,Humanities Explorations,"V,VI"
+HUM,310-5,Global Humanites Lab,V
+HUM,325-5,Humanites in the Digital Age,V
+HUM,370-5,Special Topics in the Humanities,V
+ISEN,230,"Climate Change and Sustainability: Economic and Ethical
+Dimensions; with PHIL 270",V
+JWSH ST,210,Jewish Studies: An Overview,V
+JWSH ST,280-5,Topics in Israel Studies,V
+LATINO,342,Latina and Latino Social Movements,"III,V"
+LATINO,392,Topics in Latina and Latino Social and Political Issues,"III,V"
+LEGAL ST,309,Political Theories of the Rule of Law (taught with POLI SCI 309),V
+LING,221,Language and Prejudice,V
+LING,222,"Language, Politics, and Identity (with SLAVIC 222)","IV, V"
+MENA,290-5,Introductory Topics in Middle East and North African Studies,V
+MENA,390-5,Advanced Topics in Middle East and North African Studies,V
+PHIL,110,Introduction to Philosophy,V
+PHIL,210-1,The History of Philosophy - Ancient,V
+PHIL,210-2,The History of Philosophy - Medieval,V
+PHIL,210-3,The History of Philosophy - Early Modern,V
+PHIL,216,Introduction to Pragmatism,V
+PHIL,219,Introduction to Existentialism,V
+PHIL,220,Introduction to Critical Theory; with COMP LIT 207,V
+PHIL,221,"Gender, Politics, and Philosophy (PHIL 230 prior to Fall 2019); with
+GNDR ST 233",V
+PHIL,222,Introduction to Africana Philosophy,V
+PHIL,224,"Philosophy, Race, and Racism (PHIL 267 prior to Fall 2019)",V
+PHIL,240,Freedom and Responsibility,V
+PHIL,254,Introducton to Philosophy of the Natural Sciences,V
+PHIL,255,Theory of Knowledge,V
+PHIL,257,Philosophy of the Universe,V
+PHIL,259,Introduction to Metaphysics,V
+PHIL,260,Introduction to Moral Philosophy,V
+PHIL,261,Introduction to Political Philosophy,V
+PHIL,262,Ethical Problems and Public Issues,V
+PHIL,266,Philosophy of Religion,V
+PHIL,268,Ethics and the Environment,V
+PHIL,269,Bioethics,V
+PHIL,270,"Climate Change and Sustainability: Economic and Ethical
+Dimensions; with ISEN 230",V
+PHIL,273-1,The Brady Scholars Program: The Good Life,V
+PHIL,273-2,The Brady Scholars Program: The Moral Life,V
+PHIL,273-3,The Brady Scholars Program: The Good Society,V
+PHIL,326,Topics in Philosophy of Medicine,V
+PHIL,363,Kant's Moral Theory,V
+PHIL,364,Business and Professional Ethics,V
+POLI SCI,201,Introduction to Political Theory,"III,V"
+POLI SCI,301,Classical Political Theory,"IV,V"
+POLI SCI,302,"Subjects, Citizens, Revolutionaries: Early Modern Political Thought","IV,V"
+POLI SCI,303,Modernity and Its Discontents,V
+POLI SCI,304,Human Rights Between East and West,V
+POLI SCI,307,Deportation Law and Politics,V
+POLI SCI,309,Political Theories of the Rule of Law (taught with LEGAL ST 309),V
+POLI SCI,347,Ethics in International Relations,V
+POLI SCI,382,Politics of Religious Diversity,"III, V"
+PSYCH,249,Buddhist Psychology,"III, V"
+RELIGION,170,Introduction to Religion,V
+RELIGION,172,"Introduction to Religion, Media, and Culture",V
+RELIGION,173,"Religion, Medicine, and Suffering in the West",V
+RELIGION,200,Introduction to Hinduism,V
+RELIGION,210,Introduction to Buddhism,V
+RELIGION,220,Introduction to the Hebrew Bible,V
+RELIGION,221,Introduction to the New Testament,V
+RELIGION,230,Introduction to Judaism,V
+RELIGION,240,Introduction to Christianity,V
+RELIGION,250,Introduction to Islam,V
+RELIGION,260,Introduction to Native American Religions,V
+RELIGION,261,"American Religion, Ecology, and Culture; with ENVR POL 261",V
+RELIGION,264,American Religious History from 1865 to the Great Depression,"IV,V"
+RELIGION,265,American Religious History from World War II to the Present,"IV,V"
+RELIGION,270,Introduction to Theology,V
+RELIGION,271,Theology of Love,V
+RELIGION,272,Luther and the West; with GERMAN 272,"IV,V"
+RELIGION,275,Mysticism and Spirituality,V
+RELIGION,295,Ahimsa: Nonviolence in South Asia and Beyond,V
+RELIGION,301,Hindu Epics: the Mahābhārata,"V,VI"
+RELIGION,302,Hindu Epics: Rāmāyaṇa,V
+RELIGION,309,Topics in Hinduism,V
+RELIGION,312,Buddhism and Gender,V
+RELIGION,313,Tibetan Religion and Culture,V
+RELIGION,314,Buddhism in the Contemporary World,V
+RELIGION,315,Buddhist Auto/biography,"V,VI"
+RELIGION,316,Religion and the Body in China,V
+RELIGION,318,Topics in East Asian Religions,V
+RELIGION,319,Topics in Buddhism,V
+RELIGION,329,Topics in the Bible,V
+RELIGION,330,Varieties of Ancient Judaism,V
+RELIGION,332,Modern Jewish Thought,V
+RELIGION,333,Judaism in the Modern World,V
+RELIGION,339,Topics in Judaism,V
+RELIGION,342,Christian Mystical Theology,V
+RELIGION,344,"Blood, Sex and Justice: Issues in Christian Ethics",V
+RELIGION,345,The Idea of Sainthood in Christianity,V
+RELIGION,346,Church Architecture,V
+RELIGION,349,Topics in Christianity,V
+RELIGION,350,The Qur'an,V
+RELIGION,351,Islamic Law,V
+RELIGION,353,Trends in Islamic Thought,V
+RELIGION,354,Sufism,V
+RELIGION,359,Topics in Islam,V
+RELIGION,359-SA,Topics in Islam,V
+RELIGION,360,African American Religions,V
+RELIGION,363,Topics in Women and Religion in America,"IV,V"
+RELIGION,364,American Teenage Rites of Passage,V
+RELIGION,369,Topics in American Religion,V
+RELIGION,371,Religion and Film,V
+RELIGION,373,Religion and Bioethics,V
+RELIGION,374,Contemporary Religious Thought,V
+RELIGION,375,Foundations of Christian Thought (replaced 340-1),V
+RELIGION,376,Christianity and the Making of Modernity (replaced 340-2),V
+RELIGION,377,Christian Thought in Global Perspective  (replaced 340-3),V
+RELIGION,378,Death: Myth and Meaning,V
+RELIGION,379,Topics in Comparative Religion,V
+RELIGION,381,Global Catholicism in the Contemporary World,"IV,V"
+RELIGION,382,Catholicism and the Making of the Modern World,V
+RELIGION,383,Catholic Social Ethics,V
+RELIGION,384,Soundings in the Catholic Tradition,V
+RELIGION,385,Topics in U.S. Catholicism,"IV,V"
+RELIGION,386,Topics in Latin American Catholicism,"IV,V"
+RELIGION,395,Theories of Religion,V
+SLAVIC,222,"Language, Politics, and Identity (with LING 222)","IV, V"
+SLAVIC,260,Economics and the Humanities: Understanding Choice,"V, VI"
+SOCIOL,220,"Health, Biomedicine, Culture, and Society; with HUM 220","III,V"
+SOCIOL,321,"Numbers, Identity, and Modernity","III,V"
+ANTHRO,362,Advanced Methods in Quantitatitve Analysis,II
+BIOL_SCI,338,Modeling Biological Dynamics,II
+COG SCI,207,Introduction to Cognitive Modeling,II
+COMP_SCI,110,Introduction to Computer Programming,II
+COMP_SCI,111,Fundamentals of Computer Programming,II
+COMP_SCI,150,Fundamentals of Computer Programming 1.5,II
+CSD,304,Statistics in Communication Sciences and Disorders,II
+EARTH,361,Scientific Programming in Python,II
+EARTH,362,Data Analysis for Earth & Planetary Sciences,II
+GEN LA,280-2,Residence-Linked Seminar - II,II
+GEN MUS,252,Harmony,II
+GEN MUS,253,Form and Analysis,II
+LING,260,Formal Analysis of Words & Sentences,II
+LING,270,Meaning,II
+LING,334,Introduction to Computational Linguistics,II
+LING,341,Language Typology,II
+LING,342,Structure of Various Languages,II
+LING,360,Fundamentals of Syntax,II
+LING,370,Fundamentals of Meaning,II
+LING,371,Reference,II
+MATH,100,"Quantitative Reasoning (distribution requirement credit applies only to MATH 100-0 and not to the ungraded summer course, MATH 100-BR)",II
+MATH,110,Introduction to Mathematics,II
+MATH,202,Finite Mathematics,II
+MATH,211,Short Course in Calculus,II
+MATH,218-1,Single-Variable Calculus with Precalculus,II
+MATH,218-2,Single-Variable Calculus with Precalculus,II
+MATH,218-3,Single-Variable Calculus with Precalculus,II
+MATH,220-1,Single-Variable Differential Calculus,II
+MATH,220-2,Single-Variable Integral Calculus,II
+MATH,226-0,Sequences and Series,II
+MATH,228-1,Multivariable Differential Calculus for Engineering,II
+MATH,228-2,Multivariable Integral Calculus for Engineering,II
+MATH,327,Mechanics for Mathematicians,"I,II"
+MATH,,Completing any one course offered by the Department of Mathematics numbered 230-1 or higher with a grade of C- or better satisfies the Weinberg College Formal Studies (Area II) distribution requirement.,II
+NICO,101,Introduction to Programming for Big Data (0.67 units) -- see note below,II
+,102,Project for Introduction to Programming for Big Data (0.33 units).  NOTE: Students must complete both NICO 101 and 102 for 1 credit towards Formal Studies,
+PHIL,150,Elementary Logic I,II
+PHIL,151,Scientific Reasoning,II
+PHIL,250,Elementary Logic II,II
+PHYSICS,311-1,Mathematical Tools for the Physical Sciences - I,II
+PHYSICS,311-2,Mathematical Tools for the Physical Sciences - II,II
+POLI SCI,210,Introduction to Empirical Methods in Political Science,II
+POLI SCI,310,Methods of Political Inference,II
+POLI SCI,311,Logics of Political Inquiry,II
+POLI SCI,312,Statistical Research Methods,II
+PSYCH,201,Statistical Methods in Psychology,II
+PSYCH,380,Advanced Statistics & Experimental Design,II
+SLAVIC,341,Structure of Modern Russian,II
+SOCIOL,303,Analysis and Interpretation of Social Data,II
+SPANISH,281,Spanish Phonetics and Phonology,II
+STAT,202,Introduction to Statistics and Data Science,II
+STAT,210,Introductory Statistics for the Social Sciences,II
+STAT,228,Series and Multiple Integrals,II
+STAT,232,Applied Statistics,II
+STAT,,"Any 300-level Statistics course (except 390, 398, or 399) can count as one credit of the Area II requirement.",II
+AF AM ST,210,Survey of African American Literature,VI
+AF AM ST,211,Literatures of the Black World,VI
+AF AM ST,225,African American Culture,VI
+AF AM ST,259,Introduction to African American Drama,VI
+AF AM ST,261,Queer Literatures in the African Diaspora,VI
+AF AM ST,327,Politics of Black Popular Culture,"III,VI"
+AF AM ST,331,The African American Novel,VI
+AF AM ST,360,Major Authors,VI
+AF AM ST,378,The Harlem Renaissance,VI
+AF AM ST,379,Black Women Writers,VI
+AF ST,276,African Literature in Translation; with COMP LIT 276,VI
+ARABIC,316-1,Reading Arabic Poetry (Arabic prereq),VI
+ARABIC,316-2,Reading Classical Arabic Texts (Arabic prereq),VI
+ARABIC,316-3,Reading Modern Arabic Prose (Arabic prereq),VI
+ART,270,Contemporary Art Survey,VI
+ART,272,Critical Methods for Contemporary Art,VI
+ART HIST,210,Introduction to Art History,"IV,VI"
+ART HIST,220,Introduction to African Art,VI
+ART HIST,222,Introduction to Art of the African Diaspora,"IV,VI"
+ART HIST,224,Introduction to Ancient Art,"IV,VI"
+ART HIST,225,Introduction to Medieval Art,"IV,VI"
+ART HIST,228,Introduction to Pre-Columbian Art,VI
+ART HIST,230,Introduction to American Art,VI
+ART HIST,232,Introduction to the History of Architecture and Design,VI
+ART HIST,235,Introduction to Latin American Art,VI
+ART HIST,240,Introduction to Asian Art,VI
+ART HIST,250,Introduction to European Art,"IV,VI"
+ART HIST,255,Introduction to Modernism,"IV,VI"
+ART HIST,260,Introduction to Contemporary Art,VI
+ART HIST,310-1,Ancient Art: Greece,VI
+ART HIST,310-2,Ancient Art,VI
+ART HIST,318,"Exhibiting Antiquity: The Culture and Politics of Display; with
+CLASSICS 397 and HUM 397","IV,VI"
+ART HIST,320-1,Medieval Art: Byzantine,"IV,VI"
+ART HIST,320-2,Medieval Art: Early Medieval,VI
+ART HIST,320-3,Medieval Art: Late Medieval,"IV,VI"
+ART HIST,330-1,Renaissance Art c. 1300-1550 (High Renaissance),VI
+ART HIST,330-2,Renaissance Art and Mannerism: Southern European Art 1400-1600,VI
+ART HIST,330-3,Renaissance Art and Mannerism: Northern European Art 1400-1600,VI
+ART HIST,340-1,Baroque Art: Southern Europe 1600-1700,"IV,VI"
+ART HIST,340-2,Baroque Art: Northern Europe 1600-1700,"IV,VI"
+ART HIST,350-1,19th-Century Art: Late 18th Century-1848,VI
+ART HIST,350-2,19th-Century Art: 1848-1900,VI
+ART HIST,360-1,20th-Century European Art,VI
+ART HIST,360-2,20th-Century European Art,VI
+ART HIST,365-1,American Art I,VI
+ART HIST,365-2,American Art II,VI
+ART HIST,370-1,Modern Architecture and Design,VI
+ART HIST,370-2,Contemporary Architecture and Design,VI
+ART HIST,372-1,Japanese Art,VI
+ART HIST,375,Media Theory; with HUM 225,VI
+ART HIST,378,The Global City,VI
+ART HIST,380-1,Tibetan Buddhist Art 1,VI
+ART HIST,380-2,Tibetan Buddhist Art 2,VI
+ART HIST,382-1,Chinese Painting,VI
+ART HIST,384,African American Art,VI
+ART HIST,385,Black Visual Culture: Race and Representation,VI
+ART HIST,386,Art of Africa,VI
+ART HIST,395,Museums,VI
+ASIAN AM,247,Asian Americans and Popular Culture,VI
+ASIAN AM,275,Introduction to Asian American Literature; with ENGLISH 275,VI
+ASIAN AM,276,Topics in Litereary and Cultural Studies,VI
+ASIAN AM,376,Advanced Topics in Litereary and Cultural Studies,VI
+ASIAN AM,377,The American Century in Asia,VI
+ASIAN AM,380,Studies in Arts and Performance,VI
+ASIAN LC,200,Introductory Topics in Chinese Literature and Culture,VI
+ASIAN LC,202,Introduction to Modern Chinese Literature and Culture,VI
+ASIAN LC,204,Modern Chinese Popular Culture I,VI
+ASIAN LC,205,Modern Chinese Popular Culture II,VI
+ASIAN LC,220,Introductory Topics in Japanese Literature and Culture,VI
+ASIAN LC,221,Introduction to Premodern Japanese Literature and Culture,VI
+ASIAN LC,222,Introduction to Modern Japanese Literature and Culture,VI
+ASIAN LC,223,Introduction to Contemporary Japanese Literature and Culture,VI
+ASIAN LC,224,"Introduction to Japanese Film, Media, and Visual Culture",VI
+ASIAN LC,240,Introductory Topics in Korean Literature and Culture,VI
+ASIAN LC,260,Introductory Topics in South Asian Literature and Culture,VI
+ASIAN LC,261,South Asian Popular Cultures,VI
+ASIAN LC,265,South Asian Cinemas,VI
+ASIAN LC,290,Introductory Topics in Asian Languages and Cultures,VI
+ASIAN LC,300,Advanced Topics in Chinese Literature and Culture,VI
+ASIAN LC,320,Advanced Topics in Japanese Literature and Culture,VI
+ASIAN LC,321,Advanced Topics in Premodern Japanese Literature and Culture,VI
+ASIAN LC,322,"Advanced Topics in Modern and Contemporary Japanese Literature
+and Culture",VI
+ASIAN LC,340,Advanced Topics in Korean Literature and Culture,VI
+ASIAN LC,360,Advanced Topics in South Asian Literature and Culture,VI
+ASIAN LC,370,Literary Cultures in South Asia,VI
+ASIAN LC,373,Religious and Textural Traditions in South Asia,VI
+ASIAN LC,375,South Asian Societies,VI
+ASIAN LC,390,Advanced Topics in Asian Languages and Cultures,VI
+ASIAN LC,392,"Advanced Studies in Asian Film, Media, and Visual Culture",VI
+ASIAN LC,393,Asian Environmental Humanities,VI
+ASIAN LC,394,Space and Place in Asian Literatures and Cultures,VI
+ASIAN LC,395,Genre in Asian Literatures,VI
+CFS,398,"Field Studies in Humanities (variable credit course; 1 unit can count
+toward distribution requirements)",VI
+CLASSICS,210,The World of Homer ;  with HUM 205,"IV,V,VI"
+CLASSICS,211,Greek History and Culture; From Homer to Alexander the Great,"IV,V,VI"
+CLASSICS,212,Rome: Culture and Empire,"IV,V,VI"
+CLASSICS,245,Classics and the Cinema,VI
+CLASSICS,250,Literatures of the Ancient World,VI
+CLASSICS,260,Classical Mythology,"V,VI"
+CLASSICS,310,Archaeology of the Ancient Mediterranean,"IV,VI"
+CLASSICS,340,Greek and Roman Drama,VI
+CLASSICS,350,Greek and Latin Literature,VI
+CLASSICS,380,Classical Reception Studies,"IV,VI"
+CLASSICS,397,"Exhibiting Antiquity: The Culture and Politics of Display; with ART
+HIST 318 and HUM 397","IV,VI"
+COMP LIT,200,Introduction to Literary Theory,VI
+COMP LIT,201,Reading World Literature,VI
+COMP LIT,202,Interpreting Culture,VI
+COMP LIT,205,Reading Difference,VI
+COMP LIT,211,Readings in Genre,VI
+COMP LIT,270,Literatures in Translation,VI
+COMP LIT,300,Theories and Practices of Reading,VI
+COMP LIT,301,Studies in World Literature,VI
+COMP LIT,302,Reading Across Disciplines,VI
+COMP LIT,303,Movements and Periods,VI
+COMP LIT,305,"Studies in Film, Media & Visual Culture",VI
+COMP LIT,306,Studies in Race and Ethnicity,VI
+COMP LIT,307,"Studies in Gender, Sexuality, and Representation",VI
+COMP LIT,312,Major Authors & Texts,VI
+ENGLISH,210-1,British Literary Traditions,VI
+ENGLISH,210-2,British Literary Traditions,VI
+ENGLISH,211,Introduction to Poetry,VI
+ENGLISH,212,Introduction to Drama,VI
+ENGLISH,213,Introduction to Fiction,VI
+ENGLISH,214,Introduction to Film and Its Literatures,VI
+ENGLISH,220,The Bible as Literature,"V,VI"
+ENGLISH,234,Introduction to Shakespeare,VI
+ENGLISH,270-1,American Literary Traditions,VI
+ENGLISH,270-2,American Literary Traditions,VI
+ENGLISH,273,Introduction to 20th-Century American Literature,VI
+ENGLISH,274,Introduction to Native American and Indigenous Literatures,VI
+ENGLISH,275,Introduction to Asian American Literature; with ASIAN AM 275,VI
+ENGLISH,277,"Introduction to Latina and Latino Literature; with LATINO 277 and
+SPANISH 277",VI
+ENGLISH,302,History of the English Language,"IV, VI"
+ENGLISH,310,Studies in Literary Genres,VI
+ENGLISH,311,Studies in Poetry,VI
+ENGLISH,312,Studies in Drama,VI
+ENGLISH,313,Studies in Fiction,VI
+ENGLISH,320,Medieval English Literature,VI
+ENGLISH,322,Medieval Drama,VI
+ENGLISH,323-1,Chaucer,VI
+ENGLISH,323-2,Chaucer,VI
+ENGLISH,324,Studies in Medieval Literature,VI
+ENGLISH,331,Renaissance Poetry,VI
+ENGLISH,332,Renaissance Drama,VI
+ENGLISH,333,Spenser,VI
+ENGLISH,334-1,Shakespeare,VI
+ENGLISH,334-2,Shakespeare,VI
+ENGLISH,335,Milton,VI
+ENGLISH,338,Studies in Renaissance Literature,VI
+ENGLISH,339,Special Topics in Shakespeare,VI
+ENGLISH,340,Restoration & 18th-Century Literature,VI
+ENGLISH,341,Restoration & 18th-Century Poetry,VI
+ENGLISH,342,Restoration & 18th-Century Drama,VI
+ENGLISH,344,18th-Century Fiction,VI
+ENGLISH,348,Studies in Restoration and 18th-Century Literature,VI
+ENGLISH,350,19th-Century British Literature,VI
+ENGLISH,351,Romantic Poetry,VI
+ENGLISH,353,Studies in Romantic Literature,VI
+ENGLISH,356,Victorian Poetry,VI
+ENGLISH,357,19th-Century British Fiction,VI
+ENGLISH,358,Dickens,VI
+ENGLISH,359,Studies in Victorian Literature,VI
+ENGLISH,360,20th-Century British & American Literature,VI
+ENGLISH,361-1,20th-Century Poetry,VI
+ENGLISH,361-2,20th-Century Poetry,VI
+ENGLISH,363-1,20th-Century Fiction,VI
+ENGLISH,363-2,20th-Century Fiction,VI
+ENGLISH,365,Studies in Postcolonial Literature,VI
+ENGLISH,366,Studies in African American Literature,VI
+ENGLISH,367,Postwar British Fiction,VI
+ENGLISH,368,Studies in 20th-Century Literature,VI
+ENGLISH,368-SA,Studies in 20th-Century Literature,VI
+ENGLISH,369,Studies in African Literature,VI
+ENGLISH,370,American Literature before 1914,VI
+ENGLISH,371,American Novel,VI
+ENGLISH,372,American Poetry,VI
+ENGLISH,374,Topics in Native American and Indigenous Literatures,VI
+ENGLISH,375,Topics in Asian American Literature,VI
+ENGLISH,377,Topics in Latina and Latino Literature,VI
+ENGLISH,378,Studies in American Literature,VI
+ENGLISH,381,Literature & Medicine,VI
+ENGLISH,383,Special Topics in Theory,VI
+ENGLISH,385,Topics in Combined Studies,VI
+ENGLISH,386,Studies in Literature and Film,VI
+ENGLISH,387,Studies in Literature and Commerce,VI
+ENGLISH,388,Studies in Literature and Religion,"V,VI"
+FRENCH,210,Reading Literatures in French (French prereq.),VI
+FRENCH,211,Reading Cultures in French (French prereq.),VI
+FRENCH,271,Introducing the Novel (French prereq.),VI
+FRENCH,272,Introducting Theatre (French prereq.),VI
+FRENCH,277,French Existentialism,"V,VI"
+FRENCH,279,Theater in Translation,VI
+FRENCH,310,The Middle Ages and Renaissance (French prereq),VI
+FRENCH,322,Medieval French Narratives (French prereq),VI
+FRENCH,333,Topics in Renaissance Literature (French prereq),VI
+FRENCH,334,Montaigne and Modernity (French prereq),VI
+FRENCH,335,17th-Century Literature (French prereq),VI
+FRENCH,340,Sexual Politics and the Ancien Regime (French prereq),VI
+FRENCH,344,Rousseau and the French Revolution (French prereq),VI
+FRENCH,346,Studies in the Enlightenment (French prereq),VI
+FRENCH,350,The Novel in French (French prereq),VI
+FRENCH,355,The Invention of Modernity (French prereq),VI
+FRENCH,360,"From Modernism to Postmodernism: Experiments in Narrative Form
+(French prereq)",VI
+FRENCH,362,African Literatures and Cultures (French prereq),VI
+FRENCH,364,Caribbean Literatures and Cultures (French prereq),VI
+FRENCH,365,The Maghreb and the Middle East (French prereq),VI
+FRENCH,367,Transnational Francophone Studies (French prereq),VI
+FRENCH,371,"Giants, Cannibals, and Critique in the Renaissance",VI
+FRENCH,374,Proust,VI
+FRENCH,375,French Film,VI
+FRENCH,376,Gender and Sexuality,VI
+FRENCH,378,Contemporary Theory,VI
+FRENCH,379,Topics in French Literature and Culture,VI
+FRENCH,380,Political and Social Thought in France (French prereq),VI
+FRENCH,384,Women Writing in French (French prereq),VI
+FRENCH,386,Gender and Writing (French prereq),VI
+FRENCH,390,Topics in Literature and Culture (French prereq),VI
+FRENCH,390-SA,Topics in Literature and Culture (French prereq),VI
+FRENCH,395,Advanced Studies in Culture and Thought (French prereq),VI
+GEN LA,280-6,Residence-Linked Seminar - VI,VI
+GEN MUS,170,Introduction to Music,VI
+GEN MUS,175,Selected Topics in Music Literature for Non-Majors,VI
+GEN MUS,220,History of the Symphony,VI
+GEN MUS,230,History of Opera,VI
+GEN MUS,250,History of Rock,VI
+GEN MUS,270-1,The Western Musical Tradition,VI
+GEN MUS,270-2,The Western Musical Tradition,VI
+GERMAN,211,German Culture through Film (German prereq),VI
+GERMAN,221-1,Introduction to Literature: 1800-1900 (German prereq),VI
+GERMAN,221-2,Introduction to Literature: 1900-1945 (German prereq),VI
+GERMAN,221-3,Introduction to Literature: 1945-today (German prereq),VI
+GERMAN,223,Austrian Literature (German prereq),VI
+GERMAN,226,New Voices in German Literature,VI
+GERMAN,228,German Film,VI
+GERMAN,230,Berlin and the Culture of Democracy,"IV,VI"
+GERMAN,232,The Theme of Faust through the Ages,"V,VI"
+GERMAN,234-1,Jews & Germans: An Intercultural History I,"IV,V,VI"
+GERMAN,234-2,Jews & Germans: An Intercultural History II,"IV,V,VI"
+GERMAN,236,Kafka and Nietzsche,"V,VI"
+GERMAN,238,Turn-of-the-Century Vienna,VI
+GERMAN,242,"Imagining Modern Jewish Culture in German and Yiddish; with JWSH
+ST 242",VI
+GERMAN,244,Analyzing Freud,VI
+GERMAN,245,Special Topics in German Literature & Culture (German prereq),VI
+GERMAN,266,"Introduction to Yiddish Culture: Images of the Shtetl; with JWSH ST &
+YIDDISH 266",VI
+GERMAN,321-1,"Reason, Revolution, & Despair: 1800-1900 (German prereq)","IV,VI"
+GERMAN,321-2,Myth & Modernity: 1900-1945 (German prereq),"IV,VI"
+GERMAN,321-3,Recoveries & Transitions: 1945 to Present (German prereq),"IV,VI"
+GERMAN,322,German Contributions to World Literature,VI
+GERMAN,323,Rhyme and Reason in German Poetry (German prereq),VI
+GERMAN,324,Modern German Drama,VI
+GERMAN,327,German Expressionism (German prereq),VI
+GERMAN,329,"Brecht: Theater, Film, and Media (German prereq)",VI
+GERMAN,331,Shattered Worlds: Representation after the Shoa (German prereq),VI
+GERMAN,333,Literature of a Divided Nation (German prereq),VI
+GERMAN,334,Writers and their Critics,VI
+GERMAN,335,Minority Voices in Germany (German prereq),VI
+GERMAN,366,"Yiddish Culture and the Holocaust; with JWSH ST 366 and YIDDISH
+366",VI
+GNDR ST,231,"Gender, Sexuality, and Representation; with COMP LIT 205",VI
+GNDR ST,350-6,Research Seminar in Gender and Sexuality Studies,VI
+GNDR ST,361,"Gender, Sexuality, and Literature",VI
+GNDR ST,362,"Gender, Sexuality, and Drama",VI
+GNDR ST,363,Postcolonial Studies and Gender and Sexuality,VI
+GNDR ST,372,"Gender, Sexuality, and Performance",VI
+GNDR ST,373,"Gender, Sexuality, and Film",VI
+GNDR ST,374,"Gender, Sexuality, and Digital Technologies",VI
+GNDR ST,381,Queer Theory,VI
+GNDR ST,382,"Race, Gender, and Sexuality",VI
+GREEK,301,Readings in Greek Literature (Greek prereq.),VI
+HEBREW,216-1,Hebrew III: Topics in Hebrew Literature (Hebrew prereq),VI
+HEBREW,216-2,Hebrew III: Topics in Hebrew Literature (Hebrew prereq),VI
+HEBREW,216-3,Hebrew III: Topics in Hebrew Literature (Hebrew prereq),VI
+HEBREW,316-1,Hebrew IV: Advanced Topics in Hebrew Literature (Hebrew prereq),VI
+HEBREW,316-2,Hebrew IV: Advanced Topics in Hebrew Literature (Hebrew prereq),VI
+HEBREW,316-3,Hebrew IV: Advanced Topics in Hebrew Literature (Hebrew prereq),VI
+HUM,205,The World of Homer ; with CLASSICS 210,"IV,V,VI"
+HUM,210,Humanities in the World I,VI
+HUM,225,Media Theory; with ART HIST 375,VI
+HUM,260,Humanities Explorations,"V,VI"
+HUM,310-6,Global Humanities Lab,VI
+HUM,325-6,Humanites in the Digital Age,VI
+HUM,370-6,Special Topics in the Humanities,VI
+HUM,397,"Exhibiting Antiquity: The Culture and Politics of Display; with ART
+HIST 318 and CLASSICS 397","IV,VI"
+ITALIAN,202,Italian through Performance (Italian prereq),VI
+ITALIAN,204,Introduction to Italian Literature (Italian prereq),VI
+ITALIAN,230,Italian Theatre and Performance,VI
+ITALIAN,250,Topics in Italian Culture and Literature,VI
+ITALIAN,251,Introduction to Italian Cinema,VI
+ITALIAN,265,Body & Soul from Rome to the Renaissance,"IV,VI"
+ITALIAN,270,Michelangelo and the Italian Renaissance,"IV,VI"
+ITALIAN,275,Dante's Divine Comedy,VI
+ITALIAN,277,Global Neorealism,VI
+ITALIAN,306,Migrations (Italian prereq),VI
+ITALIAN,310,Reading Italian Literature (Italian prereq),VI
+ITALIAN,347,Italy in Art and Literature (Italian prereq),VI
+ITALIAN,348,The Italian Novella  (Italian prereq),VI
+ITALIAN,349,Topics in Italian Culture and Literature (Italian prereq),VI
+ITALIAN,350,Advanced Topics in Italian Culture and Literature,VI
+ITALIAN,351,Italian Film and Transnational Cinema,VI
+ITALIAN,360,From the Avant-Garde to the Postmodern,VI
+ITALIAN,374,Love and Sexuality in the Early Modern Period,VI
+ITALIAN,377,Gender and Sexuality in Italian Culture,VI
+JAPANESE,310,"Japanese IV: Special Topics in Reading Japanese Literature in Japanse
+(Japanese prereq)",VI
+JAPANESE,311-1,"Japanese IV: Reading Modern Japanese Literature in Japanese
+(Japanese prereq)",VI
+JWSH ST,242,"Imagining Modern Jewish Culture in German and Yiddish; with
+GERMAN 242",VI
+JWSH ST,266,"Introduction to Yiddish Culture: Images of the Shtetl; with GERMAN
+266 & YIDDISH 266",VI
+JWSH ST,278,Modern Hebrew Literature in Translation,VI
+JWSH ST,279,Modern Jewish Literature,VI
+JWSH ST,280-6,Topics in Israel Studies,VI
+JWSH ST,350,Representing the Holocaust in Literature and Film,VI
+JWSH ST,366,Yiddish Culture and the Holocaust; with GERMAN 366 & YIDDISH 366,VI
+JWSH ST,379,Storytelling in American Jewish Literature,VI
+JWSH ST,396,Topics in Modern Jewish Culture,VI
+LATIN,310,Readings in Latin Literature (Latin prereq),VI
+LATINO,203,Introduction to Latina and Latino Cultural Studies,VI
+LATINO,277,"Introduction to Latina and Latino Literature; with ENGLISH 277 and
+SPANISH 277",VI
+LATINO,393,Topics in Latina and Latino Text and Representation,VI
+MENA,200,"Making the Modern Middle East: Culture, Politics, History","III,VI"
+MENA,290-6,Introductory Topics in Middle East and North African Studies,VI
+MENA,390-6,Advanced Topics in Middle East and North African Studies,VI
+MUSICOL,323,Topics in Ethnomusicology,VI
+MUSICOL,329,Topics in Middle Eastern Music,VI
+MUSICOL,330,Russian Fairy Tale and Opera,VI
+MUSICOL,331,Orientalism and Music,VI
+MUSICOL,335,Selected Topics in Musicology,VI
+MUSICOL,335-SA,Selected Topics in Musicology,VI
+MUSICOL,339,Music and Gender,VI
+MUSICOL,341,Music and the Visual Arts,VI
+MUSICOL,342,Authenticity,VI
+MUSICOL,350,Topics in Medieval Music,VI
+MUSICOL,351,Topics in 16th Century Music,VI
+PERF ST,103,Analysis and Performance of Literature,VI
+PERF ST,200,Introduction to Performance Studies,VI
+PERF ST,301,Peformance and Activism in Digital Culture,VI
+PERF ST,303,Transnational Flows of Performance,VI
+PERF ST,304,Sonic Practices of the Middle East and North Africa,VI
+PERF ST,305,Performance Theory,VI
+PHIL,280,Introduction to the Philosophy of Art,VI
+POLISH,358-1,Polish for Advanced & Native Speakers (Polish prereq.),VI
+POLISH,358-2,Polish for Advanced & Native Speakers (Polish prereq.),VI
+PORT,210,"Icons, Legends, and Myths in Brazil  (may have Portuguese prereq.)","IV,VI"
+PORT,380,Contemporary Brazil: Literature and Film,VI
+PORT,396,Topics in Lusophone Cultures,VI
+RTVF,220,Analyzing Media Texts,VI
+RTVF,312-1,History of Film I,VI
+RTVF,312-2,History of Film II,VI
+RTVF,313-1,Documentary Film: History and Criticism,VI
+RTVF,313-2,Documentary Film and Video,VI
+RTVF,321,Radio/Television/Film Authorship,VI
+RTVF,322,Radio/Television/Film Genre,VI
+RTVF,326,Film and TV Criticism,VI
+RTVF,351,National Cinema,VI
+RELIGION,301,Hindu Epics:  Mahābhārata,"V,VI"
+RELIGION,315,Buddhist Auto/biography,"V,VI"
+RUSSIAN,359-0,Russian Prose (Russian prereq.),VI
+SLAVIC,210-1,Introduction to Russian Literature,VI
+SLAVIC,210-2,Introduction to Russian Literature,VI
+SLAVIC,210-3,Introduction to Russian Literature,VI
+SLAVIC,211-1,20th-Century Russian Literature,VI
+SLAVIC,211-2,20th-Century Russian Literature,VI
+SLAVIC,260,Economics and the Humanities: Understanding Choice,"V,VI"
+SLAVIC,267,"Czech Culture: Film, Visual Arts, Music",VI
+SLAVIC,278-1,Visual Art in the Context of Russian Culture,VI
+SLAVIC,278-2,Visual Art in the Context of Russian Culture,VI
+SLAVIC,310,Tolstoy,VI
+SLAVIC,311,Dostoevsky,VI
+SLAVIC,314,Chekhov,VI
+SLAVIC,360,Survey of 19th-Century Russian Poetry (Russian prereq.),VI
+SLAVIC,361,Survey of 20th-Century Russian Poetry (Russian prereq.),VI
+SLAVIC,367-1,Russian Film,VI
+SLAVIC,367-2,Russian Film,VI
+SLAVIC,368,Andrei Tarkovsky's Aesthetics & World Cinema,VI
+SLAVIC,369,Two Hundred Years of Russian Drama,VI
+SLAVIC,390,Literature & Politics in Central and Eastern Europe,"IV,VI"
+SLAVIC,392,East European Literature and Visual Arts,VI
+SLAVIC,393,"Prague: City of Cultures, City of Conflict","IV,VI"
+SLAVIC,396,Topics in Literature and Arts,VI
+SPANISH,210,"Icons, Legends, & Myths in Latin Amrican, Latino, and/or Iberian
+Cultures (Spanish prereq)",VI
+SPANISH,223,Cervantes,VI
+SPANISH,231,"The ""New"" Latin American Narrative",VI
+SPANISH,232,Discovering Jewish Latin America,VI
+SPANISH,250,Literature in Spain before 1700 (Spanish prereq),VI
+SPANISH,251,Literature in Spain since 1700 (Spanish prereq),VI
+SPANISH,260,Literature in Latin America before 1888 (Spanish prereq),VI
+SPANISH,261,Literature in Latin America since 1888 (Spanish prereq),VI
+SPANISH,277,"Introduction to Latina and Latino Literature; with ENGLISH 277 and
+LATINO 277",VI
+SPANISH,301,Topics in Language (Spanish prereq),VI
+SPANISH,310,Origins of Spanish Civilization (Spanish prereq),VI
+SPANISH,320,Golden Age of Poetry and Prose (Spanish prereq),VI
+SPANISH,321,Golden Age Drama (Spanish prereq),VI
+SPANISH,323,Cervantes' Don Quixote (Spanish prereq),VI
+SPANISH,331,Realism in Spain: The Problem of Representation (Spanish prereq),VI
+SPANISH,335,Modern Fiction in Spain: Studies in Genre (Spanish prereq),VI
+SPANISH,340,Colonial Latin American Literature (Spanish prereq),VI
+SPANISH,341,Latin American Modernisimo (Spanish prereq),VI
+SPANISH,342,Race and Representation in Latin America,VI
+SPANISH,343,Latin American Avant-Gardes (Spanish prereq),VI
+SPANISH,344,Borges (Spanish prereq),VI
+SPANISH,345,"Reading the ""Boom"" (Spanish prereq)",VI
+SPANISH,346,Testimonial Narrative in Latin America (Spanish prereq),VI
+SPANISH,347,Literature and Revolution in Latin America (Spanish prereq),VI
+SPANISH,348,Readings in Latin American Short Fiction (Spanish prereq),VI
+SPANISH,350,Visual Culture in Latin/o America and Spain (Spanish prereq),VI
+SPANISH,360,Spain: Studies in Culture and Society (Spanish prereq),VI
+SPANISH,361,Latin America: Studies in Culture and Society (Spanish prereq),VI
+SPANISH,362,Citizenship and Urban Violence in Latin America,VI
+SPANISH,363,"Topics in U.S. Latina/o Literary and Cultural Studies (Spanish
+prereq)","III,VI"
+SPANISH,364,Cultural Borders / Border Cultures,VI
+SPANISH,380,"Topics in Film: The Silver Screen in Latin America and/or Spain
+(Spanish prereq)",VI
+SPANISH,380-SA,"Topics in Film: The Silver Screen in Latin America and/or Spain
+(Spanish prereq)",VI
+SPANISH,395,"Topics in Latin American, Latina and Latino, and/or Iberian Cultures
+(Spanish prereq)",VI
+SPANISH,395-SA,"Topics in Latin American, Latina and Latino, and/or Iberian Cultures
+(Spanish prereq)",VI
+SPANISH,397,"Topics in Latin American, Latina and Latino, and/or Iberian
+Literatures and Cultures",VI
+SWAHILI,216-1,Introduction to Swahili Literature (Swahili prereq),VI
+SWAHILI,216-2,Introduction to Swahili Literature (Swahili prereq),VI
+SWAHILI,216-3,Introduction to Swahili Literature (Swahili prereq),VI
+YIDDISH,266,"Introduction to Yiddish Culture: Images of the Shtetl; with GERMAN
+266 & JWSH ST 266",VI
+YIDDISH,366,"Yiddish Culture and the Holocaust; with GERMAN 366 & JWSH ST
+366",VI
