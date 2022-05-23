@@ -1,8 +1,9 @@
 # This is a sample Python script.
-from flask import Flask, render_template
+from flask import Flask, render_template, request
 import pandas as pd
 import numpy as np
 from sklearn.neighbors import NearestNeighbors
+import json
 
 # Press ⇧F10 to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
@@ -52,9 +53,12 @@ def make_recommendation(course_df, k, x):
 
 app = Flask(__name__)
 @app.route('/')
-@app.route('/home')
+@app.route('/home', methods=["GET", "POST"])
 def predict():
+    output = request.form.to_dict()
+    print(output)
     recommendations = []
+    times = []
     distributions = ['II', 'III']
     course_info = pd.read_csv('Northwestern_course_information_new.csv')
 
@@ -99,15 +103,22 @@ def predict():
                 while(i < len(predictions) & (compare_schedule(course_info, recommendations, predictions.index[i]) == 0 or predictions.index[i] in recommendations)):
                     i += 1
                 recommendations.append(predictions.index[i])
+                info = course_info[course_info['ClassName'] == predictions.index[i]].reset_index(drop=True)
+                start = info['start time'].to_string(index=False)
+                end = info['end time'].to_string(index=False)
+                date = info['date'].to_string(index=False)
+                times.append(date + ': ' + start + '-' + end)
+                print("INFO:", info)
     print("Recommendations:", recommendations)
-    return render_template('index.html', result=recommendations)
-@app.route('/system', methods=['POST', 'GET'])
+    return render_template('index.html', result=recommendations, times=times)
+@app.route('/rating', methods=['POST', 'GET'])
 def home():
-    return render_template("index.html")
+    return render_template("rating.html")
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-
+    with open('data.json', 'w') as f:
+        json.dump({"CS101":9},f)
     app.run(debug=True)
     # print(prediction)
 

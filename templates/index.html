@@ -5,11 +5,23 @@
         <link rel="stylesheet" href="../static/styles/main.css" />
     </head>
     <body>
-        <h1>Welcome to the Recommendation System!</h1>
-        <h2>this is your result : {{result}}</h2>
-        <div>
-            <h2>this is a box</h2>
+        <nav>
+            <a>Home</a>
+            <a>Ratings</a>
+        </nav>
 
-        </div>
+        <h2>This is your result : {{result}}</h2>
+        <section>
+            <h1>Welcome to the Recommendation System!</h1>
+            <h2>Recently Taken Courses</h2>
+
+            <h2>Our Recommendations For You</h2>
+                {% for course in result %}
+                    <div class="course_name">
+                        <p class="results">{{result[loop.index-1]}}</p>
+                        <p class="times">{{times[loop.index-1]}}</p>
+                    </div>
+                {% endfor %}
+        </section>
     </body>
 </html>
